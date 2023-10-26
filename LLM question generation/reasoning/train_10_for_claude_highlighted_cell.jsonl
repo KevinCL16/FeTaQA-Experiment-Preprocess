@@ -1,0 +1,225 @@
+[
+{
+    "table_page_title": "Holland-class offshore patrol vessel",
+    "table_section_title": "Ships in class",
+    "table": [
+        "[ROW] Pennant number | Ship | Laid down | Launched | Commissioned",
+        "[ROW] P840 | Holland | 8 December 2008 | 2 February 2010 | 6 July 2012",
+        "[ROW] P841 | Zeeland | 5 October 2009 | 20 November 2010 | 23 August 2013",
+        "[ROW] P842 | Friesland | 26 November 2009 | 4 November 2010 | 22 January 2013",
+        "[ROW] P843 | Groningen | 9 April 2010 | 21 April 2011 | 29 November 2013"
+    ],
+    "question": "When was Groningen built and put into service?",
+    "answer": "Groningen was laid down on 9 April 2010, launched on 21 April 2011 and commissioned on 29 November 2013.",
+    "id": 1,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "The information from crucial table cells is: \nIn the 'Ship' column: \n- Groningen\nIn the 'Laid down' column:  \n- Groningen was laid down on 9 April 2010\nIn the 'Launched' column:\n- Groningen was launched on 21 April 2011 \nIn the 'Commissioned' column: \n- Groningen was commissioned on 29 November 2013"
+},
+{
+    "table_page_title": "1964 Giro d'Italia",
+    "table_section_title": "Route and stages",
+    "table": [
+        "[ROW] Stage | Date | Course | Distance | Type | Type | Winner",
+        "[ROW] 1 | 16 May | Bolzano to Riva del Garda | 173 km (107 mi) | - | Plain stage | Vittorio Adorni (ITA)",
+        "[ROW] 2 | 17 May | Riva del Garda to Brescia | 146 km (91 mi) | - | Plain stage | Michele Dancelli (ITA)",
+        "[ROW] 3 | 18 May | Brescia to San Pellegrino Terme | 193 km (120 mi) | - | Stage with mountain(s) | Franco Bitossi (ITA)",
+        "[ROW] 4 | 19 May | San Pellegrino Terme to Parma | 189 km (117 mi) | - | Plain stage | Vito Taccone (ITA)",
+        "[ROW] 5 | 20 May | Parma to Busseto | 50 km (31 mi) | - | Individual time trial | Jacques Anquetil (FRA)",
+        "[ROW] 6 | 21 May | Parma to Verona | 100 km (62 mi) | - | Plain stage | Vendramino Bariviera (ITA)",
+        "[ROW] 7 | 22 May | Verona to Lavarone | 168 km (104 mi) | - | Stage with mountain(s) | Angelino Soler (ESP)",
+        "[ROW] 8 | 23 May | Lavarone to Pedavena | 183 km (114 mi) | - | Stage with mountain(s) | Marcello Mugnaini (ITA)",
+        "[ROW] 9 | 24 May | Feltre to Marina di Ravenna | 260 km (162 mi) | - | Plain stage | Pietro Zoppas (ITA)",
+        "[ROW] 10 | 25 May | Marina di Ravenna to San Marino (San Marino) | 135 km (84 mi) | - | Stage with mountain(s) | Rolf Maurer (SUI)",
+        "[ROW] 11 | 26 May | Rimini to San Benedetto del Tronto | 185 km (115 mi) | - | Plain stage | Raffaele Marcoli (ITA)",
+        "[ROW] 12 | 27 May | San Benedetto del Tronto to Roccaraso | 257 km (160 mi) | - | Stage with mountain(s) | Walter Boucquet (BEL)",
+        "[ROW] 13 | 28 May | Roccaraso to Caserta | 188 km (117 mi) | - | Plain stage | Giorgio Zancanaro (ITA)",
+        "[ROW] 14 | 29 May | Caserta to Castel Gandolfo | 210 km (130 mi) | - | Plain stage | Vittorio Adorni (ITA)",
+        "[ROW] 15 | 30 May | Rome to Montepulciano | 214 km (133 mi) | - | Stage with mountain(s) | Nino Defilippis (ITA)",
+        "[ROW] 16 | 31 May | Montepulciano to Livorno | 199 km (124 mi) | - | Plain stage | Franco Bitossi (ITA)",
+        "[ROW] 17 | 1 June | Livorno to Santa Margherita Ligure | 210 km (130 mi) | - | Plain stage | Franco Bitossi (ITA)",
+        "[ROW] - | 2 June | Rest day | Rest day | Rest day | Rest day | Rest day",
+        "[ROW] 18 | 3 June | Santa Margherita Ligure to Alessandria | 205 km (127 mi) | - | Stage with mountain(s) | Bruno Mealli (ITA)",
+        "[ROW] 19 | 4 June | Alessandria to Cuneo | 205 km (127 mi) | - | Plain stage | Cees Lute (NED)",
+        "[ROW] 20 | 5 June | Cuneo to Pinerolo | 254 km (158 mi) | - | Stage with mountain(s) | Franco Bitossi (ITA)",
+        "[ROW] 21 | 6 June | Turin to Biella | 200 km (124 mi) | - | Stage with mountain(s) | Gianni Motta (ITA)",
+        "[ROW] 22 | 7 June | Biella to Milan | 146 km (91 mi) | - | Plain stage | Willi Altig (FRG)",
+        "[ROW] - | Total | Total | 4,119 km (2,559 mi) | 4,119 km (2,559 mi) | 4,119 km (2,559 mi) | 4,119 km (2,559 mi)"
+    ],
+    "question": "Where and when did the 1964 Giro d'Italia start and end?",
+    "answer": "The Giro started in Bolzano, on 16 May, with a 173 start stage and concluded in Milan, on 7 June, with a 146 km.",
+    "id": 2,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "The important cell information is: \nIn the 'Stage' column:\n- 1\n- 22 \nIn the 'Date' column:\n- The Giro started on 16 May\n- The Giro ended on 7 June\nIn the 'Course' column: \n- The start stage was from Bolzano to Riva del Garda, 173 km\n- The final stage was from Biella to Milan, 146 km"
+},
+{
+    "table_page_title": "Rwandan Air Force",
+    "table_section_title": "Current inventory",
+    "table": [
+        "[ROW] Type | Manufacturer | Origin | Class | Role | In service | Notes",
+        "[ROW] Mi-24 | Mil | Soviet Union | Helicopter | - | 5 | -",
+        "[ROW] Mi-8/17 | Mil | Soviet Union | Helicopter | - | 12 | During December 2012 an aviation unit of three helicopters was sent to the UN Mission in South Sudan (UNMISS). The Rwandan Aviation Unit was subsequently increased to six helicopters - reportedly Mi-17.",
+        "[ROW] SA.342 Gazelle | Aerospatiale | France | Helicopter | - | 4 | -"
+    ],
+    "question": "How many Mil Mi-8/17 helicopters, Mil Mi-24 helicopters, and Aerospatiale Gazelle SA.342 helicopters did the Rwandan Air Force have?",
+    "answer": "The Rwandan Air Force has twelve Mil Mi-8/17 helicopters, five Mil Mi-24 helicopters and four Aerospatiale Gazelle SA.342 helicopters.",
+    "id": 3,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "What you should focus on is: \nIn the 'Type' column: \n- Mi-8/17\n- Mi-24\n- SA.342 Gazelle \nIn the 'In service' column:\n- The Rwandan Air Force operates twelve Mil Mi-8/17 helicopters. \n- The Rwandan Air Force operates five Mil Mi-24 helicopters. \n- The Rwandan Air Force operates four Aerospatiale Gazelle SA.342 helicopters."
+},
+{
+    "table_page_title": "Planets beyond Neptune",
+    "table_section_title": "Pluto loses Planet X title",
+    "table": [
+        "[ROW] Year | Mass | Notes",
+        "[ROW] 1931 | 1 Earth | Nicholson & Mayall",
+        "[ROW] 1942 | 0.91 Earth | Wylie",
+        "[ROW] 1948 | 0.1 (1/10 Earth) | Kuiper",
+        "[ROW] 1973 | 0.025 (1/40 Earth) | Rawlins",
+        "[ROW] 1976 | 0.01 (1/100 Earth) | Cruikshank, Pilcher, & Morrison",
+        "[ROW] 1978 | 0.002 (1/500 Earth) | Christy & Harrington",
+        "[ROW] 2006 | 0.00218 (1/459 Earth) | Buie et al."
+    ],
+    "question": "What were the earliest measurements of the mass of Neptune?",
+    "answer": "In 1931, Nicholson and Mayall calculated Neptune's mass to be equal to 1 Earth, a value similar to the 0.91 Earth mass calculated in 1942 by Lloyd R. Wylie.",
+    "id": 4,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "The cells of importance are: \nIn the 'Year' column: \n- 1931\n- 1942 \nIn the 'Mass' column:\n- Nicholson & Mayall calculated Neptune's mass to be 1 Earth in 1931\n- Wylie calculated Neptune's mass to be 0.91 Earth in 1942"
+},
+{
+    "table_page_title": "Yu Yiqun",
+    "table_section_title": "Achievements",
+    "table": [
+        "[ROW] Year | Competition | Venue | Position | Notes",
+        "[ROW] Representing China | Representing China | Representing China | Representing China | Representing China",
+        "[ROW] 1998 | Asian Championships | Fukuoka, Japan | 2nd | -",
+        "[ROW] 1998 | Asian Games | Bangkok, Thailand | 2nd | 6.77"
+    ],
+    "question": "What time did Yu Yiqun finish on, at the 1998 Asian Games in Bangkok?",
+    "answer": "Yu Yiqun finished at 6.77 at the 1998 Asian Games in Bangkok.",
+    "id": 5,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "you can look closely at these table cells: \nIn the 'Year' column:\n- 1998\nIn the 'Competition' column:\n- Asian Games\nIn the 'Venue' column:\n- Bangkok, Thailand\nIn the 'Notes' column:\n- 6.77"
+},
+{
+    "table_page_title": "1902 Wyoming gubernatorial election",
+    "table_section_title": "Results",
+    "table": [
+        "[ROW] Party | Party | Candidate | Votes | %",
+        "[ROW] - | Republican | DeForest Richards | 14,483 | 57.81%",
+        "[ROW] - | Democratic | George T. Beck | 10,017 | 39.99%",
+        "[ROW] - | Socialist | Henry Breitenstein | 552 | 2.20%",
+        "[ROW] Total votes | Total votes | Total votes | 25,052 | 100%"
+    ],
+    "question": "By how much percentage of votes did Republican's DeForest Richards defeat Democrat George T. Beck with?",
+    "answer": "Republican's DeForest Richards was the Governor of Wyoming after defeating Democrat George T. Beck with 57.81% of the vote.",
+    "id": 6,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "Important table cells include: \nIn the 'Candidate' column: \n- DeForest Richards (Republican) \n- George T. Beck (Democrat) \nIn the '%' column:\n- DeForest Richards (Republican) received 57.81% of the votes\n- George T. Beck (Democrat) received 39.99% of the votes"
+},
+{
+    "table_page_title": "1986 Indianapolis 500",
+    "table_section_title": "Race box score",
+    "table": [
+        "[ROW] Finish | Start | No | Name | Qual | Laps | Status",
+        "[ROW] 1 | 4 | 3 | United States Bobby Rahal | 213.550 | 200 | 170.722 mph",
+        "[ROW] 2 | 6 | 7 | United States Kevin Cogan | 211.922 | 200 | +1.441 seconds",
+        "[ROW] 3 | 1 | 4 | United States Rick Mears (W) | 216.828 | 200 | +1.881 seconds",
+        "[ROW] 4 | 8 | 5 | Colombia Roberto Guerrero | 211.576 | 200 | +10.558 seconds",
+        "[ROW] 5 | 9 | 30 | United States Al Unser, Jr. | 211.533 | 199 | Flagged",
+        "[ROW] 6 | 3 | 18 | United States Michael Andretti | 214.522 | 199 | Flagged",
+        "[ROW] 7 | 11 | 20 | Brazil Emerson Fittipaldi | 210.237 | 199 | Flagged",
+        "[ROW] 8 | 12 | 21 | United States Johnny Rutherford (W) | 210.220 | 198 | Flagged",
+        "[ROW] 9 | 2 | 1 | United States Danny Sullivan (W) | 215.382 | 197 | Flagged",
+        "[ROW] 10 | 13 | 12 | United States Randy Lanier (R) | 209.964 | 195 | Flagged",
+        "[ROW] 11 | 29 | 24 | United States Gary Bettenhausen | 209.756 | 193 | Flagged",
+        "[ROW] 12 | 20 | 8 | Australia Geoff Brabham | 207.082 | 193 | Flagged",
+        "[ROW] 13 | 22 | 22 | Brazil Raul Boesel | 211.202 | 192 | Flagged",
+        "[ROW] 14 | 33 | 23 | United States Dick Simon | 204.978 | 189 | Flagged",
+        "[ROW] 15 | 19 | 61 | Netherlands Arie Luyendyk | 207.811 | 188 | Crash T4",
+        "[ROW] 16 | 14 | 15 | United States Pancho Carter | 209.635 | 179 | Wheel Bearing",
+        "[ROW] 17 | 10 | 66 | United States Ed Pimm | 210.874 | 168 | Electrical",
+        "[ROW] 18 | 17 | 55 | Mexico Josele Garza | 208.939 | 167 | Flagged",
+        "[ROW] 19 | 32 | 9 | Brazil Roberto Moreno (R) | 209.469 | 158 | Stalled",
+        "[ROW] 20 | 15 | 81 | Canada Jacques Villeneuve (R) | 209.397 | 154 | Main Bearing",
+        "[ROW] 21 | 25 | 59 | United States Chip Ganassi | 207.590 | 151 | Engine",
+        "[ROW] 22 | 5 | 11 | United States Al Unser (W) | 212.295 | 149 | Vibration",
+        "[ROW] 23 | 16 | 25 | United States Danny Ongais | 209.158 | 136 | Ignition",
+        "[ROW] 24 | 21 | 14 | United States A. J. Foyt (W) | 213.212 | 135 | Spun in pits",
+        "[ROW] 25 | 27 | 6 | United States Rich Vogler | 209.089 | 132 | Crash T3",
+        "[ROW] 26 | 31 | 84 | United States George Snider | 209.025 | 110 | Ignition",
+        "[ROW] 27 | 28 | 95 | United States Johnny Parsons | 207.894 | 100 | CV Joint",
+        "[ROW] 28 | 18 | 16 | United States Tony Bettenhausen, Jr. | 208.933 | 77 | Valve Spring",
+        "[ROW] 29 | 26 | 31 | United Kingdom Jim Crawford | 208.911 | 70 | Head Gasket",
+        "[ROW] 30 | 23 | 71 | United States Scott Brayton | 208.079 | 69 | Engine",
+        "[ROW] 31 | 24 | 42 | United States Phil Krueger (R) | 207.948 | 67 | Engine",
+        "[ROW] 32 | 30 | 2 | United States Mario Andretti (W) | 212.300 | 19 | Ignition",
+        "[ROW] 33 | 7 | 33 | United States Tom Sneva (W) | 211.878 | 0 | Crash T2"
+        ],
+    "question": "How did Michael and Mario Andretti do?",
+    "answer": "Michael Andretti qualified with a faster speed than Mario, completed more laps in the race before being flagged, while Mario had an early ignition issue and only completed 19 laps. So Michael Andretti performed better than Mario Andretti in this race.",
+    "id": 7,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "The key areas of the table are :\nIn the 'Name' column:\n- Michael Andretti\n- Mario Andretti (W)\nIn the 'Qual' column:\n- Michael Andretti qualified with a speed of 214.522 mph\n- Mario Andretti (W) qualified with a speed of 212.300 mph\nIn the 'Laps' column:\n- Michael Andretti completed 199 laps\n- Mario Andretti (W) only completed 19 laps\nIn the 'Status' column:\n- Michael Andretti was flagged\n- Mario Andretti (W) had an ignition issue"
+},
+{
+    "table_page_title": "Lali Espósito videography",
+    "table_section_title": "Television",
+    "table": [
+        "[ROW] Title | Year | Role | Creator(s) | Notes | Ref",
+        "[ROW] Rincón de Luz | 2003 | Malena Coco Cabrera | Cris Morena | Main cast | -",
+        "[ROW] Floricienta | 2004-2005 | Roberta Espinosa | Cris Morena | Main cast | -",
+        "[ROW] Chiquititas Sin Fin | 2006 | Agustina Ross | Cris Morena | Main cast | -",
+        "[ROW] Casi Ángeles | 2007-2010 | Marianella Rinaldi | Cris Morena | Lead Role | -",
+        "[ROW] Cuando Me Sonreís | 2011 | Milagros Rivas | Marta Betoldi, Ricardo Rodríguez | Main cast | -",
+        "[ROW] Dulce Amor | 2012 | Ana | Quique Estevanez | Special guest, Episode #1.36 | -",
+        "[ROW] Solamente Vos | 2013 | Daniela Costeau | Adrián Suar | Main cast | -",
+        "[ROW] Esperanza Mía | 2015-2016 | Julia Esperanza Albarracín | Adrián Suar | Lead role | -",
+        "[ROW] Showmatch | 2017 | Makeup seller | Marcelo Tinelli | Cameo appearance | -",
+        "[ROW] MTV Diary | 2018 | Herself | Jesse Ignjatovic | Documentary | -",
+        "[ROW] Sandro de América | 2018 | Reyna Ross | Adrián Caetano | Special guest | -",
+        "[ROW] Talento FOX | 2018 | Herself | Fox Networks Group | Judge | -",
+        "[ROW] El Host | 2018 | Herself | Fox Networks Group | Special guest | -"
+    ],
+    "question": "When is Espósito's debut in television show?",
+    "answer": "Espósito first television appearance was in Rincón de Luz in 2003 as Malena Coco Cabrera.",
+    "id": 8,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "Critical information are found in: \nIn the 'Title' column:\n- Rincón de Luz \nIn the 'Year' column:\n- 2003\nIn the 'Role' column: \n- Malena Coco Cabrera"
+},
+{
+    "table_page_title": "Rimpi Das",
+    "table_section_title": "Television",
+    "table": [
+        "[ROW] Year | Serial | Role | Broadcast Channel",
+        "[ROW] 2015 | Akbar Birbal | Anarkali | BIG Magic",
+        "[ROW] 2015 | Hazir Jawab Birbal | Nur Jahan | BIG Magic",
+        "[ROW] 2015 | Siya Ke Ram | Parvati | Star Plus",
+        "[ROW] 2017 | Mahakali– Anth hi Aarambh hai | Ganga | Colors",
+        "[ROW] 2018 | Savdhaan India 5th Jan | Mishti | Star Bharat"
+    ],
+    "question": "What roles has Rimpi Das played on the channels Star Plus and Colors?",
+    "answer": "Rimpi Das has portrayed Parvati in the series Siya Ke Ram on the channel Star Plus, and in the series Mahakali– Anth hi Aarambh hai on the channel Colors she played the character of Ganga.",
+    "id": 9,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "Important information in the table to consider is: \nIn the 'Serial' column:\n- Siya Ke Ram \n- Mahakali– Anth hi Aarambh hai \nIn the 'Role' column:\n- Parvati\n- Ganga\nIn the 'Broadcast Channel' column: \n- Star Plus \n- Colors "
+},
+{
+    "table_page_title": "McLeod Bethel-Thompson",
+    "table_section_title": "Statistics",
+    "table": [
+        "[ROW] Year | Team | Passing | Passing | Passing | Passing | Passing | Passing | Passing | Passing | Rushing | Rushing | Rushing | Rushing",
+        "[ROW] Year | Team | Cmp | Att | Pct | Yds | Y/A | TD | Int | Rtg | Att | Yds | Avg | TD",
+        "[ROW] 2007 | UCLA | 23 | 55 | 41.8 | 293 | 5.3 | 1 | 5 | 74.4 | 15 | 32 | 2.1 | 0",
+        "[ROW] 2008 | Sacramento | 28 | 49 | 57.1 | 415 | 8.5 | 2 | 1 | 137.7 | 16 | 33 | 2.1 | 1",
+        "[ROW] 2009 | Sacramento | 64 | 110 | 58.2 | 746 | 6.8 | 4 | 5 | 118.1 | 25 | 1 | 0.0 | 1",
+        "[ROW] 2010 | Sacramento | 21 | 38 | 55.3 | 161 | 4.2 | 1 | 2 | 89.0 | 6 | 5 | 0.8 | 0",
+        "[ROW] Career | Career | 136 | 252 | 54.0 | 1,615 | 6.4 | 8 | 13 | 108.0 | 62 | 3 | 0.0 | 2"
+    ],
+    "question": "How did Bethel do in 2007 for the team UCLA?",
+    "answer": "In 2007, Bethel completed 23 of 55 passes for 293 yards with one touchdown and five interceptions for UCLA.",
+    "id": 10,
+    "prompt": "In the given input above, you can see a question about the given table, and an answer to it. Now, you should output the content of cells that contain information crucial to answering the question. Include the column name of these cells. Describe such information in a natural form of language",
+    "relevant_cells": "You should first look at these cells in the table: \nIn the 'Year' column:\n- 2007\nIn the 'Team' column:\n- UCLA\nIn the 'Cmp' column:\n- 23\nIn the 'Att' column:\n- 55\nIn the 'Pct' column:\n- 41.8\nIn the 'Yds' column:\n- 293\nIn the 'TD' column:\n- 1\nIn the 'Int' column:\n- 5 "
+}
+
+]

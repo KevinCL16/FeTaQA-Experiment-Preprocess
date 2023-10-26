@@ -1,0 +1,485 @@
+
+    {
+        "Question":"Who were the winner and runner up in the 2016 presidential election in New Jersey?",
+        "Ground Truth":"The 2016 United States presidential election in New Jersey was won by Hillary Clinton with 55.5% of the vote over Donald Trump's 41.35%.",
+        "Prediction":"new jersey was won by hillary clinton with 55.45% of the popular vote, against donald trump with 41.35% of the popular vote.",
+        "Table Title":"2016 United States presidential election in New Jersey | Results",
+        "Table Rows":[
+            "[COL] Party | Party | Candidate | Votes | % | ±",
+            "[ROW] - | Democratic | Hillary Clinton | 2,148,278 | 55.45% | -",
+            "[ROW] - | Republican | Donald Trump | 1,601,933 | 41.35% | -",
+            "[ROW] - | Libertarian | Gary Johnson | 72,477 | 1.87% | -",
+            "[ROW] - | Green | Jill Stein | 37,772 | 0.98% | -",
+            "[ROW] - | Constitution | Darrell Castle | 6,161 | 0.16% | -",
+            "[ROW] - | Socialist Workers | Alyson Kennedy | 2,156 | 0.06% | -",
+            "[ROW] - | American Delta Party | Rocky De La Fuente | 1,838 | 0.05% | -",
+            "[ROW] - | Workers World | Monica Moorehead | 1,749 | 0.05% | -",
+            "[ROW] - | Socialism and Liberation | Gloria La Riva | 1,682 | 0.04% | -",
+            "[ROW] Majority | Majority | Majority | 546,345 | 14.10% | -",
+            "[ROW] Turnout | Turnout | Turnout | 3,874,046 | - | -"
+        ],
+        "id":1
+    }
+
+    {
+        "Question":"How did the Liberal Party do on the Two-party-preferred result?",
+        "Ground Truth":"In Strathfield, the Liberal Party gained a swing of 2.28% on a two-party preferred basis.",
+        "Prediction":"the liberal party held the seat on the two-party-preferred result, with maccarthy receiving 17,462 votes and timbrell 12,522 votes.",
+        "Table Title":"1996 Strathfield state by-election | ",
+        "Table Rows":[
+            "[COL] Party | Party | Candidate | Votes | % | ±",
+            "[ROW] - | Liberal | Bruce MacCarthy | 15,772 | 50.66 | 2.79",
+            "[ROW] - | Labor | Jane Timbrell | 10,484 | 33.68 | 6.67",
+            "[ROW] - | Democrats | Amelia Newman | 1,793 | 5.76 | +0.80",
+            "[ROW] - | Call to Australia | Janne Peterson | 1,460 | 4.69 | -",
+            "[ROW] - | Greens | Damien Maher | 1,323 | 4.25 | -",
+            "[ROW] - | Independent | Richard Hill | 298 | 0.96 | -",
+            "[ROW] Informal votes | Informal votes | Informal votes | 744 | 2.33 | 3.21",
+            "[ROW] Turnout | Turnout | Turnout | 31,874 | 83.53 | 9.88",
+            "[ROW] Two-party-preferred result | Two-party-preferred result | Two-party-preferred result | Two-party-preferred result | Two-party-preferred result | Two-party-preferred result",
+            "[ROW] - | Liberal | Bruce MacCarthy | 17,462 | 58.24 | +2.28",
+            "[ROW] - | Labor | Jane Timbrell | 12,522 | 41.76 | 2.28",
+            "[ROW] - | Liberal hold | Liberal hold | Swing | +2.28 | -"
+        ],
+        "id":2
+    }
+
+    {
+        "Question":"How many votes did democrats Brenda Jones and Tliab receive and who finished second?",
+        "Ground Truth":"Tlaib finished second to Democrat Brenda Jones, who received 32,727 votes (37.7% of the total) to Tlaib's 31,084 (35.9%).",
+        "Prediction":"democrats brenda jones and rashida tlaib received 32,727 votes and tlaib finished second.",
+        "Table Title":"Rashida Tlaib | Electoral history",
+        "Table Rows":[
+            "[COL] Party | Party | Candidate | Votes | %",
+            "[ROW] - | Democratic | Brenda Jones | 32,727 | 37.7",
+            "[ROW] - | Democratic | Rashida Tlaib | 31,084 | 35.9",
+            "[ROW] - | Democratic | Bill Wild | 13,152 | 15.2",
+            "[ROW] - | Democratic | Ian Conyers | 9,740 | 11.2",
+            "[ROW] Total votes | Total votes | Total votes | 86,703 | 100.0"
+        ],
+        "id":3
+    }
+
+    {
+        "Question":"Who were the last two finishers of the at the 2012 Summer Olympics for the Women's 200 metre backstroke?",
+        "Ground Truth":"France's Alexianne Castel (2:08.43) and Canada's Sinead Russell (2:09.86) closed out the championship field.",
+        "Prediction":"alexianne castel of france and sinead russell of canada were the last two finishers of the at the 2012 summer olympics – women's 200 metre backstroke.",
+        "Table Title":"Swimming at the 2012 Summer Olympics – Women's 200 metre backstroke | Final",
+        "Table Rows":[
+            "[COL] Rank | Lane | Name | Nationality | Time | Notes",
+            "[ROW] - | 5 | Missy Franklin | United States | 2:04.06 | WR",
+            "[ROW] - | 6 | Anastasia Zuyeva | Russia | 2:05.92 | -",
+            "[ROW] - | 4 | Elizabeth Beisel | United States | 2:06.55 | -",
+            "[ROW] 4 | 1 | Elizabeth Simmonds | Great Britain | 2:07.26 | -",
+            "[ROW] 5 | 3 | Meagen Nay | Australia | 2:07.43 | -",
+            "[ROW] 6 | 7 | Kirsty Coventry | Zimbabwe | 2:08.18 | -",
+            "[ROW] 7 | 2 | Alexianne Castel | France | 2:08.43 | -",
+            "[ROW] 8 | 8 | Sinead Russell | Canada | 2:09.86 | -"
+        ],
+        "id":4
+    }
+
+    {
+        "Question":"What did JR Lemon do in 2013?",
+        "Ground Truth":"JR Lemon appeared in the 2012–13 Shadow Love and in 2013 cast in the film playing Oliver in A Madea Christmas.",
+        "Prediction":"in 2013, jr lemon appeared in the film a madea christmas.",
+        "Table Title":"JR Lemon | Film and television",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2010 | Bad Batch (as J.R. Lemon) | Jenkins | film",
+            "[ROW] 2012–2013 | Shadow Love (as J.R. Lemon) | Amir | 10 episodes",
+            "[ROW] 2013 | A Madea Christmas | Oliver | film",
+            "[ROW] 2014 | Hawaii Five-0 | Jordan Lewis | Episode: \" Ho’oilina \"",
+            "[ROW] 2014–2017 | The Night Shift | Nurse Kenny Fournette | Main cast, 45 episodes",
+            "[ROW] 2015 | Whitney | Reporter | TV movie"
+        ],
+        "id":5
+    }
+
+    {
+        "Question":"What was the total duration, in distance, time, and stages, of the 1984 Tour de France?",
+        "Ground Truth":"The 1984 Tour de France runs over 4,021 km (2,499 mi) in 23 stages from 29 June to 22 July.",
+        "Prediction":"the 1984 tour de france took place from 29 june to 19 july, with a total race distance of 4,790 km (2,860 mi), and 21 stages.",
+        "Table Title":"1984 Tour de France | Route and stages",
+        "Table Rows":[
+            "[COL] Stage | Date | Course | Distance | Type | Type | Winner",
+            "[ROW] P | 29 June | Montreuil to Noisy-le-Sec | 5 km (3.1 mi) | - | Individual time trial | Bernard Hinault (FRA)",
+            "[ROW] 1 | 30 June | Bondy to Saint-Denis | 149 km (93 mi) | - | Plain stage | Frank Hoste (BEL)",
+            "[ROW] 2 | 1 July | Bobigny to Louvroil | 249 km (155 mi) | - | Plain stage | Marc Madiot (FRA)",
+            "[ROW] 3 | 2 July | Louvroil to Valenciennes | 51 km (32 mi) | - | Team time trial | Renault–Elf",
+            "[ROW] 4 | 2 July | Valenciennes to Béthune | 83 km (52 mi) | - | Plain stage | Ferdi Van Den Haute (BEL)",
+            "[ROW] 5 | 3 July | Béthune to Cergy-Pontoise | 207 km (129 mi) | - | Plain stage | Paulo Ferreira (POR)",
+            "[ROW] 6 | 4 July | Cergy-Pontoise to Alençon | 202 km (126 mi) | - | Plain stage | Frank Hoste (BEL)",
+            "[ROW] 7 | 5 July | Alençon to Le Mans | 67 km (42 mi) | - | Individual time trial | Laurent Fignon (FRA)",
+            "[ROW] 8 | 6 July | Le Mans to Nantes | 192 km (119 mi) | - | Plain stage | Pascal Jules (FRA)",
+            "[ROW] 9 | 7 July | Nantes to Bordeaux | 338 km (210 mi) | - | Plain stage | Jan Raas (NED)",
+            "[ROW] 10 | 8 July | Langon to Pau | 198 km (123 mi) | - | Plain stage | Eric Vanderaerden (BEL)",
+            "[ROW] 11 | 9 July | Pau to Guzet-Neige | 227 km (141 mi) | - | Stage with mountain(s) | Robert Millar (GBR)",
+            "[ROW] 12 | 10 July | Saint-Girons to Blagnac | 111 km (69 mi) | - | Plain stage | Pascal Poisson (FRA)",
+            "[ROW] 13 | 11 July | Blagnac to Rodez | 220 km (140 mi) | - | Plain stage | Pierre-Henri Menthéour (FRA)",
+            "[ROW] 14 | 12 July | Rodez to Domaine du Rouret | 228 km (142 mi) | - | Hilly stage | Fons De Wolf (BEL)",
+            "[ROW] 15 | 13 July | Domaine du Rouret to Grenoble | 241 km (150 mi) | - | Hilly stage | Frédéric Vichot (FRA)",
+            "[ROW] - | 14 July | Grenoble | Grenoble | - | Rest day | Rest day",
+            "[ROW] 16 | 15 July | Les Échelles to La Ruchère | 22 km (14 mi) | - | Individual time trial | Laurent Fignon (FRA)",
+            "[ROW] 17 | 16 July | Grenoble to Alpe d'Huez | 151 km (94 mi) | - | Stage with mountain(s) | Luis Herrera (COL)",
+            "[ROW] 18 | 17 July | Le Bourg-d'Oisans to La Plagne | 185 km (115 mi) | - | Stage with mountain(s) | Laurent Fignon (FRA)",
+            "[ROW] 19 | 18 July | La Plagne to Morzine | 186 km (116 mi) | - | Stage with mountain(s) | Ángel Arroyo (ESP)",
+            "[ROW] 20 | 19 July | Morzine to Crans-Montana (Switzerland) | 141 km (88 mi) | - | Stage with mountain(s) | Laurent Fignon (FRA)",
+            "[ROW] 21 | 20 July | Crans-Montana (Switzerland) to Villefranche-sur-Saône | 320 km (200 mi) | - | Hilly stage | Frank Hoste (BEL)",
+            "[ROW] 22 | 21 July | Villié-Morgon to Villefranche-sur-Saône | 51 km (32 mi) | - | Individual time trial | Laurent Fignon (FRA)",
+            "[ROW] 23 | 22 July | Pantin to Paris (Champs-Élysées) | 197 km (122 mi) | - | Hilly stage | Eric Vanderaerden (BEL)",
+            "[ROW] - | Total | Total | 4,021 km (2,499 mi) | 4,021 km (2,499 mi) | 4,021 km (2,499 mi) | 4,021 km (2,499 mi)"
+        ],
+        "id":6
+    }
+
+    {
+        "Question":"What awards did Harry Nilsson win?",
+        "Ground Truth":"Harry Nilsson won Best Contemporary Vocal Performance, Male in 1970 for \"Everybody's Talkin'\" and Best Pop Vocal Performance in 1973 for \"Without You\".",
+        "Prediction":"harry nilsson won best contemporary vocal performance, male for \"everybody's talkin'\" in 1970 and best male pop vocal performance for \"without you\" in 1973.",
+        "Table Title":"Harry Nilsson | Awards and accolades",
+        "Table Rows":[
+            "[COL] Year | Nominee / work | Award | Result",
+            "[ROW] 1970 | \"Everybody's Talkin'\" | Best Contemporary Vocal Performance, Male | Won",
+            "[ROW] 1973 | \"Without You\" | Best Male Pop Vocal Performance | Won",
+            "[ROW] 1973 | \"Without You\" | Record of the Year | Nominated",
+            "[ROW] 1973 | Nilsson Schmilsson | Album of the Year | Nominated",
+            "[ROW] 1973 | Nilsson Schmilsson | Best Engineered Album, Non-Classical | Nominated"
+        ],
+        "id":7
+    }
+
+    {
+        "Question":"What was Richards-Ross personal record for the 400m event during the London Olympics? ",
+        "Ground Truth":"At the 2012 London Olympics, Richards-Ross finished the 400m in 49.55 and won the gold medal.",
+        "Prediction":"at the london olympics, richards-ross ran a personal best of 49.25 seconds in the 400 m event.",
+        "Table Title":"Sanya Richards-Ross | Competition record",
+        "Table Rows":[
+            "[COL] Year | Competition | Venue | Position | Event | Notes",
+            "[ROW] Representing the United States | Representing the United States | Representing the United States | Representing the United States | Representing the United States | Representing the United States",
+            "[ROW] 2002 | World Junior Championships | Kingston, Jamaica | 3rd | 200m | 23.09 (wind: -0.2 m/s)",
+            "[ROW] 2002 | World Junior Championships | Kingston, Jamaica | 2nd | 400m | 51.49",
+            "[ROW] 2002 | World Junior Championships | Kingston, Jamaica | 3rd (h) | 4 × 400 m relay | 3:35.84",
+            "[ROW] 2003 | World Championships | Paris, France | 11th (sf) | 400 m | 51.32",
+            "[ROW] 2003 | World Championships | Paris, France | 1st | 4 × 400 m relay | 3:22.63",
+            "[ROW] 2004 | Olympic Games | Athens, Greece | 6th | 400 m | 50.19",
+            "[ROW] 2005 | World Championships | Helsinki, Finland | 2nd | 400 m | 49.74",
+            "[ROW] 2005 | World Athletics Final | Monaco | 1st | 400 m | 49.52",
+            "[ROW] 2006 | World Indoor Championships | Moscow, Russia | 9th (sf) | 400 m | 52.46",
+            "[ROW] 2006 | World Athletics Final | Stuttgart, Germany | 2nd | 200 m | 22.17",
+            "[ROW] 2006 | World Athletics Final | Stuttgart, Germany | 1st | 400 m | 49.25",
+            "[ROW] 2006 | World Cup | Athens, Greece | 1st | 400 m | 48.70",
+            "[ROW] 2006 | World Cup | Athens, Greece | 1st | 200 m | 22.23",
+            "[ROW] 2007 | World Championships | Osaka, Japan | 5th | 200 m | 22.70",
+            "[ROW] 2007 | World Championships | Osaka, Japan | 1st | 4 × 400 m relay | 3:18.55",
+            "[ROW] 2008 | Olympic Games | Beijing, China | 3rd | 400 m | 49.93",
+            "[ROW] 2008 | Olympic Games | Beijing, China | 1st | 4 × 400 m relay | 3:18.54",
+            "[ROW] 2009 | World Championships | Berlin, Germany | 1st | 400m | 49.00",
+            "[ROW] 2009 | World Championships | Berlin, Germany | 1st | 4 × 400 m relay | 3:17.83",
+            "[ROW] 2011 | World Championships | Daegu, South Korea | 7th | 400 m | 51.32",
+            "[ROW] 2011 | World Championships | Daegu, South Korea | 1st | 4 × 400 m relay | 3:18.09",
+            "[ROW] 2012 | World Indoor Championships | Istanbul, Turkey | 1st | 400 m | 50.79",
+            "[ROW] 2012 | World Indoor Championships | Istanbul, Turkey | 2nd | 4 × 400 m relay | 3:28.79",
+            "[ROW] 2012 | Olympic Games | London, United Kingdom | 5th | 200 m | 22.39",
+            "[ROW] 2012 | Olympic Games | London, United Kingdom | 1st | 400 m | 49.55",
+            "[ROW] 2012 | Olympic Games | London, United Kingdom | 1st | 4 × 400 m relay | 3:16.88",
+            "[ROW] 2014 | World Relay Championships | Nassau, Bahamas | 1st | 4 × 400 m relay | 3:21.73",
+            "[ROW] 2015 | World Relay Championships | Nassau, Bahamas | 1st | Distance medley relay | 10:36.50 (WR)",
+            "[ROW] 2015 | World Relay Championships | Nassau, Bahamas | 1st | 4 × 400 m relay | 3:19.39",
+            "[ROW] 2015 | World Championships | Beijing, China | 2nd | 4 × 400 m relay | 3:19.44"
+        ],
+        "id":8
+    }
+
+    {
+        "Question":"What has Fyodor Yurchikhin accomplished in the cumulative spacewalk?",
+        "Ground Truth":"Yurchikhin has a cumulative spacewalk record of 59 hours, 28 minutes during his 9 spacewalks.",
+        "Prediction":"fyodor yurchikhin has completed five cumulative spacewalks, with a time of 59:28 minutes.",
+        "Table Title":"List of cumulative spacewalk records | List",
+        "Table Rows":[
+            "[COL] Number | Astronaut | Agency | Total EVAs | Total Time Hours:Minutes",
+            "[ROW] 1 | Anatoly Solovyev | RSA | 16 | 82:22 (3 days, 10 hours, 22 minutes)",
+            "[ROW] 2 | Michael Lopez-Alegria | NASA | 10 | 67:40",
+            "[ROW] 3 | Andrew J. Feustel | NASA | 9 | 61:48",
+            "[ROW] 4 | Peggy Whitson | NASA | 10 | 60:21",
+            "[ROW] 5 | Fyodor Yurchikhin | RSA | 9 | 59:28",
+            "[ROW] 6 | Jerry L. Ross | NASA | 9 | 58:32",
+            "[ROW] 7 | John M. Grunsfeld | NASA | 8 | 58:30",
+            "[ROW] 8 | Richard Mastracchio | NASA | 9 | 53:04",
+            "[ROW] 9 | Sunita Williams | NASA | 7 | 50:40",
+            "[ROW] 10 | Steven L. Smith | NASA | 7 | 49:48",
+            "[ROW] 11 | Michael Fincke | NASA | 9 | 48:37",
+            "[ROW] 12 | Michael E. Fossum | NASA | 7 | 48:32",
+            "[ROW] 13 | Stephen G. Bowen | NASA | 7 | 47:18",
+            "[ROW] 14 | Scott E. Parazynski | NASA | 7 | 47:05",
+            "[ROW] 15 | Joseph R. Tanner | NASA | 7 | 46:29",
+            "[ROW] 16 | Robert L. Curbeam | NASA | 7 | 45:34",
+            "[ROW] 17 | Nikolai Budarin | RSA | 8 | 44:25",
+            "[ROW] 18 | Douglas H. Wheelock | NASA | 6 | 43:30",
+            "[ROW] 19 | James H. Newman | NASA | 6 | 43:13",
+            "[ROW] 20 | Yuri Onufrienko | RSA | 8 | 42:33",
+            "[ROW] 21 | Richard Linnehan | NASA | 6 | 42:11",
+            "[ROW] 22 | David Wolf | NASA | 7 | 41:17",
+            "[ROW] 23 | Talgat Musabayev | RSA | 7 | 41:13",
+            "[ROW] 24 | Piers Sellers | NASA | 6 | 41:10",
+            "[ROW] 25 | Sergei Krikalev | RSA | 8 | 41:08",
+            "[ROW] 26 | Sergei Avdeyev | RSA | 8 | 41:00",
+            "[ROW] 27 | Daniel M. Tani | NASA | 6 | 39:11",
+            "[ROW] 28 | Robert S. Kimbrough | NASA | 6 | 39:00",
+            "[ROW] 29 | Gennady Padalka | RSA | 10 (8 EVAs \\ 2 IVAs) | 38:35 (37:55 at EVAs)",
+            "[ROW] 30 | Clayton Anderson | NASA | 6 | 38:28"
+        ],
+        "id":9
+    }
+
+    {
+        "Question":"What was the second club Cliff Carr played for and how many appearances did he make for them?",
+        "Ground Truth":"Cliff Carr made a total of 143 appearances for Stoke City, where he played after leaving his first club Fulham.",
+        "Prediction":"cliff carr made 166 appearances for fulham and 124 for stoke.",
+        "Table Title":"Cliff Carr | Career statistics",
+        "Table Rows":[
+            "[COL] Club | Season | League | League | League | FA Cup | FA Cup | League Cup | League Cup | Other | Other | Total | Total",
+            "[ROW] Club | Season | Division | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals",
+            "[ROW] Fulham | 1982–83 | Second Division | 6 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 7 | 1",
+            "[ROW] Fulham | 1983–84 | Second Division | 41 | 4 | 2 | 0 | 5 | 0 | 0 | 0 | 48 | 4",
+            "[ROW] Fulham | 1984–85 | Second Division | 38 | 4 | 1 | 0 | 3 | 1 | 0 | 0 | 42 | 5",
+            "[ROW] Fulham | 1985–86 | Second Division | 35 | 4 | 1 | 0 | 4 | 1 | 2 | 0 | 42 | 5",
+            "[ROW] Fulham | 1986–87 | Third Division | 25 | 1 | 0 | 0 | 0 | 0 | 2 | 0 | 27 | 1",
+            "[ROW] Fulham | Total | Total | 145 | 14 | 4 | 0 | 13 | 2 | 4 | 0 | 166 | 16",
+            "[ROW] Stoke City | 1987–88 | Second Division | 41 | 0 | 2 | 0 | 3 | 0 | 4 | 0 | 50 | 0",
+            "[ROW] Stoke City | 1988–89 | Second Division | 41 | 1 | 3 | 0 | 1 | 0 | 1 | 0 | 46 | 1",
+            "[ROW] Stoke City | 1989–90 | Second Division | 22 | 0 | 1 | 0 | 0 | 0 | 2 | 0 | 25 | 0",
+            "[ROW] Stoke City | 1990–91 | Third Division | 20 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 22 | 0",
+            "[ROW] Stoke City | Total | Total | 124 | 1 | 6 | 0 | 5 | 0 | 8 | 0 | 143 | 1",
+            "[ROW] Shrewsbury Town | 1991–92 | Third Division | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 2 | 2",
+            "[ROW] Mansfield Town | 1991–92 | Fourth Division | 20 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 22 | 0",
+            "[ROW] Chesterfield | 1992–93 | Third Division | 42 | 1 | 2 | 0 | 4 | 0 | 5 | 0 | 53 | 1",
+            "[ROW] Chesterfield | 1993–94 | Third Division | 23 | 0 | 1 | 0 | 4 | 0 | 1 | 0 | 29 | 0",
+            "[ROW] Chesterfield | Total | Total | 65 | 1 | 3 | 0 | 8 | 0 | 6 | 0 | 82 | 1",
+            "[ROW] Career Total | Career Total | Career Total | 355 | 17 | 13 | 0 | 27 | 3 | 20 | 0 | 415 | 20"
+        ],
+        "id":10
+    }
+
+    {
+        "Question":"Which historic arenas did the Dodgers and Giants play?",
+        "Ground Truth":"The Dodgers and Giants played in the Los Angeles Memorial Coliseum and Seals Stadium.",
+        "Prediction":"the dodgers played at the los angeles memorial coliseum and the giants played at seals stadium in san francisco.",
+        "Table Title":"Baseball park | Temporary and converted ballparks",
+        "Table Rows":[
+            "[COL] Ballpark | Location | Team | Opened | Closed | Demo'd | Current status",
+            "[ROW] Arlington Stadium | Arlington, Texas | Rangers | 1965 | 1993 | 1994 | Now parking for Globe Life Park in Arlington.",
+            "[ROW] Colt Stadium | Houston | Colt .45's | 1962 | 1964 | 1970 | Dismantled and rebuilt in Mexico as Mexican League park.",
+            "[ROW] Jarry Park Stadium | Montreal | Expos | 1969 | 1976 | 1993 | Converted to a tennis venue now known as Stade IGA.",
+            "[ROW] Kansas City Municipal Stadium | Kansas City, Missouri | Athletics Royals | 1923 | 1972 | 1976 | Now a municipal garden.",
+            "[ROW] Los Angeles Memorial Coliseum | Los Angeles | Dodgers | 1923 | — | — | Active; closed for baseball in 1961. Holds the baseball world record attendance when 115,300 attended a pre-season exhibition game between the Dodgers and Boston Red Sox on March 29, 2008.",
+            "[ROW] Memorial Stadium | Baltimore | Orioles | 1950 | 1997 | 2001 | Now residential.",
+            "[ROW] Metropolitan Stadium | Bloomington, Minnesota | Twins | 1956 | 1981 | 1985 | Now site of the Mall of America.",
+            "[ROW] Mile High Stadium | Denver | Rockies | 1948 | 2001 | 2002 | Originally a minor-league baseball stadium in 1948. Now parking for Broncos Stadium at Mile High.",
+            "[ROW] Seals Stadium | San Francisco | Giants | 1931 | 1959 | 1959 | Now a shopping center.",
+            "[ROW] Sick's Stadium | Seattle | Pilots | 1938 | 1976 | 1979 | Now a Lowe's store.",
+            "[ROW] Wrigley Field | Los Angeles | Angels | 1925 | 1965 | 1966 | Now Gilbert Lindsay Park."
+        ],
+        "id":11
+    }
+
+    {
+        "Question":"What year did Lucie Jones appear in Like Me and which role did she play?",
+        "Ground Truth":"In 2015, Lucie Jones played the role of Emma in Like Me.",
+        "Prediction":"in 2015, lucie jones appeared in like me as emma.",
+        "Table Title":"Lucie Jones | Stage",
+        "Table Rows":[
+            "[COL] Year | Title | Role",
+            "[ROW] 2010 | Les Misérables | Cosette",
+            "[ROW] 2011 | The Prodigals | Kelly",
+            "[ROW] 2013 | We Will Rock You | Meat",
+            "[ROW] 2013–14 | American Psycho | Victoria",
+            "[ROW] 2015 | Broadway to the Bay | -",
+            "[ROW] 2015 | Like Me | Emma",
+            "[ROW] 2015 | Ghost the Musical | Molly",
+            "[ROW] 2016 | Legally Blonde | Elle Woods",
+            "[ROW] 2016 | Musicals Unsung | -",
+            "[ROW] 2016–17 | Rent | Maureen Johnson",
+            "[ROW] 2017 | The Wedding Singer | Holly",
+            "[ROW] 2017–18 | Legally Blonde | Elle Woods",
+            "[ROW] 2017 | A Christmas Carol | Emily/Ghost of Christmas Future"
+        ],
+        "id":12
+    }
+
+    {
+        "Question":"Which films did Sam Quartin star in 2017?",
+        "Ground Truth":"In 2017, Sam Quartin starred in the John Swab and Corey Asraf's movie \"Let Me Make You a Martyr\" as June Glass followed by the Living the Gimmick \"The Great American Unwashed\", as Trixie in the same year.",
+        "Prediction":"in 2017, sam quartin starred in let me make you a star.",
+        "Table Title":"Sam Quartin | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2011 | I am alive (short fim) | Girl at the Casting 3 | Dir: A. James Marcolin",
+            "[ROW] 2012 | Adam (short fim) | Scene girl | Dir: Augustin Doublet",
+            "[ROW] 2013 | Hairbrained (short fim) | Student (uncredited) | Dir: Billy Kent",
+            "[ROW] 2013 | We Kid (short film) | Marion | Dir: Ruscen Vidinliev",
+            "[ROW] 2014 | The Heart Machine | Virginia's Doppelganger | Dir: Zachary Wigon",
+            "[ROW] 2014 | Judas' Chariot (short film) | June Glass | John Swab",
+            "[ROW] 2014 | Mirror & Missal: Part 1 - The Magical Women of Echo Park | The Poet | Dir: Emett Casey",
+            "[ROW] 2014 | The Exurbs (short fim) | Scene girl | Dir: Justin Linton",
+            "[ROW] 2014 | Heart of Winter (music video) | performer | Dir: Wade Jackson ).",
+            "[ROW] 2015 | Mona (Short film) | Van | Dir: Jocelyn Jacobs",
+            "[ROW] 2015 | Noah and the Band (Short film) | Sam | Dir: Chloe Jury-Fogel",
+            "[ROW] 2016 | NY84 | Kate Jones | Dir: Cyril Morin",
+            "[ROW] 2016 | I will see you (music video) | performer | Dir: Cyril Morin",
+            "[ROW] 2016 | Run Run Run (music video) | performer | Dir: Cyril Morin",
+            "[ROW] 2016 | The Sleepers (short film) | Lily | Dir: Joe Lueben",
+            "[ROW] 2016 | Aimy in a Cage | Dr. Issie | Dir: Hooroo Jackson",
+            "[ROW] 2017 | Let Me Make You a Martyr | June Glass | Dir: Corey Aswaf and John Swab",
+            "[ROW] 2017 | Living the Gimmick: The Great American Unwashed | Trixie | Dir: Gore Abrams and John Swab",
+            "[ROW] 2018 | By the Rivers of Babylon | Holly | Dir: Albert Sandoval",
+            "[ROW] 2018 | Fantasy prone (short film) | Mary Ann | Dir: Jessica L. Catalano",
+            "[ROW] 2018 | Stale Ramen | Paola | Dir: JacQues Olet"
+        ],
+        "id":13
+    }
+
+    {
+        "Question":"Which league and club was Chikayuki playing for in 1995?",
+        "Ground Truth":"Chikayuki Mochizuki joined Japan Football League club, Kyoto Purple Sanga in 1995.",
+        "Prediction":"in 1995, chikayuki mochizuki played in japan football league club kyoto purple sanga.",
+        "Table Title":"Chikayuki Mochizuki | Club statistics",
+        "Table Rows":[
+            "[COL] Club performance | Club performance | Club performance | League | League | Cup | Cup | League Cup | League Cup | Total | Total",
+            "[ROW] Season | Club | League | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals",
+            "[ROW] Japan | Japan | Japan | League | League | Emperor's Cup | Emperor's Cup | J.League Cup | J.League Cup | Total | Total",
+            "[ROW] 1995 | Kyoto Purple Sanga | Football League | 8 | 2 | 1 | 0 | - | - | 9 | 2",
+            "[ROW] 1996 | Kyoto Purple Sanga | J1 League | 11 | 0 | 0 | 0 | 0 | 0 | 11 | 0",
+            "[ROW] Country | Japan | Japan | 19 | 2 | 1 | 0 | 0 | 0 | 20 | 2",
+            "[ROW] Total | Total | Total | 19 | 2 | 1 | 0 | 0 | 0 | 20 | 2"
+        ],
+        "id":14
+    }
+
+    {
+        "Question":"Did Alicia Keys collaborate with Jack White on any songs?",
+        "Ground Truth":"In 2008, Keys collaborated with Jack White on \"Another Way to Die\", for Quantum of Solace.",
+        "Prediction":"alicia keys collaborated with jack white on the song \"like you'll never see me again\" from the album as i am.",
+        "Table Title":"Alicia Keys videography | As lead artist",
+        "Table Rows":[
+            "[COL] Title | Other performer(s) | Director(s) | Album | Year | Ref.",
+            "[ROW] \"Fallin'\" | N/A | Chris Robinson | Songs in A Minor | 2001 | -",
+            "[ROW] \"A Woman's Worth\" | N/A | Chris Robinson | Songs in A Minor | 2001 | -",
+            "[ROW] \"How Come You Don't Call Me\" | N/A | Little X | Songs in A Minor | 2002 | -",
+            "[ROW] \"Girlfriend\" | N/A | Patrick Hoelck | Songs in A Minor | 2002 | -",
+            "[ROW] \"You Don't Know My Name\" | N/A | Chris Robinson | The Diary of Alicia Keys | 2003 | -",
+            "[ROW] \"If I Ain't Got You\" | N/A | Diane Martel | The Diary of Alicia Keys | 2004 | -",
+            "[ROW] \"Diary\" | Tony! Toni! Toné! Jermaine Paul | Lamont Burrell Rod Isaacs Jeff Robinson Brian Campbell | The Diary of Alicia Keys | 2004 | -",
+            "[ROW] \"My Boo\" | Usher | Chris Robinson Usher | Confessions | 2004 | -",
+            "[ROW] \"Karma\" | N/A | Chris Robinson Alicia Keys | The Diary of Alicia Keys | 2004 | -",
+            "[ROW] \"Unbreakable\" | N/A | Alex Coletti | Unplugged | 2005 | -",
+            "[ROW] \"Every Little Bit Hurts\" | N/A | Justin Francis | Unplugged | 2006 | -",
+            "[ROW] \"No One\" | N/A | Justin Francis | As I Am | 2007 | -",
+            "[ROW] \"Like You'll Never See Me Again\" | N/A | Diane Martel | As I Am | 2007 | -",
+            "[ROW] \"Teenage Love Affair\" | N/A | Chris Robinson | As I Am | 2008 | -",
+            "[ROW] \"Superwoman\" | N/A | Chris Robinson | As I Am | 2008 | -",
+            "[ROW] \"Another Way to Die\" | Jack White | P. R. Brown MK12 | Quantum of Solace | 2008 | -",
+            "[ROW] \"Empire State of Mind\" | Jay Z | Hype Williams | The Blueprint 3 | 2009 | -",
+            "[ROW] \"Doesn't Mean Anything\" | N/A | P. R. Brown | The Element of Freedom | 2009 | -",
+            "[ROW] \"Try Sleeping with a Broken Heart\" | N/A | Syndrome | The Element of Freedom | 2009 | -",
+            "[ROW] \"Un-Thinkable (I'm Ready)\" | N/A | Jake Nava | The Element of Freedom | 2010 | -",
+            "[ROW] \"Wait Til You See My Smile\" | N/A | Scott Orr | The Element of Freedom | 2010 | -",
+            "[ROW] \"Girl on Fire\" | Nicki Minaj | Sophie Muller | Girl on Fire | 2012 | -",
+            "[ROW] \"Girl on Fire\" (Japanese version) | N/A | Mika Ninagawa | N/A | 2012 | -",
+            "[ROW] \"Brand New Me\" | N/A | Diane Martel | Girl on Fire | 2012 | -",
+            "[ROW] \"Fire We Make\" | Maxwell | Chris Robinson | Girl on Fire | 2013 | -",
+            "[ROW] \"New Day\" | N/A | Indrani | Girl on Fire | 2013 | -",
+            "[ROW] \"Tears Always Win\" | N/A | Robert Hales | Girl on Fire | 2013 | -",
+            "[ROW] \"It's On Again\" | Kendrick Lamar | Rich Lee | The Amazing Spider-Man 2 | 2014 | -",
+            "[ROW] \"We Are Here\" | N/A | Sol Guy | N/A | 2014 | -",
+            "[ROW] \"In Common\" | N/A | Pierre Debusschere | Here | 2016 | -",
+            "[ROW] \"Blended Family (What You Do for Love)\" | ASAP Rocky | Hype Williams | Here | 2016 | -",
+            "[ROW] \"That's What's Up\" | N/A | N/A | N/A | 2017 | -",
+            "[ROW] \"Raise a Man\" | N/A | Bill Kristein | N/A | 2019 | -"
+        ],
+        "id":15
+    }
+
+    {
+        "Question":"What year did Amyra Dastur act in Raju Gadu and also make her debut with Manasuku Nachindi?",
+        "Ground Truth":"In 2018 Amyra Dastur made her debut with Manasuku Nachindi and also acted in Raju Gadu.",
+        "Prediction":"in 2018, amyra dastur acted in raju gadu and also made her debut with manasuku nachindi.",
+        "Table Title":"Amyra Dastur | External links",
+        "Table Rows":[
+            "[COL] Year | Film | Role | Language | Notes",
+            "[ROW] 2013 | Issaq | Bachchi Kashyap (Juliet) | Hindi | -",
+            "[ROW] 2015 | Anegan | Madhumitha / Samudhra / Kalyani | Tamil | Nominated SIIMA Award for Best Debut Actress — Tamil",
+            "[ROW] 2015 | Mr. X | Siya Verma | Hindi | -",
+            "[ROW] 2017 | Kung Fu Yoga | Kyra | Mandarin Hindi English | -",
+            "[ROW] 2018 | Manasuku Nachindi | Nithya | Telugu | -",
+            "[ROW] 2018 | Kaalakaandi | Neha | Hindi | -",
+            "[ROW] 2018 | The Trip (Season 2) | Ira | Hindi | English",
+            "[ROW] 2018 | Raju Gadu | Tanvi | Telugu | -",
+            "[ROW] 2018 | Rajma Chawal | Seher/Tara Chaudhary | Hindi | -",
+            "[ROW] 2019 | Mental Hai Kya | Tina | Hindi | Filming",
+            "[ROW] 2019 | Oodi Oodi Uzhaikanum | TBA | Tamil | Filming",
+            "[ROW] 2019 | Made in China | TBA | Hindi | -"
+        ],
+        "id":16
+    }
+
+    {
+        "Question":"Which role did Brooke Lewis reprise?",
+        "Ground Truth":"In 2009, Brooke Lewis was in the TV show, Ms. Vampy, followed by Ms. Vampy's Tween Tawk, Teen Tawk & In Between Tawk in 2011 and Ms. Vampy's Love Bites in 2013.",
+        "Prediction":"brooke lewis reprised her role as francine wilcox in the 2015 tv series scream queens.",
+        "Table Title":"Brooke Lewis | Acting",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1998 | One Life To Live | Nurse #1 | TV Series",
+            "[ROW] 2001 | All About Us | The Girl | TV Series",
+            "[ROW] 2004 | Quintuplets | Gina Grizano | TV Series",
+            "[ROW] 2006 | Mafiosa | Mercedes Brazil | TV Series",
+            "[ROW] 2008 | Scream Queens (2015 TV series) | Vampires Assistant Amanda | TV Series",
+            "[ROW] 2009 | Ms. Vampy | Ms. Vampy | TV Series",
+            "[ROW] 2009 | Life’s a Butch | Francine Wilcox | TV Series",
+            "[ROW] 2011 | Ms. Vampy's Tween Tawk, Teen Tawk & In Between Tawk | Ms. Vampy | TV Series",
+            "[ROW] 2013 | Ms. Vampy's Love Bites | Ms. Vampy | TV Series",
+            "[ROW] 2015 | Breaking Dating | Host | TV Series"
+        ],
+        "id":17
+    }
+
+    {
+        "Question":"What NAACP image nominations did Tower Heist receive in 2012?",
+        "Ground Truth":"Tower Heist received two NAACP Image Award nominations, for Outstanding Motion Picture and Outstanding Actor in a Motion Picture for Murphy.",
+        "Prediction":"tower heist received two naacp image nominations in 2012 for outstanding motion picture and outstanding actor in a motion picture.",
+        "Table Title":"Tower Heist | Accolades",
+        "Table Rows":[
+            "[COL] Year | Award | Category | Recipient | Result | Ref.",
+            "[ROW] 2012 | NAACP Image Award | Outstanding Motion Picture | Tower Heist | Nominated | -",
+            "[ROW] 2012 | NAACP Image Award | Outstanding Actor in a Motion Picture | Eddie Murphy | Nominated | -"
+        ],
+        "id":18
+    }
+
+    {
+        "Question":"How many albums did John S. Hall and King Missle release on Shimmy Disc label, what are they and what year did they release?",
+        "Ground Truth":"John S. Hall and King Missile released two albums on the Shimmy Disc label, 1987's Fluting on the Hump and 1988's They.",
+        "Prediction":"john s. hall and king missile released two albums on shimmy disc label, fluting on the hump in 1987 and they in 1988.",
+        "Table Title":"John S. Hall | With King Missile (Dog Fly Religion)",
+        "Table Rows":[
+            "[COL] Album | Record Label | Release Year",
+            "[ROW] Fluting on the Hump | Shimmy Disc | 1987",
+            "[ROW] They | Shimmy Disc | 1988"
+        ],
+        "id":19
+    }
+
+    {
+        "Question":"Did \"The Presets\" win any award?",
+        "Ground Truth":"The Presets won Best Live Act in the mix Awards for 2012.",
+        "Prediction":"\"the presets\" won best live act in 2012.",
+        "Table Title":"The Presets | In the Mix Awards",
+        "Table Rows":[
+            "[COL] Year | Nominee / work | Award | Result",
+            "[ROW] 2006 | \"Are You the One?\" | Best Video (Kris Moyes) | Won",
+            "[ROW] 2012 | The Presets | Best Live Act | Won",
+            "[ROW] 2013 | The Presets | Best Live Act | Nominated"
+        ],
+        "id":20
+    }

@@ -1,0 +1,2039 @@
+
+    {
+        "Prediction":"camilla belle received her third and fourth young artist award for replacing dad in 2000 and rip girls in 2001.",
+        "Question":"Why did Camilla Belle receive her third and fourth Young Artist Award? ",
+        "Ground Truth":"Camilla Belle received her third and fourth Young Artist Award nominations for the telefilm, Replacing Dad, and for her lead role in the movie, Rip Girls.",
+        "Table Title":"Camilla Belle | Awards and nominations",
+        "Table Rows":[
+            "[COL] Year | Award | Category | Work | Result",
+            "[ROW] 1999 | Young Artist Award | Best Performance in a TV Drama Series – Guest Starring Young Actress | Walker, Texas Ranger | Nominated",
+            "[ROW] 1999 | Young Artist Award | Best Performance in a Feature Film – Supporting Young Actress | Practical Magic | Nominated",
+            "[ROW] 2000 | Young Artist Award | Best Performance in a TV Movie or Pilot – Supporting Young Actress | Replacing Dad | Nominated",
+            "[ROW] 2001 | Young Artist Award | Best Performance in a TV Movie (Drama) – Leading Young Actress | Rip Girls | Nominated",
+            "[ROW] 2005 | Gotham Awards | Breakthrough Award | The Ballad of Jack and Rose | Nominated"
+        ],
+        "id":1
+    }
+
+    {
+        "Prediction":"in 2006, it's all gone pete tong was nominated for a genie award for best overall sound and a genie award for best achievement in sound editing.",
+        "Question":"Which awards was It's All Gone Pete Tong nominated for?",
+        "Ground Truth":"Michael McCann´s film \"It's All Gone Pete Tong\" earned him two Genie Award nominations for Best Overall Sound Editing and Best Overall Sound.",
+        "Table Title":"Michael McCann (composer) | Awards and nominations",
+        "Table Rows":[
+            "[COL] Year | Award | Title | Category | Result",
+            "[ROW] 2012 | BAFTA Video Game Awards | Deus Ex: Human Revolution | Best Original Music | Nominated",
+            "[ROW] 2012 | Canadian Video Game Awards | Deus Ex: Human Revolution | Best Original Music | Won",
+            "[ROW] 2011 | Cue Awards | - | Breakout Composer of the Year | Nominated",
+            "[ROW] 2011 | Cue Awards | Deus Ex: Human Revolution | Best Score in Film / Media | Nominated",
+            "[ROW] 2011 | Cue Awards | Deus Ex: Human Revolution | Best Score for a Video Game | Nominated",
+            "[ROW] 2011 | Cue Awards | Deus Ex: Human Revolution \"Icarus\" | Most Memorable Theme | Nominated",
+            "[ROW] 2011 | Spike TV Video Game Awards | Deus Ex: Human Revolution | Best Original Score | Nominated",
+            "[ROW] 2011 | Hollywood Music In Media | Deus Ex: Human Revolution | Best Original Score | Nominated",
+            "[ROW] 2011 | G4TV X-Play Awards | Deus Ex: Human Revolution | Best Original Score | Nominated",
+            "[ROW] 2008 | Hollywood Music Awards | ReGenesis | Best TV Theme | Nominated",
+            "[ROW] 2007 | Academy of Interactive Arts & Sciences | Tom Clancy's Splinter Cell: Double Agent | Best Original Score | Nominated",
+            "[ROW] 2007 | G.A.N.G. | Tom Clancy's Splinter Cell: Double Agent | Best Interactive Score | Nominated",
+            "[ROW] 2006 | IGN's \"Best of 2006\" | Tom Clancy's Splinter Cell: Double Agent | Best Original Score (Xbox 360) | -",
+            "[ROW] 2006 | Genie Award | It's All Gone Pete Tong | Best Overall Sound | Nominated",
+            "[ROW] 2006 | Genie Award | It's All Gone Pete Tong | Best Achievement in Sound Editing | Nominated",
+            "[ROW] 2005 | Leo Awards | It's All Gone Pete Tong | Best Overall Sound | Won",
+            "[ROW] 2005 | Leo Awards | It's All Gone Pete Tong | Best Overall Sound Editing | Won",
+            "[ROW] 2004 | Toronto International Film Festival | It's All Gone Pete Tong | Best Canadian Feature Film | Won",
+            "[ROW] 2002 | Sundance Film Festival | FUBAR | Official Selection | -"
+        ],
+        "id":2
+    }
+
+    {
+        "Prediction":"jonathan permal won the bronze medal in 2013 for the 200 m.",
+        "Question":"Who won the bronze medal in 2013 for the 200 m?",
+        "Ground Truth":"At the 2013 Jeux de la Francophonie, Jonathan Permal won a bronze medal in the 200 m.",
+        "Table Title":"Jonathan Permal | International competition record",
+        "Table Rows":[
+            "[COL] Year | Competition | Venue | Position | Event | Notes",
+            "[ROW] 2011 | World Youth Championships | Lille, France | 6th (heats) | 100 m | 11.28",
+            "[ROW] 2011 | World Youth Championships | Lille, France | 3rd (heats) | 200 m | 22.01",
+            "[ROW] 2011 | Commonwealth Youth Games | Douglas, Isle of Man | 4th (heats) | 100 m | 11.12",
+            "[ROW] 2011 | Commonwealth Youth Games | Douglas, Isle of Man | 5th | 200 m | 21.96",
+            "[ROW] 2012 | World Junior Championships | Barcelona, Spain | 4th (heats) | 200 m | 21.58",
+            "[ROW] 2013 | African Junior Championships | Bambous, Mauritius | 3rd | 100 m | 10.65",
+            "[ROW] 2013 | African Junior Championships | Bambous, Mauritius | 2nd | 200 m | 21.26",
+            "[ROW] 2013 | African Junior Championships | Bambous, Mauritius | 2nd | 4 × 100 m relay | 40.86",
+            "[ROW] 2013 | Jeux de la Francophonie | Nice, France | 3rd | 200 m | 21.35",
+            "[ROW] 2014 | Commonwealth Games | Glasgow, Scotland | 3rd (heats) | 100 m | 10.46",
+            "[ROW] 2014 | Commonwealth Games | Glasgow, Scotland | 4th (heats) | 200 m | 21.21",
+            "[ROW] 2014 | African Championships | Marrakech, Morocco | 5th (semis) | 100 m | 10.49",
+            "[ROW] 2014 | African Championships | Marrakech, Morocco | 5th (semis) | 200 m | 20.85"
+        ],
+        "id":3
+    }
+
+    {
+        "Prediction":"south down (uk parliament constituency) was re-created from down in the 1950s by lawrence orr of the ulster unionist party.",
+        "Question":"What were the results of the 2017 parliamentary election in the constituency of South Down, UK?",
+        "Ground Truth":"In 2017 Sinn Féin gained the constituency with Chris Hazzard defeating the former leader of the Social Democratic and Labour Party, Margaret Ritchie.",
+        "Table Title":"South Down (UK Parliament constituency) | Members of Parliament",
+        "Table Rows":[
+            "[COL] Election | Election | Member | Party",
+            "[ROW] 1885 | 1885 | Constituency created | Constituency created",
+            "[ROW] - | 1885 | John Francis Small | Irish Parliamentary Party",
+            "[ROW] - | 1886 | Michael McCartan | Irish Parliamentary Party",
+            "[ROW] - | 1892 | Michael McCartan | Irish National Federation",
+            "[ROW] - | 1895 | Michael McCartan | Irish National Federation",
+            "[ROW] - | 1900 | Michael McCartan | Irish Parliamentary Party",
+            "[ROW] - | 1902* | Jeremiah McVeagh | Irish Parliamentary Party",
+            "[ROW] - | 1906 | Jeremiah McVeagh | Irish Parliamentary Party",
+            "[ROW] - | 1910 (Jan) | Jeremiah McVeagh | Irish Parliamentary Party",
+            "[ROW] - | 1910 (Dec) | Jeremiah McVeagh | Irish Parliamentary Party",
+            "[ROW] - | 1918 | Jeremiah McVeagh | Irish Parliamentary Party",
+            "[ROW] 1922 | 1922 | Constituency abolished – see Down | Constituency abolished – see Down",
+            "[ROW] 1950 | 1950 | Constituency re-created from Down | Constituency re-created from Down",
+            "[ROW] - | 1950 | Lawrence Orr | Ulster Unionist Party",
+            "[ROW] - | 1951 | Lawrence Orr | Ulster Unionist Party",
+            "[ROW] - | 1955 | Lawrence Orr | Ulster Unionist Party",
+            "[ROW] - | 1959 | Lawrence Orr | Ulster Unionist Party",
+            "[ROW] - | 1964 | Lawrence Orr | Ulster Unionist Party",
+            "[ROW] - | 1966 | Lawrence Orr | Ulster Unionist Party",
+            "[ROW] - | 1970 | Lawrence Orr | Ulster Unionist Party",
+            "[ROW] - | 1974 (Feb) | Lawrence Orr | Ulster Unionist Party",
+            "[ROW] - | 1974 (Oct) | Enoch Powell | Ulster Unionist Party",
+            "[ROW] - | 1979 | Enoch Powell | Ulster Unionist Party",
+            "[ROW] - | 1983 | Enoch Powell | Ulster Unionist Party",
+            "[ROW] - | 1987 | Eddie McGrady | Social Democratic and Labour Party",
+            "[ROW] - | 1992 | Eddie McGrady | Social Democratic and Labour Party",
+            "[ROW] - | 1997 | Eddie McGrady | Social Democratic and Labour Party",
+            "[ROW] - | 2001 | Eddie McGrady | Social Democratic and Labour Party",
+            "[ROW] - | 2005 | Eddie McGrady | Social Democratic and Labour Party",
+            "[ROW] - | 2010 | Margaret Ritchie | Social Democratic and Labour Party",
+            "[ROW] - | 2015 | Margaret Ritchie | Social Democratic and Labour Party",
+            "[ROW] - | 2017 | Chris Hazzard | Sinn Féin"
+        ],
+        "id":4
+    }
+
+    {
+        "Prediction":"shahrel fikri joined malaysia fam league club pknp in 2016.",
+        "Question":"What happened to Shahrel under the PKNP club in 2016?",
+        "Ground Truth":"Shahrel joined Malaysia FAM League club PKNP in 2016.",
+        "Table Title":"Shahrel Fikri | Club",
+        "Table Rows":[
+            "[COL] Club | Season | League | League | League | Cup | Cup | League Cup | League Cup | Continental | Continental | Total | Total",
+            "[ROW] Club | Season | Division | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals",
+            "[ROW] PKNP | - | - | - | - | - | - | - | - | - | - | - | -",
+            "[ROW] PKNP | 2016 | Malaysia FAM League | 20 | 13 | – | – | – | – | – | – | 20 | 13",
+            "[ROW] PKNP | 2017 | Malaysia Premier League | 21 | 11 | 4 | 3 | 7 | 6 | – | – | 32 | 20",
+            "[ROW] PKNP | 2018 | Malaysia Super League | 12 | 5 | 5 | 4 | 0 | 0 | – | – | 17 | 9",
+            "[ROW] PKNP | Total | Total | 53 | 29 | 9 | 7 | 7 | 6 | 0 | 0 | 69 | 42",
+            "[ROW] Nakhon Ratchasima (loan) | - | - | - | - | - | - | - | - | - | - | - | -",
+            "[ROW] Nakhon Ratchasima (loan) | 2018 | Thai League 1 | 10 | 1 | 0 | 0 | 2 | 1 | – | – | 12 | 2",
+            "[ROW] Nakhon Ratchasima (loan) | Total | Total | 10 | 1 | 0 | 0 | 2 | 1 | – | – | 12 | 2",
+            "[ROW] Perak (loan) | - | - | - | - | - | - | - | - | - | - | - | -",
+            "[ROW] Perak (loan) | 2019 | Malaysia Super League | 1 | 0 | 0 | 0 | 0 | 0 | – | – | 1 | 1",
+            "[ROW] Perak (loan) | Total | Total | 1 | 0 | 0 | 0 | 0 | 1 | – | – | 1 | 0",
+            "[ROW] Career total | Career total | Career total | 64 | 30 | 9 | 7 | 9 | 7 | 0 | 0 | 82 | 44"
+        ],
+        "id":5
+    }
+
+    {
+        "Prediction":"sarkology was nominated for world’s best album at the 2014 world music awards.",
+        "Question":"What was the title of the album nominated for World’s Best Album at the 2014 World Music Awards?",
+        "Ground Truth":"Sarkology was nominated for World’s Best Album at the 2014 World Music Awards.",
+        "Table Title":"Sarkology | Accolades",
+        "Table Rows":[
+            "[COL] Year | Awards ceremony | Award description(s) | Results",
+            "[ROW] 2014 | Ghana Music Awards | Album of the Year | Won",
+            "[ROW] 2014 | World Music Awards | World’s Best Album | Nominated"
+        ],
+        "id":6
+    }
+
+    {
+        "Prediction":"in 2007, satoru kawaguchi played as keiichiro in the film water.",
+        "Question":"In 2007, what did Satoru Kawaguchi portray?",
+        "Ground Truth":"In 2017, Satoru Kawaguchi portrayed Hiromichi in Rangoon and Kazutoshi Ishii in Ah, Kouya (Wilderness).",
+        "Table Title":"Satoru Kawaguchi | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2007 | Water | Keiichiro | Leading role",
+            "[ROW] 2013 | At the Last Stop Called Ghost Chimney | A bus driver | short film",
+            "[ROW] 2015 | Areno - the wilderness | husband | -",
+            "[ROW] 2017 | Rangoon | Hiromichi | -",
+            "[ROW] 2017 | Ah, Kouya (Wilderness) | Kazutoshi Ishii | -",
+            "[ROW] 2018 | OVER DRIVE | Ryuta Seki | -",
+            "[ROW] 2018 | Ten Years Japan | Itami | Segment: Plan75, leading role"
+        ],
+        "id":7
+    }
+
+    {
+        "Prediction":"koumi line has 13 stations.",
+        "Question":"How many stations does Koumi Line have altogether and what are they?",
+        "Ground Truth":"Koumi Line has 31 stations including Kobuchizawa Station in Hokuto, Yamanashi and Komoro Station in Komoro, Nagano.",
+        "Table Title":"Koumi Line | Stations",
+        "Table Rows":[
+            "[COL] Station | Japanese | Distance (km) | Distance (km) | Transfers | - | Location | Location",
+            "[ROW] Station | Japanese | Between stations | Total | Transfers | - | Location | Location",
+            "[ROW] Kobuchizawa | 小淵沢 | - | 0.0 | Chūō Main Line | ∨ | Hokuto | Yamanashi",
+            "[ROW] Kai-Koizumi | 甲斐小泉 | 7.1 | 7.1 | - | ◇ | Hokuto | Yamanashi",
+            "[ROW] Kai-Ōizumi | 甲斐大泉 | 5.1 | 12.2 | - | ◇ | Hokuto | Yamanashi",
+            "[ROW] Kiyosato | 清里 | 5.3 | 17.5 | - | ◇ | Hokuto | Yamanashi",
+            "[ROW] Nobeyama | 野辺山 | 5.9 | 23.4 | - | ◇ | Minamimaki, Minamisaku District | Nagano",
+            "[ROW] Shinano-Kawakami | 信濃川上 | 8.1 | 31.5 | - | ◇ | Kawakami, Minamisaku | Nagano",
+            "[ROW] Saku-Hirose | 佐久広瀬 | 3.4 | 34.9 | - | ｜ | Minamimaki, Minamisaku | Nagano",
+            "[ROW] Saku-Uminokuchi | 佐久海ノ口 | 4.8 | 39.7 | - | ◇ | Minamimaki, Minamisaku | Nagano",
+            "[ROW] Umijiri | 海尻 | 2.4 | 42.1 | - | ｜ | Minamimaki, Minamisaku | Nagano",
+            "[ROW] Matsubarako | 松原湖 | 2.7 | 44.8 | - | ｜ | Koumi, Minamisaku | Nagano",
+            "[ROW] Koumi | 小海 | 3.5 | 48.3 | - | ◇ | Koumi, Minamisaku | Nagano",
+            "[ROW] Managashi | 馬流 | 1.6 | 49.9 | - | ｜ | Koumi, Minamisaku | Nagano",
+            "[ROW] Takaiwa | 高岩 | 1.8 | 51.7 | - | ｜ | Sakuho, Minamisaku | Nagano",
+            "[ROW] Yachiho | 八千穂 | 2.2 | 53.9 | - | ◇ | Sakuho, Minamisaku | Nagano",
+            "[ROW] Kaize | 海瀬 | 2.6 | 56.5 | - | ｜ | Sakuho, Minamisaku | Nagano",
+            "[ROW] Haguroshita | 羽黒下 | 1.3 | 57.8 | - | ◇ | Sakuho, Minamisaku | Nagano",
+            "[ROW] Aonuma | 青沼 | 1.7 | 59.5 | - | ｜ | Saku | Nagano",
+            "[ROW] Usuda | 臼田 | 1.4 | 60.9 | - | ◇ | Saku | Nagano",
+            "[ROW] Tatsuokajō | 龍岡城 | 1.2 | 62.1 | - | ｜ | Saku | Nagano",
+            "[ROW] Ōtabe | 太田部 | 2.0 | 64.1 | - | ｜ | Saku | Nagano",
+            "[ROW] Nakagomi | 中込 | 1.4 | 65.5 | - | ◇ | Saku | Nagano",
+            "[ROW] Namezu | 滑津 | 1.0 | 66.5 | - | ｜ | Saku | Nagano",
+            "[ROW] Kita-Nakagomi | 北中込 | 1.9 | 68.4 | - | ｜ | Saku | Nagano",
+            "[ROW] Iwamurada | 岩村田 | 2.2 | 70.6 | - | ◇ | Saku | Nagano",
+            "[ROW] Sakudaira | 佐久平 | 0.9 | 71.5 | Hokuriku Shinkansen | ｜ | Saku | Nagano",
+            "[ROW] Nakasato | 中佐都 | 0.9 | 72.4 | - | ｜ | Saku | Nagano",
+            "[ROW] Misato | 美里 | 1.4 | 73.8 | - | ｜ | Komoro | Nagano",
+            "[ROW] Mitsuoka | 三岡 | 1.5 | 75.3 | - | ◇ | Komoro | Nagano",
+            "[ROW] Otome | 乙女 | 1.1 | 76.4 | - | ｜ | Komoro | Nagano",
+            "[ROW] Higashi-Komoro | 東小諸 | 1.0 | 77.4 | - | ｜ | Komoro | Nagano",
+            "[ROW] 小諸 | 1.5 | 78.9 | Shinano Railway Line | ∧ | - | Komoro | Nagano"
+        ],
+        "id":8
+    }
+
+    {
+        "Prediction":"yelena isinbayeva raised her world inner mark four times, reaching 4.87 m in donetsk, ukraine in 2005, 4.90 m in lievin, france in 2005, 4.93 m in donetsk, ukraine in 2006, 4.95 m in donetsk, ukraine in 2007, 4.97 m in donetsk, ukraine in 2008, and 5.01 m in stockholm, sweden in",
+        "Question":"How many times did Yelena Isinbayeva raise her world inner mark and did she clear those heights?",
+        "Ground Truth":"Yelena Isinbayeva raised her world indoor mark to 4.97 m and then raised it to 5.00 m and cleared that height as well.",
+        "Table Title":"Yelena Isinbayeva | World record progression by Isinbayeva",
+        "Table Rows":[
+            "[COL] Performance | Venue | Date",
+            "[ROW] 4.81 m | Donetsk, Ukraine | 15 February 2004",
+            "[ROW] 4.83 m | Donetsk, Ukraine | 15 February 2004",
+            "[ROW] 4.86 m | Budapest, Hungary | 6 March 2004",
+            "[ROW] 4.87 m | Donetsk, Ukraine | 12 February 2005",
+            "[ROW] 4.88 m | Birmingham, England | 15 February 2005",
+            "[ROW] 4.89 m | Lievin, France | 18 February 2005",
+            "[ROW] 4.90 m | Donetsk, Ukraine | 26 February 2005",
+            "[ROW] 4.91 m | Madrid, Spain | 6 March 2005",
+            "[ROW] 4.93 m | Donetsk, Ukraine | 12 February 2006",
+            "[ROW] 4.95 m | Donetsk, Ukraine | 10 February 2007",
+            "[ROW] 4.97 m | Donetsk, Ukraine | 16 February 2008",
+            "[ROW] 5.00 m | Donetsk, Ukraine | 15 February 2009",
+            "[ROW] 5.01 m | Stockholm, Sweden | 23 February 2012"
+        ],
+        "id":9
+    }
+
+    {
+        "Prediction":"in 1993, corona released \"the rhythm of the night\" and \"baby baby\".",
+        "Question":"When did Corona release \"The Rhythm of the Night\" and \"Baby Baby?\"",
+        "Ground Truth":"Corona released \"The Rhythm of the Night\" in 1993 and \"Baby Baby\" in 1995.",
+        "Table Title":"Corona (band) | Singles",
+        "Table Rows":[
+            "[COL] Year | Title | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Certifications | Album",
+            "[ROW] Year | Title | ITA | AUS | AUT | FIN | FRA | GER | NED | SPA | SWE | UK | US | Certifications | Album",
+            "[ROW] 1993 | \"The Rhythm of the Night\" | 1 | 8 | 6 | — | 3 | 8 | 5 | 3 | 28 | 2 | 11 | AUS: Gold FRA: Gold GER: Gold UK: Gold | The Rhythm of the Night",
+            "[ROW] 1995 | \"Baby Baby\" | 1 | 7 | 13 | 6 | 16 | 41 | 26 | 2 | 10 | 5 | 57 | AUS: Gold | The Rhythm of the Night",
+            "[ROW] 1995 | \"Try Me Out\" | 2 | 10 | 20 | 5 | 11 | 40 | 45 | 4 | 17 | 6 | — | AUS: Gold UK: Silver | The Rhythm of the Night",
+            "[ROW] 1995 | \"I Don't Wanna Be a Star\" | 2 | 109 | 25 | 6 | 18 | 69 | — | 1 | 37 | 22 | — | - | The Rhythm of the Night",
+            "[ROW] 1996 | \"Megamix\" | 20 | 161 | — | — | 40 | — | — | — | 43 | 36 | — | - | Non-album single",
+            "[ROW] 1997 | \"The Power of Love\" | 25 | — | — | — | — | — | — | 7 | — | — | — | - | Walking on Music",
+            "[ROW] 1998 | \"Walking on Music\" | — | — | — | — | — | — | — | 8 | — | — | — | - | Walking on Music",
+            "[ROW] 1998 | \"Magic Touch\" | — | — | — | — | — | — | — | 3 | — | — | — | - | Walking on Music",
+            "[ROW] 2000 | \"Good Love\" | — | — | — | — | — | — | — | — | — | — | — | - | And Me U",
+            "[ROW] 2000 | \"Volcano\" | 27 | — | — | — | — | — | — | — | — | — | — | - | And Me U",
+            "[ROW] 2006 | \"Back in Time\" | 36 | — | — | 15 | — | — | — | 49 | — | — | — | - | Non-album singles",
+            "[ROW] 2006 | \"I'll Be Your Lady\" | 37 | — | — | — | — | — | — | — | — | — | — | - | Non-album singles",
+            "[ROW] 2008 | \"Baby I Don't Care\" | — | — | — | — | — | — | — | 46 | — | — | — | - | Non-album singles",
+            "[ROW] 2009 | \"La Playa Del Sol\" | 28 | — | — | — | — | — | — | 35 | — | — | — | - | Non-album singles",
+            "[ROW] 2010 | \"Angel\" | 15 | — | — | — | — | — | — | — | — | — | — | - | Y Generation",
+            "[ROW] 2011 | \"My Song (La Lai)\" | 34 | — | — | — | — | — | — | — | — | — | — | - | Y Generation",
+            "[ROW] 2012 | \"Hurry Up\" (featuring Mikey P.) | 44 | — | — | — | — | — | — | — | — | — | — | - | Non-album singles",
+            "[ROW] 2013 | \"Queen of Town\" | 61 | — | — | — | — | — | — | — | — | — | — | - | Non-album singles",
+            "[ROW] 2014 | \"Stay with Me\" | — | — | — | — | — | — | — | — | — | — | — | - | Non-album singles",
+            "[ROW] 2015 | \"We Used to Love\" | — | — | — | — | — | — | — | — | — | — | — | - | Non-album singles",
+            "[ROW] 2016 | \"Super Model\" | — | — | — | — | — | — | — | — | — | — | — | - | Non-album singles",
+            "[ROW] \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory. | \"—\" denotes items that did not chart or were not released in that territory."
+        ],
+        "id":10
+    }
+
+    {
+        "Prediction":"cray holds the filipino records in the 100 m and 200 m.",
+        "Question":"What events do Eric Cray hold the record for?",
+        "Ground Truth":"Eric Cray holds the Filipino record in the 400 metres hurdles and 100 metres.",
+        "Table Title":"List of Filipino records in athletics | Men",
+        "Table Rows":[
+            "[COL] Event | Record | Athlete | Date | Meet | Place | Ref",
+            "[ROW] 100 m | 10.25 (0.0 m/s) | Eric Cray | 9 June 2015 | Southeast Asian Games | Singapore Kallang, Singapore | -",
+            "[ROW] 200 m | 20.84 (+0.1 m/s) | Trenten Beram | 23 August 2017 | Southeast Asian Games | Malaysia Bukit Jalil, Malaysia | -",
+            "[ROW] 400 m | 45.57 | Isidro del Prado | 1 December 1984 | ASEAN Cup | Philippines Manila, Philippines | -",
+            "[ROW] 800 m | 1:47.77 | John Lozada | 26 May 2002 | Asian Grand Prix | Philippines Manila, Philippines | -",
+            "[ROW] 1500 m | 3:47.65 | Mervin Maligo Guarte | 13 November 2011 | Southeast Asian Games | Indonesia Palembang, Indonesia | -",
+            "[ROW] 3000 m | 8:17.14 | Eduardo Buenavista | 26 May 2002 | Asian Grand Prix | Philippines Manila, Philippines | -",
+            "[ROW] 5000 m | 13:58.43 | Eduardo Buenavista | 10 October 2002 | Asian Games | South Korea Busan, South Korea | -",
+            "[ROW] 10000 m | 29:02.36 | Eduardo Buenavista | 7 October 2002 | Asian Games | South Korea Busan, South Korea | -",
+            "[ROW] Half marathon | 1:02:58 | Eduardo Buenavista | 6 July 2008 | - | Philippines Manila, Philippines | -",
+            "[ROW] Marathon | 2:18:44 | Eduardo Buenavista | 1 February 2004 | Beppu-Ōita Marathon | Japan Ōita, Japan | -",
+            "[ROW] 110 m hurdles | 13.91 (+0.3 m/s) | Patrick Ma. Unso | 12 June 2017 | Thailand Open | Thailand Bangkok, Thailand | -",
+            "[ROW] 400 m hurdles | 48.98 | Eric Cray | 23 June 2016 | Meeting de Atletismo Madrid | Spain Madrid, Spain | -",
+            "[ROW] 3000 m steeplechase | 8:35.09 | Héctor Begeo | 28 September 1988 | Olympic Games | South Korea Seoul, South Korea | -",
+            "[ROW] High jump | 2.17 m | Sean Guevara | 15 April 2005 | National Open | Philippines Manila, Philippines | -",
+            "[ROW] Pole vault | 5.61 m | Ernest Obiena | 30 July 2017 | Stabhochsprung Classic | Germany Leverkusen, Germany | -",
+            "[ROW] Pole vault | 5.71 m | Ernest Obiena | 21 April 2019 | Asian Championships | Qatar Doha, Qatar | -",
+            "[ROW] Long jump | 7.99 m (+0.2 m/s) | Henry Dagmil | 7 June 2008 | - | United States Eagle Rock, United States | -",
+            "[ROW] Triple jump | 16.70 m (+0.8 m/s) | Mark Harry Diones | 1 April 2017 | Philippine Open Invitational Championships | Philippines Ilagan, Philippines | -",
+            "[ROW] Shot put | 16.74 m | Eliezer Sunang | 5 September 2013 | - | Thailand Bangkok, Thailand | -",
+            "[ROW] Shot put | 17.88 m # | Stuart Caleb | 16 May 2014 | - | United States Davis, United States | -",
+            "[ROW] Discus throw | 52.10 m | Fidel Repizo | 1 December 1991 | Southeast Asian Games | Philippines Manila, Philippines | -",
+            "[ROW] Hammer throw | 68.66 m | Caleb Stuart | 13 March 2015 | Ben Brown Invitational | United States Fullerton, United States | -",
+            "[ROW] Javelin throw | 72.93 m | Danilo Fresnido | 17 December 2009 | Southeast Asian Games | Laos Vientiane, Laos | -",
+            "[ROW] Decathlon | 7433 pts | Aries Toledo | 22–23 August 2017 | Southeast Asian Games | Malaysia Bukit Jalil, Malaysia | -",
+            "[ROW] Decathlon | - | - | - | - | - | -",
+            "[ROW] 20 km walk (road) | 1:33:51 | Michael Embuedo | 11 May 2009 | - | Philippines Lingayen, Philippines | -",
+            "[ROW] 50 km walk (road) | 4:22:38 | Saturnino Salazar | 19 May 1997 | - | Philippines Lingayen, Philippines | -",
+            "[ROW] 4 × 100 m relay | 39.11 | Philippines Anfernee Lopena Archand Christian Bagsit Eric Shauwn Cray Trenten Beram | 25 August 2017 | Southeast Asian Games | Malaysia Bukit Jalil, Malaysia | -",
+            "[ROW] 4 × 400 m relay | 3:06.58 | Philippines Marlon Pagalilavan Romeo Gido Honesto Larce Isidro Del Prado | 14 December 1985 | Southeast Asian Games | Thailand Bangkok, Thailand | -",
+            "[ROW] 4 × 800 m relay | 7:42.20 | Philippines Wenlie Maulas Paul Billones Christopher Ulboc Mervin Guarte | 26 July 2014 | Vietnam Open | Vietnam Ho Chi Minh City, Vietnam | -"
+        ],
+        "id":11
+    }
+
+    {
+        "Prediction":"amanda beard (2:25.35) and luo xuejuan (2:27.33) closed out the field.",
+        "Question":"What two athletes closed out the field and what were their times?",
+        "Ground Truth":"Japan's Masami Tanaka (2:26.98) and Luo Xuejuan (2:27.33) closed out the field.",
+        "Table Title":"Swimming at the 2000 Summer Olympics – Women's 200 metre breaststroke | Final",
+        "Table Rows":[
+            "[COL] Rank | Lane | Name | Nationality | Time | Notes",
+            "[ROW] - | 4 | Ágnes Kovács | Hungary | 2:24.35 | -",
+            "[ROW] - | 6 | Kristy Kowal | United States | 2:24.56 | AM",
+            "[ROW] - | 8 | Amanda Beard | United States | 2:25.35 | -",
+            "[ROW] 4 | 5 | Qi Hui | China | 2:25.36 | -",
+            "[ROW] 5 | 3 | Olga Bakaldina | Russia | 2:25.47 | -",
+            "[ROW] 6 | 2 | Sarah Poewe | South Africa | 2:25.72 | -",
+            "[ROW] 7 | 1 | Masami Tanaka | Japan | 2:26.98 | -",
+            "[ROW] 8 | 7 | Luo Xuejuan | China | 2:27.33 | -"
+        ],
+        "id":12
+    }
+
+    {
+        "Prediction":"in 2004, michael crawford played the role of count fosco in the woman in white.",
+        "Question":"What play and role did Michael Crawford play in 2004?",
+        "Ground Truth":"In 2004, Michael Crawford played the role of Count Fosco in The Woman in White.",
+        "Table Title":"Michael Crawford | Stage productions",
+        "Table Rows":[
+            "[COL] Year | Title | Role(s)",
+            "[ROW] 1967 | Black Comedy / White Lies | Brindsley Miller / Tom",
+            "[ROW] 1971 | No Sex Please, We're British | Brian Runnicles",
+            "[ROW] 1974 | Billy | Billy Liar",
+            "[ROW] 1979 | Flowers for Algernon | Charlie Gordon",
+            "[ROW] 1981 | Barnum | P.T. Barnum",
+            "[ROW] 1986–90 | The Phantom of the Opera | The Phantom",
+            "[ROW] 1995 | EFX | The EFX Master / Merlin / P.T. Barnum / Harry Houdini / H.G. Wells",
+            "[ROW] 2002–03 | Dance of the Vampires | Count Giovanni von Krolock",
+            "[ROW] 2004 | The Woman in White | Count Fosco",
+            "[ROW] 2011–12 | The Wizard of Oz | Professor Marvel / Emerald City Doorman / Tour Guide / Wizard of Oz",
+            "[ROW] 2016 | The Go-Between | Older Leo Colston"
+        ],
+        "id":13
+    }
+
+    {
+        "Prediction":"on 27 september 2005, manraze played a show at the spitz in london.",
+        "Question":"Where did ManRaze play a show on 27 September 2005?",
+        "Ground Truth":"ManRaze played at the Spitz in London, England, on 27 September 2005.",
+        "Table Title":"Man Raze | ManRaze Past Shows",
+        "Table Rows":[
+            "[COL] Date | City | Country | Venue",
+            "[ROW] 19 March 2008 | Los Angeles | United States | Mates Studios",
+            "[ROW] 27 September 2005 | London | England | The Spitz"
+        ],
+        "id":14
+    }
+
+    {
+        "Prediction":"monica twum competed in the 4  100 m relay at her first olympic games in 2000, where she finished 31st with a personal record of 11.70 seconds.",
+        "Question":"When did Monica Twum attend her first Olympic Games, and what was her personal record in the 4 x 100 m relay during that competition?",
+        "Ground Truth":"Monica Twum achieved the 4 x 100 metres relay in 43.19 at the 2000 Olympics in Sydney.",
+        "Table Title":"Monica Twum | Achievements",
+        "Table Rows":[
+            "[COL] Year | Competition | Venue | Position | Event | Notes",
+            "[ROW] Representing Ghana | Representing Ghana | Representing Ghana | Representing Ghana | Representing Ghana | Representing Ghana",
+            "[ROW] 1997 | African Junior Championships | Ibadan, Nigeria | 2nd | 100 m | 12.42",
+            "[ROW] 1997 | African Junior Championships | Ibadan, Nigeria | 2nd | 200 m | 24.28",
+            "[ROW] 1997 | African Junior Championships | Ibadan, Nigeria | 3rd | 400 m | 54.35",
+            "[ROW] 1998 | Commonwealth Games | Kuala Lumpur, Malaysia | 15th (h) | 100 m | 11.72",
+            "[ROW] 1998 | Commonwealth Games | Kuala Lumpur, Malaysia | 8th | 200 m | 23.73",
+            "[ROW] 1998 | Commonwealth Games | Kuala Lumpur, Malaysia | 4th | 4 × 100 m relay | 43.81",
+            "[ROW] 1999 | World Championships | Seville, Spain | 40th (h) | 100 m | 11.70",
+            "[ROW] 1999 | All-Africa Games | Johannesburg, South Africa | 7th | 100 m | 11.48",
+            "[ROW] 1999 | All-Africa Games | Johannesburg, South Africa | 3rd | 200 m | 22.98",
+            "[ROW] 1999 | All-Africa Games | Johannesburg, South Africa | 3rd | 4 × 100 m relay | 44.21",
+            "[ROW] 2000 | African Championships | Algiers, Algeria | 3rd | 100 m | 11.47",
+            "[ROW] 2000 | Olympic Games | Sydney, Australia | 31st (qf) | 100 m | 11.70",
+            "[ROW] 2000 | Olympic Games | Sydney, Australia | 35th (h) | 200 m | 23.51",
+            "[ROW] 2000 | Olympic Games | Sydney, Australia | 9th (sf) | 4 × 100 m relay | 43.19"
+        ],
+        "id":15
+    }
+
+    {
+        "Prediction":"roy pritchard played in the first division with wolverhampton wanderers in the 1953–54 and 1958–59 seasons.",
+        "Question":"Which clubs and divisions did Roy Pritchard play for in the 1953-4 and 1958-9 seasons, respectively?",
+        "Ground Truth":"Roy Pritchard played in the Fourth Division with Port Vale in 1958–59 and in the First Division with Wolves in 1953–54.",
+        "Table Title":"Roy Pritchard | Statistics",
+        "Table Rows":[
+            "[COL] Club | Season | Division | League | League | FA Cup | FA Cup | Total | Total",
+            "[ROW] Club | Season | Division | Apps | Goals | Apps | Goals | Apps | Goals",
+            "[ROW] Wolverhampton Wanderers | 1946–47 | First Division | 4 | 0 | 0 | 0 | 4 | 0",
+            "[ROW] Wolverhampton Wanderers | 1947–48 | First Division | 20 | 0 | 0 | 0 | 20 | 0",
+            "[ROW] Wolverhampton Wanderers | 1948–49 | First Division | 30 | 0 | 6 | 0 | 36 | 0",
+            "[ROW] Wolverhampton Wanderers | 1949–50 | First Division | 26 | 0 | 6 | 0 | 32 | 0",
+            "[ROW] Wolverhampton Wanderers | 1950–51 | First Division | 29 | 0 | 7 | 0 | 36 | 0",
+            "[ROW] Wolverhampton Wanderers | 1951–52 | First Division | 19 | 0 | 0 | 0 | 19 | 0",
+            "[ROW] Wolverhampton Wanderers | 1952–53 | First Division | 40 | 0 | 1 | 0 | 41 | 0",
+            "[ROW] Wolverhampton Wanderers | 1953–54 | First Division | 27 | 0 | 1 | 0 | 28 | 0",
+            "[ROW] Wolverhampton Wanderers | 1954–55 | First Division | 7 | 0 | 0 | 0 | 7 | 0",
+            "[ROW] Wolverhampton Wanderers | Total | Total | 202 | 0 | 21 | 0 | 223 | 0",
+            "[ROW] Aston Villa | 1955–56 | First Division | 1 | 0 | 0 | 0 | 1 | 0",
+            "[ROW] Aston Villa | 1956–57 | First Division | 1 | 0 | 0 | 0 | 1 | 0",
+            "[ROW] Aston Villa | 1957–58 | First Division | 1 | 0 | 0 | 0 | 1 | 0",
+            "[ROW] Aston Villa | Total | Total | 3 | 0 | 0 | 0 | 3 | 0",
+            "[ROW] Notts County | 1957–58 | Second Division | 18 | 0 | 1 | 1 | 19 | 1",
+            "[ROW] Port Vale | 1958–59 | Fourth Division | 18 | 0 | 0 | 0 | 18 | 0",
+            "[ROW] Port Vale | 1959–60 | Third Division | 6 | 0 | 0 | 0 | 6 | 0",
+            "[ROW] Port Vale | Total | Total | 24 | 0 | 0 | 0 | 24 | 0",
+            "[ROW] Career Total | Career Total | Career Total | 247 | 0 | 22 | 1 | 269 | 1"
+        ],
+        "id":16
+    }
+
+    {
+        "Prediction":"nathan jones played 156 matches for yeovil town.",
+        "Question":"How many matches did Nathan Jones play for Yeovil Town?",
+        "Ground Truth":"Jones played 211 matches in his seven years career with Yeovil Town.",
+        "Table Title":"Nathan Jones (Welsh footballer) | Career statistics",
+        "Table Rows":[
+            "[COL] Club | Season | League | League | League | FA Cup | FA Cup | League Cup | League Cup | Other | Other | Total | Total",
+            "[ROW] Club | Season | Division | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals",
+            "[ROW] Badajoz | 1995–96 | Segunda División | 21 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 21 | 1",
+            "[ROW] Numancia | 1996–97 | Segunda División B | 16 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 18 | 0",
+            "[ROW] Southend United | 1997–98 | Second Division | 38 | 0 | 4 | 1 | 2 | 0 | 1 | 0 | 45 | 1",
+            "[ROW] Southend United | 1998–99 | Third Division | 18 | 0 | 1 | 0 | 2 | 0 | 1 | 0 | 22 | 0",
+            "[ROW] Southend United | 1999–2000 | Third Division | 43 | 2 | 1 | 0 | 2 | 0 | 1 | 0 | 47 | 2",
+            "[ROW] Southend United | Total | Total | 99 | 2 | 6 | 1 | 6 | 0 | 3 | 0 | 114 | 3",
+            "[ROW] Scarborough (loan) | 1998–99 | Third Division | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 0",
+            "[ROW] Brighton & Hove Albion | 2000–01 | Third Division | 40 | 4 | 2 | 0 | 2 | 1 | 1 | 0 | 45 | 5",
+            "[ROW] Brighton & Hove Albion | 2001–02 | Second Division | 36 | 2 | 3 | 0 | 2 | 0 | 2 | 0 | 43 | 2",
+            "[ROW] Brighton & Hove Albion | 2002–03 | First Division | 28 | 1 | 1 | 0 | 1 | 0 | — | — | 30 | 1",
+            "[ROW] Brighton & Hove Albion | 2003–04 | Second Division | 36 | 0 | 1 | 0 | 2 | 0 | 6 | 0 | 45 | 0",
+            "[ROW] Brighton & Hove Albion | 2004–05 | Championship | 19 | 0 | 1 | 0 | 0 | 0 | — | — | 20 | 0",
+            "[ROW] Brighton & Hove Albion | Total | Total | 159 | 7 | 8 | 0 | 7 | 1 | 9 | 0 | 183 | 7",
+            "[ROW] Yeovil Town | 2005–06 | League One | 42 | 0 | 3 | 0 | 2 | 0 | 1 | 0 | 48 | 0",
+            "[ROW] Yeovil Town | 2006–07 | League One | 42 | 1 | 1 | 0 | 1 | 0 | 3 | 0 | 47 | 1",
+            "[ROW] Yeovil Town | 2007–08 | League One | 31 | 1 | 1 | 0 | 1 | 0 | 3 | 0 | 36 | 1",
+            "[ROW] Yeovil Town | 2008–09 | League One | 23 | 0 | 2 | 0 | 1 | 0 | 1 | 0 | 27 | 0",
+            "[ROW] Yeovil Town | 2009–10 | League One | 17 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 19 | 0",
+            "[ROW] Yeovil Town | 2010–11 | League One | 8 | 0 | 2 | 0 | 1 | 0 | 0 | 0 | 11 | 0",
+            "[ROW] Yeovil Town | 2011–12 | League One | 22 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 23 | 0",
+            "[ROW] Yeovil Town | total | total | 185 | 2 | 10 | 0 | 8 | 0 | 8 | 0 | 211 | 2",
+            "[ROW] Career total | Career total | Career total | 488 | 12 | 24 | 1 | 21 | 1 | 22 | 0 | 555 | 14"
+        ],
+        "id":17
+    }
+
+    {
+        "Prediction":"khangah has a total of 96 houses and a population of 253 out of which 248 are male and 196 are female.",
+        "Question":"How many houses are there in Khangah and how much of the population is male and how much is female?",
+        "Ground Truth":"Khangah has 96 houses with the total population of 501 persons of which 253 are male and 248 females.",
+        "Table Title":"Khangah, Kapurthala | Population data",
+        "Table Rows":[
+            "[COL] Particulars | Total | Male | Female",
+            "[ROW] Total No. of Houses | 96 | - | -",
+            "[ROW] Population | 501 | 253 | 248",
+            "[ROW] Child (0-6) | 56 | 29 | 27",
+            "[ROW] Schedule Caste | 382 | 186 | 196",
+            "[ROW] Schedule Tribe | 0 | 0 | 0",
+            "[ROW] Literacy | 77.53 % | 82.59 % | 72.40 %",
+            "[ROW] Total Workers | 134 | 120 | 14",
+            "[ROW] Main Worker | 132 | 0 | 0",
+            "[ROW] Marginal Worker | 2 | 2 | 0"
+        ],
+        "id":18
+    }
+
+    {
+        "Prediction":"trolleybuses in sydney include ritchie brothers aec 664t, leyland ttb4 and park royal aec 663t.",
+        "Question":"What three-axle double deck buses are in Sydney?",
+        "Ground Truth":"11 Leyland TTB4 and 10 AEC 664T double deck three-axle buses are trolleybuses in Sydney that were bodied by Ritchie Brothers.",
+        "Table Title":"Trolleybuses in Sydney | Fleet",
+        "Table Rows":[
+            "[COL] Image | Fleet numbers | Quantity | Chassis | Body | Configuration | In service",
+            "[ROW] - | 1 | 1 | AEC 663T | Park Royal | Three axle, single deck | 1934-1956",
+            "[ROW] - | 2–3 | 2 | AEC 663T | H McKenzie | Three axle, single deck | 1934-1956",
+            "[ROW] - | 3 | 1 | AEC 761T | Park Royal | Two axle, double deck | 1934-1948",
+            "[ROW] - | 4-5 | 2 | AEC 761T | Syd Wood | Two axle, double deck | 1936/37-1956",
+            "[ROW] - | 6-16 | 11 | Leyland TTB4 | Ritchie Brothers | Three axle, double deck | 1937-1959",
+            "[ROW] - | 17-26 | 10 | AEC 664T | Ritchie Brothers | Three axle, double deck | 1937-1959"
+        ],
+        "id":19
+    }
+
+    {
+        "Prediction":"the 'present value' for two years at the 10% rate is 173.9.",
+        "Question":"What is the 'Present Value' for two years at the 10% rate?",
+        "Ground Truth":"$0.8264 is the PV for two years at the 10% rate.",
+        "Table Title":"Royalty rate assessment | The 'Present Value' method of capitalizing flows",
+        "Table Rows":[
+            "[COL] Year --> | 1 | 2 | 3 | 4 | 5",
+            "[ROW] Sales | 700 | 900 | 1200 | 1600 | 2200",
+            "[ROW] OPR | 75 | 105 | 130 | 200 | 280",
+            "[ROW] Royalty | 60 | 36 | 48 | 64 | 88",
+            "[ROW] Discount Factor,10% | 0.9091 | 0.8264 | 0.7531 | 0.6830 | 0.6209",
+            "[ROW] Discounted OPR | 68.2 | 86.8 | 97.7 | 136.6 | 173.9",
+            "[ROW] Discounted R | 54.5 | 29.8 | 36.1 | 43.7 | 54.6"
+        ],
+        "id":20
+    }
+
+    {
+        "Prediction":"ray santiago played lardo in endless bummer (2009) and alberto in suburban gothic (2014).",
+        "Question":"Whom did Ray Santiago play in the Girlfight (2000), Endless Bummer (2009) and  Suburdan Gothic (2014) films?",
+        "Ground Truth":"Ray Santiago starred as Tiny Guzman in the 2000 film Girlfight, as Lardo in 2009's Endless Bummer and as Alberto in Suburban Gothic.",
+        "Table Title":"Ray Santiago | Films",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2015 | Friday Night with Crystal | Dancer | Short film",
+            "[ROW] 2015 | Addiction: A 60's Love Story | Rico | -",
+            "[ROW] 2014 | Sex Ed | Hector | -",
+            "[ROW] 2014 | Suburban Gothic | Alberto | -",
+            "[ROW] 2014 | Date and Switch | Salvador | -",
+            "[ROW] 2013 | National Lampoon Presents: Surf Party | Lardo | -",
+            "[ROW] 2011 | In Time | Victa | -",
+            "[ROW] 2011 | Without Men | Jacinto | -",
+            "[ROW] 2011 | The Thaumaturge | - | Short film; Executive Producer",
+            "[ROW] 2010 | 500mg of Something | Sug | Short film; Producer",
+            "[ROW] 2010 | Hypo | Bear's Butler | Director & Executive Producer",
+            "[ROW] 2009 | El pez | Photographer | Short film",
+            "[ROW] 2009 | Endless Bummer | Lardo | -",
+            "[ROW] 2009 | Ready or Not | Nacho | -",
+            "[ROW] 2008 | Bar Starz | Captain | -",
+            "[ROW] 2008 | American Son | Miguelito | -",
+            "[ROW] 2006 | Price to Pay | Donnie | -",
+            "[ROW] 2006 | Accepted | Boy Going to Princeton | -",
+            "[ROW] 2006 | The TV Set | Audience Member #1 | -",
+            "[ROW] 2006 | Dead Man's Morphine | Nat | Short film",
+            "[ROW] 2006 | The Sasquatch Gang | Crone | -",
+            "[ROW] 2005 | Dirty Deeds | Bobby D | -",
+            "[ROW] 2004 | Meet the Fockers | Jorge Villalobos | -",
+            "[ROW] 2003 | Shelter | Ray | -",
+            "[ROW] 2003 | Bringing Rain | John Bell | -",
+            "[ROW] 2001 | Piñero | Willie | -",
+            "[ROW] 2000 | Girlfight | Tiny Guzman | -"
+        ],
+        "id":21
+    }
+
+    {
+        "Prediction":"in 2011, mond reprised her role as ellen in love begins and as rachel axelrod in negative space.",
+        "Question":"Did Mond reprise any roles in 2011?",
+        "Ground Truth":"Mond played a role as Ellen in the 2011 movies Love Begins and Love's Everlasting Courage.",
+        "Table Title":"Julie Mond | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2004 | Approaching Heaven | Kate | -",
+            "[ROW] 2005 | Ground Control | The Goth Chick | Short film",
+            "[ROW] 2006 | Something New | Penelope | -",
+            "[ROW] 2008 | Exit Speed | Corporal Merideth Cole | -",
+            "[ROW] 2008 | Grave Misconduct | Angela Drown | TV Movie",
+            "[ROW] 2008 | Rest Stop: Don't Look Back | Nicole | -",
+            "[ROW] 2009 | Hangman | Jonette | -",
+            "[ROW] 2010 | The Geniuses | Tanya Progresso | TV Movie",
+            "[ROW] 2011 | Fugue | Sadie | -",
+            "[ROW] 2011 | Negative Space | Rachel Axelrod | -",
+            "[ROW] 2011 | Love Begins | Ellen | TV Movie",
+            "[ROW] 2011 | Love's Everlasting Courage | Ellen | TV Movie",
+            "[ROW] 2011 | Priest | Wife | -",
+            "[ROW] 2012 | Strawberry Summer (Hallmark name) Easy Heart (Pixl name) | Beth Landon | -",
+            "[ROW] 2012 | Trauma Team | Vanessa Herrera | -",
+            "[ROW] 2012 | Shooting Chris | Julie Schwartz | Completed",
+            "[ROW] 2013 | Finding Neighbors | Sherrie | -",
+            "[ROW] 2013 | Autumn Wanderer | Megan | -",
+            "[ROW] 2013 | Sensitive Men | Kristy | TV Movie",
+            "[ROW] 2013 | Snake and Mongoose | Wendy | -",
+            "[ROW] 2014 | Lust for Love | Cutie | -",
+            "[ROW] 2014 | White Dwarf | Julie | -",
+            "[ROW] 2014 | Lust for Love | Cutie | -",
+            "[ROW] 2016 | Missed Connections | Margo | -"
+        ],
+        "id":22
+    }
+
+    {
+        "Prediction":"grace victoria cox's longest running roles were veronica sawyer in heathers (2018), amber in now apocalypse (2019), and lexie in the society (2019).",
+        "Question":"What were Grace Victoria Cox's longest running roles?",
+        "Ground Truth":"Grace Victoria Cox is known for playing as Melanie Cross in Under the Dome (2014–15) and as Veronica Sawyer in Heathers (2018).",
+        "Table Title":"Grace Victoria Cox | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2014–2015 | Under the Dome | Melanie Cross | Main role (Season 2); Guest (Season 3), 16 episodes",
+            "[ROW] 2016 | Manson's Lost Girls | Lynette \"Squeaky\" Fromme | TV film",
+            "[ROW] 2017 | Twin Peaks | Charlotte | 1 episode",
+            "[ROW] 2017 | The Archer | Emily | TV film",
+            "[ROW] 2018 | Heathers | Veronica Sawyer | Main role, 10 episodes",
+            "[ROW] 2019 | Now Apocalypse | Amber | Recurring role",
+            "[ROW] 2019 | The Society | Lexie | Main role"
+        ],
+        "id":23
+    }
+
+    {
+        "Prediction":"mahiedine mekhissi-benabbad won a bronze medal in the 3000 m steeple at the 2004 world junior championships in grosseto, italy in a time of 9:09.53 minutes.",
+        "Question":"What were the achievements of Mahiedine Mekhissi-Benabbad during the year 2004? ",
+        "Ground Truth":"Mekhissi-Benabbad made his first appearances as a junior athlete in 2004, running at the 2004 World Cross Country Championships, where he was 61st in the junior race, and participated in the 2004 World Junior Championships in the 3000 m steeplechase.",
+        "Table Title":"Mahiedine Mekhissi-Benabbad | Results in international competitions",
+        "Table Rows":[
+            "[COL] Year | Competition | Venue | Position | Event | Notes",
+            "[ROW] Representing France | Representing France | Representing France | Representing France | Representing France | Representing France",
+            "[ROW] 2004 | World Cross Country Championships | Brussels, Belgium | 61st | Junior race | 27:08",
+            "[ROW] 2004 | World Junior Championships | Grosseto, Italy | 29th (h) | 3000 m steeple | 9:09.53",
+            "[ROW] 2005 | European U23 Championships | Erfurt, Germany | 13th (h) | 3000 m steeple | 8:49.95",
+            "[ROW] 2006 | European Cup | Málaga, Spain | 8th | 1500 m | -",
+            "[ROW] 2006 | IAAF World Cup | Athens, Greece | 8th | 1500 m | 3:55.89",
+            "[ROW] 2007 | European U23 Championships | Debrecen, Hungary | 1st | 3000 m steeple | 8:33.91",
+            "[ROW] 2007 | World Championships | Osaka, Japan | 22nd (h) | 3000 m steeple | 8:33.11",
+            "[ROW] 2008 | Olympic Games | Beijing, China | 2nd | 3000 m steeple | 8:10.49",
+            "[ROW] 2008 | DécaNation | Paris, France | 1st | 3000 m steeple | 8:53.71",
+            "[ROW] 2009 | World Championships | Berlin, Germany | – (h) | 3000 m steeple | DNF",
+            "[ROW] 2010 | World Indoor Championships | Doha, Qatar | 8th | 1500 m | 3:45.22",
+            "[ROW] 2010 | European Championships | Barcelona, Spain | 1st | 3000 m steeple | 8:07.87",
+            "[ROW] 2010 | IAAF Continental Cup | Split, Croatia | 3rd | 3000 m steeple | 8:09.96",
+            "[ROW] 2010 | DécaNation | Annecy, France | 1st | 3000 m steeple | 8:27.27",
+            "[ROW] 2011 | World Championships | Daegu, South Korea | 3rd | 3000 m steeple | 8:16.09",
+            "[ROW] 2012 | European Championships | Helsinki, Finland | 1st | 3000 m steeple | 8:33.23",
+            "[ROW] 2012 | Olympic Games | London, England | 2nd | 3000 m steeple | 8:19.08",
+            "[ROW] 2013 | European Indoor Championships | Gothenburg, Sweden | 1st | 1500 m | 3:37.17",
+            "[ROW] 2013 | World Championships | Moscow, Russia | 3rd | 3000 m steeple | 8:07.86",
+            "[ROW] 2014 | European Championships | Zürich, Switzerland | 1st | 1500 m | 3:45.60",
+            "[ROW] 2014 | European Championships | Zürich, Switzerland | DQ | 3000 m steeple | 8:33.23",
+            "[ROW] 2016 | European Championships | Amsterdam, Netherlands | 1st | 3000 m steeple | 8:25.63",
+            "[ROW] 2016 | Olympic Games | Rio de Janeiro, Brazil | 3rd | 3000 m steeple | 8:11.52",
+            "[ROW] 2017 | World Championships | London, United Kingdom | 30th (h) | 1500 m | 3:46.17",
+            "[ROW] 2017 | World Championships | London, United Kingdom | 4th | 3000 m steeple | 8:15.80",
+            "[ROW] 2017 | DécaNation | Angers, France | 1st | 2000 m | 5:22.85",
+            "[ROW] 2018 | European Championships | Berlin, Germany | 1st | 3000 m steeple | 8:31.66"
+        ],
+        "id":24
+    }
+
+    {
+        "Prediction":"caroline chepkwony finished second at the 2001 african junior championships in réduit, mauritius, and third at the 2004 african championships in brazzaville, republic of congo.",
+        "Question":"How did Caroline Chepkwony perform in competitions from 2001 to 2004?",
+        "Ground Truth":"Caroline Chepkwony was the runner-up in 5000 meters at the African Junior Championships in 2001 and won the 800 metres bronze medal at the 2004 African Championships.",
+        "Table Title":"Caroline Chepkwony | Competition record",
+        "Table Rows":[
+            "[COL] Year | Competition | Venue | Position | Event | Notes",
+            "[ROW] 2001 | African Junior Championships | Réduit, Mauritius | 2nd | 5000 metres | -",
+            "[ROW] 2004 | African Championships | Brazzaville, Republic of Congo | 3rd | 800 metres | -",
+            "[ROW] 2006 | Commonwealth Games | Melbourne, Australia | 20th (heats) | 800 metres | -",
+            "[ROW] 2007 | All-Africa Games | Algiers, Algeria | 5th | 800 metres | -",
+            "[ROW] 2007 | All-Africa Games | Algiers, Algeria | 13th (heats) | 1500 metres | -"
+        ],
+        "id":25
+    }
+
+    {
+        "Prediction":"36 of the 168 states that ratified the comprehensive nuclear-test-ban treaty were annex 2 states, while 3 were non-signatory.",
+        "Question":"How many of the states ratify the Comprehensive Nuclear-Test-Ban Treaty were Annex 2 states and how many weren't?",
+        "Ground Truth":"Out of the 168 states to ratify the Comprehensive Nuclear-Test-Ban Treaty, 36 were Annex 2 states and 132 were not.",
+        "Table Title":"List of parties to the Comprehensive Nuclear-Test-Ban Treaty | Summary",
+        "Table Rows":[
+            "[COL] Status | Annex 2 states | Not Annex 2 states | Total | Membership",
+            "[ROW] Signed and ratified | 36 | 132 | 168 | Parties to the CTBT Member States of the CTBT Preparatory Commission Member States of the CTBTO (after entry into force)",
+            "[ROW] Only signed | 5 | 11 | 16 | Member States of the CTBT Preparatory Commission",
+            "[ROW] Non-signatory | 3 | 9 | 12 | -",
+            "[ROW] Total | 44 | 152 | 196 | -"
+        ],
+        "id":26
+    }
+
+    {
+        "Prediction":"a gift from a flower to a garden was first released as a mono lp on 12/1967 and later as a stereo lp on 16 april 1968.",
+        "Question":"What Format was the most common?",
+        "Ground Truth":"The stereo LP Format was most common, with 4 releases across 3 different Titles being stereo LPs.",
+        "Table Title":"A Gift from a Flower to a Garden | Release history",
+        "Table Rows":[
+            "[COL] Region | Date | Title | Label | Format | Catalog-Nr.",
+            "[ROW] United States | 12/1967 | A Gift From a Flower to a Garden | Epic | mono LP | L2N6071",
+            "[ROW] United States | 12/1967 | A Gift From a Flower to a Garden | Epic | stereo LP | B2N171",
+            "[ROW] UK | 16 April 1968 | A Gift From a Flower to a Garden | Pye | mono LP | NPL20000",
+            "[ROW] UK | 16 April 1968 | A Gift From a Flower to a Garden | Pye | stereo LP | NSPL 20000",
+            "[ROW] United States | - | Wear Your Love Like Heaven | Epic | monaural LP | LN 24349",
+            "[ROW] United States | - | Wear Your Love Like Heaven | Epic | stereo LP | BN 26349 (stereo)",
+            "[ROW] United States | - | For Little Ones | Epic | monaural LP | LN24350",
+            "[ROW] United States | - | For Little Ones | Epic | stereo LP | BN26350 (stereo)"
+        ],
+        "id":27
+    }
+
+    {
+        "Prediction":"in the 2000–01 season, cohen made 19 appearances and scored three goals for hibernians in the maltese premier league.",
+        "Question":"How many appearances and goals did Cohen make in the 2000–01 season for Hibernians in the Maltese Premier League?",
+        "Ground Truth":"In the 2000–01 season, Cohen made 19 appearances for Hibernians in the Maltese Premier League and scored three goals.",
+        "Table Title":"Andrew Cohen (footballer) | Career statistics",
+        "Table Rows":[
+            "[COL] Club performance | Club performance | Club performance | League | League | Cup | Cup | League Cup | League Cup | Continental | Continental | Total | Total",
+            "[ROW] Season | Club | League | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals",
+            "[ROW] Malta | Malta | Malta | League | League | FA Trophy | FA Trophy | League Decider | League Decider | Europe | Europe | Total | Total",
+            "[ROW] 1999–2000 | Hibernians | Maltese Premier League | 7 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 1",
+            "[ROW] 2000–01 | Hibernians | Maltese Premier League | 19 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 19 | 3",
+            "[ROW] 2001–02 | Hibernians | Maltese Premier League | 19 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 19 | 4",
+            "[ROW] 2002–03 | Hibernians | Maltese Premier League | 17 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 17 | 3",
+            "[ROW] 2003–04 | Hibernians | Maltese Premier League | 23 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 23 | 7",
+            "[ROW] 2004–05 | Hibernians | Maltese Premier League | 27 | 21 | 0 | 0 | 0 | 0 | 0 | 0 | 27 | 21",
+            "[ROW] 2005–06 | Hibernians | Maltese Premier League | 26 | 14 | 0 | 0 | 0 | 0 | 0 | 0 | 26 | 14",
+            "[ROW] 2006–07 | Hibernians | Maltese Premier League | 24 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 24 | 8",
+            "[ROW] 2007–08 | Hibernians | Maltese Premier League | 23 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 23 | 6",
+            "[ROW] 2008–09 | Hibernians | Maltese Premier League | 22 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 22 | 9",
+            "[ROW] 2009–10 | Hibernians | Maltese Premier League | 24 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 24 | 6",
+            "[ROW] 2010–11 | Hibernians | Maltese Premier League | 24 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 24 | 6",
+            "[ROW] 2011–12 | Hibernians | Maltese Premier League | 31 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 31 | 9",
+            "[ROW] 2012–13 | Hibernians | Maltese Premier League | 32 | 8 | 0 | 0 | 1 | 0 | 0 | 0 | 32 | 8",
+            "[ROW] 2013–14 | Hibernians | Maltese Premier League | 29 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 29 | 5",
+            "[ROW] 2014–15 | Hibernians | Maltese Premier League | 31 | 9 | 5 | 0 | 0 | 0 | 2 | 1 | 38 | 10",
+            "[ROW] Total | Malta | Malta | 378 | 119 | 5 | 0 | 1 | 0 | 2 | 1 | 386 | 120",
+            "[ROW] Career total | Career total | Career total | 378 | 119 | 5 | 0 | 1 | 0 | 2 | 1 | 386 | 120"
+        ],
+        "id":28
+    }
+
+    {
+        "Prediction":"between bloomer girl and his and hers, celeste holm appeared as evalina in evalina and maggie in his and hers.",
+        "Question":"What films did Celeste Holm appear in between Bloomer Girl and His and Hers?",
+        "Ground Truth":"Celeste Holm appeared in Affairs of State (1950), The King and I (1951), and Anna Christie (1952).",
+        "Table Title":"Celeste Holm | Theatre",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1938 | Gloriana | Lady Mary | -",
+            "[ROW] 1940 | The Time of Your Life | Mary L | -",
+            "[ROW] 1940 | Another Sun | Maria | -",
+            "[ROW] 1940 | The Return of the Vagabond | His Daughter | -",
+            "[ROW] 1941 | Eight O'Clock Tuesday | Marcia Godden | -",
+            "[ROW] 1941 | My Fair Ladies | Lady Keith-Odlyn | -",
+            "[ROW] 1942 | Papa Is All | Emma | -",
+            "[ROW] 1942 | All the Comforts of Home | Fifi Oritanski | -",
+            "[ROW] 1942 | The Damask Cheek | Calla Longstreth | -",
+            "[ROW] 1943 | Oklahoma! | Ado Annie Carnes | -",
+            "[ROW] 1944 | Bloomer Girl | Evalina | -",
+            "[ROW] 1950 | Affairs of State | Irene Elliott | -",
+            "[ROW] 1951 | The King and I | Anna Leonowens | Replacement",
+            "[ROW] 1952 | Anna Christie | Anna Christopherson | -",
+            "[ROW] 1954 | His and Hers | Maggie Palmer | -",
+            "[ROW] 1958 | Interlock | Mrs. Price | -",
+            "[ROW] 1958 | Third Best Sport | Helen Sayre | -",
+            "[ROW] 1960 | Invitation to a March | Camilla Jablonski | -",
+            "[ROW] 1967 | Mame | Mame Dennis | Replacement",
+            "[ROW] 1970 | Candida | Candida | -",
+            "[ROW] 1974 | Habeas Corpus | Lady Rumpers | -",
+            "[ROW] 1979 | The Utter Glory of Morrissey Hall | Julia Faysle | -",
+            "[ROW] 1991 | I Hate Hamlet | Lilian Troy | -",
+            "[ROW] 1994 | Allegro | Grandma Taylor | -"
+        ],
+        "id":29
+    }
+
+    {
+        "Prediction":"in 2005, bramantyo won the best director award at the indonesian film festival and the best sound arrangement award at the indonesian film festival.",
+        "Question":"What awards did Bramanyto win with Brownies and when was that?",
+        "Ground Truth":"At the 2005 Indonesian Film Festival, Bramantyo won a Award for Best Director with Brownies.",
+        "Table Title":"Brownies (film) | Awards",
+        "Table Rows":[
+            "[COL] Award | Year | Category | Recipient | Result",
+            "[ROW] Indonesian Film Festival | 2005 | Best Film | - | Nominated",
+            "[ROW] Indonesian Film Festival | 2005 | Best Director | Hanung Bramantyo | Won",
+            "[ROW] Indonesian Film Festival | 2005 | Best Screenplay | Hanung Bramantyo, Salman Aristo, Eric Sasono | Nominated",
+            "[ROW] Indonesian Film Festival | 2005 | Best Leading Actor | Bucek Depp, Arie K Untung | Nominated",
+            "[ROW] Indonesian Film Festival | 2005 | Best Leading Actress | Marcella Zalianty | Won",
+            "[ROW] Indonesian Film Festival | 2005 | Best Supporting Actress | Elmayana Sabrenia | Nominated",
+            "[ROW] Indonesian Film Festival | 2005 | Best Cinematography | Tommy Jepang | Nominated",
+            "[ROW] Indonesian Film Festival | 2005 | Best Artistic Direction | Eros Eflin | Nominated",
+            "[ROW] Indonesian Film Festival | 2005 | Best Editing | Cesa David Luckmansyah | Nominated",
+            "[ROW] Indonesian Film Festival | 2005 | Best Musical Direction | Dewa Budjana | Nominated",
+            "[ROW] Indonesian Film Festival | 2005 | Best Sound Arrangement | Siti Asifa Nasution | Won"
+        ],
+        "id":30
+    }
+
+    {
+        "Prediction":"in the 1981–82 port vale f.c. season, ray deakin, ernie moss, jimmy greenhoff, geoff hunter and colin tartt were signed.",
+        "Question":"What were the first four signings in the 1981-82 Port Vale F.C. season?",
+        "Ground Truth":"For the 1981–82 Port Vale F.C. season, new signings were: defender Ray Deakin from Everton, midfielder Geoff Hunter from Crewe Alexandra, forward Ernie Moss from Chesterfield for £12,000 and Jimmy Greenhoff from the Toronto Blizzard.",
+        "Table Title":"1981–82 Port Vale F.C. season | Transfers in",
+        "Table Rows":[
+            "[COL] Date from | Position | Nationality | Name | From | Fee | Ref.",
+            "[ROW] 1981 | DF | England | Ray Deakin | Everton | Free transfer | -",
+            "[ROW] June 1981 | FW | England | Ernie Moss | Chesterfield | £12,000 | -",
+            "[ROW] August 1981 | FW | England | Jimmy Greenhoff | Canada Toronto Blizzard | Free transfer | -",
+            "[ROW] August 1981 | MF | England | Geoff Hunter | Crewe Alexandra | £15,000 | -",
+            "[ROW] October 1981 | FW | England | Mark Bright | Leek Town | Free transfer | -",
+            "[ROW] November 1981 | MF | England | Colin Tartt | Chesterfield | £15,000 | -"
+        ],
+        "id":31
+    }
+
+    {
+        "Prediction":"anne marie mcevoy played sarah in the 1984 film children of the corn and janie in the 1985 tv movie lots of luck.",
+        "Question":"What roles did Anne Marie McEvoy play in Children of the Corn and in  Lots of Luck?",
+        "Ground Truth":"Anne Marie McEvoy played as Sarah in the film Children of the Corn (1984) and played an unnamed role in the television movie Lots of Luck (1985).",
+        "Table Title":"Anne Marie McEvoy | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1982 | Archie Bunker's Place | Little Girl | Episode: \"Father Christmas\"",
+            "[ROW] 1983 | The Paper Chase | Stephanie Norman | Episode: \"Cinderella\"",
+            "[ROW] 1984 | Children of the Corn | Sarah | -",
+            "[ROW] 1984 | Invitation to Hell | Janie | -",
+            "[ROW] 1985 | Lots of Luck | - | TV movie",
+            "[ROW] 1989–90 | Full House | Kathy Santoni | 4 episodes",
+            "[ROW] 2016 | Fuller House | Kathy Santoni | Episode: \"DJ and Kimmy's High School Reunion\""
+        ],
+        "id":32
+    }
+
+    {
+        "Prediction":"gloria lynne henry played rocky in phantasm iii: lord of the dead in 1994, tiffany in the devil's advocate in 1997, and member of magazine staff in the horse whisperer in 1998.",
+        "Question":"Did Gloria Lynne Henry ever repeat a role?",
+        "Ground Truth":"Gloria Lynne Henry reprised her role as Rocky in the 2016 film Phantasm: Ravager.",
+        "Table Title":"Gloria Lynne Henry | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1994 | Phantasm III: Lord of the Dead | Rocky | -",
+            "[ROW] 1997 | The Devil's Advocate | Tiffany | -",
+            "[ROW] 1998 | The Horse Whisperer | Member of Magazine Staff | Uncredited",
+            "[ROW] 2016 | Phantasm: Ravager | Rocky | -"
+        ],
+        "id":33
+    }
+
+    {
+        "Prediction":"in 2015, shabareesh varma appeared as shambu in the malayalam film premam.",
+        "Question":"In what movie in what year did Shabareesh Varma appear as Shambu?",
+        "Ground Truth":"Shabareesh Varma appeared as Shambu in the movie \"Prenam\" in 2015.",
+        "Table Title":"Shabareesh Varma | As an Actor",
+        "Table Rows":[
+            "[COL] Year | Film | Role | Language | Notes",
+            "[ROW] 2019 | Mariyam Vannu Vilakkoothi | TBA | Malayalam | Directed by Jenith Kachappilly",
+            "[ROW] 2018 | Ladoo | SK | Malayalam | -",
+            "[ROW] 2018 | Naam | Harris Mohammed | Malayalam | -",
+            "[ROW] 2015 | Premam | Shambu | Malayalam | Debut",
+            "[ROW] 2013 | Neram | John | Malayalam Tamil | Uncredited role",
+            "[ROW] - | - | - | - | -"
+        ],
+        "id":34
+    }
+
+    {
+        "Prediction":"god's army 2: states of grace (2005) and the book of mormon movie, vol. 1: the journey (2003) were both directed by richard dutcher.",
+        "Question":"Who was God's Army 2: States of Grace (2005) directed by and which two films were also directed by the same director?",
+        "Ground Truth":"God's Army 2: States of Grace (2005) – A sequel to God's Army by Richard Dutcher and Brigham City (2001) was also directed by Dutcher.",
+        "Table Title":"Mormon cinema | Box office",
+        "Table Rows":[
+            "[COL] Title | Year | Studio | Actors | Director | Budget | Gross",
+            "[ROW] The Best Two Years | 2003 | Halestorm Entertainment | K.C. Clyde, Kirby Heyborne, David Nibley, Cameron Hopkin, Scott Christopher, Michael Flynn | Scott S. Anderson | $400,000 | $1,163,450",
+            "[ROW] The Book of Mormon Movie, Vol. 1: The Journey | 2003 | Halestorm Entertainment | Noah Danby, Kirby Heyborne, Jacque Gray, Bryce Chamberlain, Jan Gardner, Ron Frederickson | Gary Rogers | $1,500,000 | $1,680,020",
+            "[ROW] Brigham City | 2001 | Zion Films | Richard Dutcher, Matthew A. Brown, Wilford Brimley, Carrie Morgan, Jongiorgi Enos, Tayva Patch | Richard Dutcher | $900,000 | $852,206",
+            "[ROW] Charly | 2002 | - | Jeremy Hoop, Randy King, Heather Beers | Adam Thomas Anderegg | $950,000 | $813,685",
+            "[ROW] Forever Strong | 2008 | Lonesome Highway Productions | Sean Faris, Gary Cole, Penn Badgley, Arielle Kebbel, Sean Astin, Neal McDonough, Olesya Rulin | Ryan Little | - | $719,556",
+            "[ROW] God's Army | 2000 | Zion Films | Matthew A. Brown, Richard Dutcher, Jacque Gray, DeSean Terry, Michael Buster, Luis Robledo, Jeff Kelly, John Pentecost, Lynne Carr | Richard Dutcher | $300,000 | $2,637,726",
+            "[ROW] God's Army 2: States of Grace | 2005 | Zion Films | Lucas Fleischer, Jeffrey Scott Kelly, J.J. Boone | Richard Dutcher | $800,000 | $203,144",
+            "[ROW] The Saratov Approach | 2013 | Three Coin Productions, Saratov Films | Corbin Allred, Maclain Nelson, Nikita Bogolyubov, Alex Veadov | Garrett Batty | $ | $2,146,999",
+            "[ROW] Inspired Guns | 2014 | Pitch White Entertainment | Shona Kay, Dashieli Wolf, Jarrod Phillips, Rick Macy, Charan Prabhakar, Christian Busath, Alix Maria Taulbee | Adam White | $175,000 | -",
+            "[ROW] The Other Side of Heaven | 2001 | Walt Disney Pictures | Christopher Gorham, Anne Hathaway | Mitch Davis | $7,000,000 | $4,720,371",
+            "[ROW] The R.M. | 2003 | Halestorm Entertainment | Kirby Heyborne, Daryn Tufts, Will Swenson, Britani Bateman, Tracy Ann Evans, Merrill Dodge, Michael Birkeland, Maren Ord, Gary Crowton | Kurt Hale | $500,000 | $1,111,615",
+            "[ROW] Saints and Soldiers | 2003 | Excel Entertainment Group | Corbin Allred, Alexander Niver, Kirby Heyborne, Lawrence Bagby, Peter Aste Holden | Ryan Little | $780,000 | $1,310,470",
+            "[ROW] Saturday's Warrior | 1989 | Fieldbrook Entertainment | Erik Hickenlooper, Cori Jacobsen, Davison Cheney, Bart Hickenlooper | Bob Williams | - | -",
+            "[ROW] The Singles Ward | 2002 | Halestorm Entertainment | Will Swenson, Connie Young, Kirby Heyborne, Daryn Tufts, Michael Birkeland, Lincoln Hoppe | Kurt Hale | $500,000 | $1,250,798",
+            "[ROW] The Work and the Glory | 2004 | Excel Entertainment Group | Sam Hennings, Brenda Strong, Eric Johnson, Alexander Carroll, Tiffany Dupont, Jonathan Scarfe | Russell Holt | $7.5 million | $3,347,647",
+            "[ROW] Meet the Mormons | 2014 | Excel Entertainment Group & Intellectual Reserve, Inc. | Jermaine Sullivan, Ken Niumatalolo, Carolina Muñoz Marin, Bishnu Adhukari, Gail Halvorsen, Dawn Armstrong, Jenna Kim Jones | Blair Treu | - | $5,883,132 (all proceeds donated to the American Red Cross)"
+        ],
+        "id":35
+    }
+
+    {
+        "Prediction":"heaven 17's pleasure one was followed by the singles \"contenders\" in 1986 and \"trouble\" in 1987.",
+        "Question":"What singles followed up Heaven 17's Pleasure One?",
+        "Ground Truth":"Heaven 17's Pleasure One was followed up in 1988 with the album Teddy Bear, Duke & Psycho, featuring the singles \"Train of Love in Motion\" and \"The Ballad of Go Go Brown\".",
+        "Table Title":"Heaven 17 | Singles",
+        "Table Rows":[
+            "[COL] Year | Single | Chart positions | Chart positions | Chart positions | Chart positions | Chart positions | Chart positions | Chart positions | Chart positions | Chart positions | Chart positions | Chart positions | Album",
+            "[ROW] Year | Single | UK | AUS | CAN | GER | IRE | IT | NLD | NZL | US | US Dance | US Main | Album",
+            "[ROW] 1981 | \"(We Don't Need This) Fascist Groove Thang\" | 45 | 72 | — | — | — | — | — | — | — | 29 | — | Penthouse and Pavement",
+            "[ROW] 1981 | \"I'm Your Money\" | — | — | — | — | — | — | — | — | — | — | — | Penthouse and Pavement",
+            "[ROW] 1981 | \"Play to Win\" | 46 | — | — | — | — | — | — | 39 | — | 19 | — | Penthouse and Pavement",
+            "[ROW] 1981 | \"Penthouse and Pavement\" | 57 | 93 | — | — | — | — | — | 37 | — | 19 | — | Penthouse and Pavement",
+            "[ROW] 1982 | \"The Height of the Fighting (He-La-Hu)\" | — | — | — | — | — | — | — | 20 | — | — | — | Penthouse and Pavement",
+            "[ROW] 1982 | \"Let Me Go\" | 41 | 78 | 41 | — | 26 | — | — | — | 74 | 4 | 32 | The Luxury Gap",
+            "[ROW] 1982 | \"Who'll Stop the Rain\" | — | — | — | — | — | — | — | — | — | 36 | — | The Luxury Gap",
+            "[ROW] 1983 | \"Temptation\" | 2 | 38 | — | 11 | 3 | 45 | 25 | 15 | — | 34 | — | The Luxury Gap",
+            "[ROW] 1983 | \"We Live So Fast\" | — | — | — | — | — | — | — | — | 102 | 34 | — | The Luxury Gap",
+            "[ROW] 1983 | \"Come Live with Me\" | 5 | 100 | — | — | 7 | — | — | — | — | — | — | The Luxury Gap",
+            "[ROW] 1983 | \"Crushed by the Wheels of Industry\" | 17 | — | — | — | 10 | — | — | — | — | 34 | — | The Luxury Gap",
+            "[ROW] 1984 | \"Sunset Now\" | 24 | 93 | — | — | 18 | — | — | — | — | 39 | — | How Men Are",
+            "[ROW] 1984 | \"This Is Mine\" | 23 | — | — | — | 25 | — | — | — | — | 28 | — | How Men Are",
+            "[ROW] 1985 | \"...(And That's No Lie)\" | 52 | — | — | — | 22 | — | — | — | — | — | — | How Men Are",
+            "[ROW] 1986 | \"The Foolish Thing to Do\" (feat. Jimmy Ruffin) | 80 | — | — | — | — | — | — | — | — | — | — | single only",
+            "[ROW] 1986 | \"Contenders\" | 80 | — | — | — | — | — | — | — | — | 6 | — | Pleasure One",
+            "[ROW] 1987 | \"Trouble\" | 51 | — | — | 17 | — | — | — | — | — | — | — | Pleasure One",
+            "[ROW] 1988 | \"The Ballad of Go Go Brown\" | 91 | — | — | — | — | — | — | — | — | — | — | Teddy Bear, Duke & Psycho",
+            "[ROW] 1988 | \"Train of Love in Motion\" | — | — | — | — | — | — | — | — | — | — | — | Teddy Bear, Duke & Psycho",
+            "[ROW] 1992 | \"Temptation\" (Brothers in Rhythm Remix) | 4 | 64 | — | 42 | 9 | — | 18 | — | — | — | — | Higher and Higher – The Best of Heaven 17",
+            "[ROW] 1993 | \"(We Don't Need This) Fascist Groove Thang\" (The Rapino Brothers Remixes) | 40 | — | — | — | — | — | — | — | — | — | — | Higher and Higher – The Best of Heaven 17",
+            "[ROW] 1993 | \"Penthouse and Pavement\" (The Tommy D Remixes) | 54 | — | — | — | — | — | — | — | — | 26 | — | Higher and Higher – The Best of Heaven 17",
+            "[ROW] 1996 | \"Designing Heaven\" | — | — | — | — | — | — | — | — | — | — | — | Bigger Than America",
+            "[ROW] 1997 | \"We Blame Love\" | — | — | — | — | — | — | — | — | — | — | — | Bigger Than America",
+            "[ROW] 1998 | \"With This Ring Let Me Go\" (Molella & Phil Jay present Heaven 17 meets Fast Eddie) | 80 | — | — | — | — | — | — | — | — | — | — | single only",
+            "[ROW] 2006 | \"Hands Up to Heaven\" | — | — | — | — | — | — | — | — | — | 6 | — | Before After",
+            "[ROW] 2007 | \"I'm Gonna Make You Fall in Love with Me\" | — | — | — | — | — | — | — | — | — | — | — | Before After",
+            "[ROW] 2008 | \"Don't Fear the Reaper\" | — | — | — | — | — | — | — | — | — | — | — | Before After",
+            "[ROW] 2013 | \"Only After Dark (7\" & CD-R Ltd Ed. of 100 – O.A.D event release)\" | — | — | — | — | — | — | — | — | — | — | — | single only",
+            "[ROW] 2014 | \"Illumination\" & \"Pray\" (limited edition vinyl) | — | — | — | — | — | — | — | — | — | — | — | Not For Public Broadcast",
+            "[ROW] 2016 | \"Captured\" & \"Unseen\" (limited edition vinyl) | — | — | — | — | — | — | — | — | — | — | — | Not For Public Broadcast"
+        ],
+        "id":36
+    }
+
+    {
+        "Prediction":"wilson-james' \"yo' freek\" was released as a single from the album indestructible in 2007.",
+        "Question":"When was Wilson-James' \"Yo' Freek\" released as a single and on which album was it originally found?",
+        "Ground Truth":"In 2007, Victoria Wilson-James released the album titled Indestructible, which spawned the single \"Yo' Freek\".",
+        "Table Title":"Victoria Wilson-James | Singles",
+        "Table Rows":[
+            "[COL] Title | Year | Peak chart positions | Peak chart positions | Album",
+            "[ROW] Title | Year | US R&B | UK | Album",
+            "[ROW] \"I Want You in My Movie\" | 1988 | — | — | Non-album single",
+            "[ROW] \"Through\" | 1991 | 22 | 77 | Perseverance",
+            "[ROW] \"Bright Lights\" | 1991 | 83 | — | Perseverance",
+            "[ROW] \"One World\" | 1991 | — | — | Perseverance",
+            "[ROW] \"Transcendental Rhythm\" | 1993 | — | — | Non-album single",
+            "[ROW] \"Boogie Wonderland\" | 1993 | — | — | Non-album single",
+            "[ROW] \"Reach 4 the Melody\" | 1997 | — | 72 | Colorfields",
+            "[ROW] \"Find the Child\" | 1997 | — | — | Colorfields",
+            "[ROW] \"Fandango\" | 2000 | — | — | Non-album single",
+            "[ROW] \"Dare to Dream\" | 2004 | — | — | Indestructible",
+            "[ROW] \"Yo' Freek\" | 2007 | — | — | Indestructible",
+            "[ROW] \"Never Stop\" | 2009 | — | — | The Rapture",
+            "[ROW] \"Red Lipstick\" | 2012 | — | — | The Rapture",
+            "[ROW] \"Increase the Pressure\" | 2012 | — | — | The Rapture",
+            "[ROW] \"Deep in Vogue\" | 2012 | — | — | The Rapture",
+            "[ROW] \"Say It Ain't So\" | 2013 | — | — | The Rapture",
+            "[ROW] \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory."
+        ],
+        "id":37
+    }
+
+    {
+        "Prediction":"\"resistance\" was distributed as monstercat 030 – finale on 22 february 2017.",
+        "Question":"Which version of \"Resistance\" was distributed during its second worldwide release and when did that occur?",
+        "Ground Truth":"The Resistance song was also featured on Monstercat 030 – Finale from the label Monstercat, which was released on 22 February 2017.",
+        "Table Title":"Resistance (Aero Chord song) | Release history",
+        "Table Rows":[
+            "[COL] Region | Date | Format | Version | Label | Ref.",
+            "[ROW] Worldwide | 16 January 2017 | Digital download | \"Resistance\" | Monstercat | -",
+            "[ROW] Worldwide | 22 February 2017 | Digital download | Monstercat 030 – Finale | Monstercat | -"
+        ],
+        "id":38
+    }
+
+    {
+        "Prediction":"in 2016, arvind swami reprised his role as santan in thani oruvan.",
+        "Question":"For which 2016 movie did Arvind Swami reprised the same role as in Thani Oruvan?",
+        "Ground Truth":"In 2016, Arvind Swami reprised the same role in Telugu film Dhruva, a remake of Thani Oruvan.",
+        "Table Title":"Arvind Swami | Filmography",
+        "Table Rows":[
+            "[COL] Year | Film | Role | Language | Notes",
+            "[ROW] 1991 | Thalapathi | Arjun | Tamil | -",
+            "[ROW] 1992 | Roja | Rishi Kumar | Tamil | Tamil Nadu State Film Award for Best Actor",
+            "[ROW] 1992 | Daddy | Anand | Malayalam | -",
+            "[ROW] 1993 | Thalattu | Kuzhanthai | Tamil | -",
+            "[ROW] 1993 | Marupadiyum | Gowri Shankar | Tamil | -",
+            "[ROW] 1994 | Paasamalargal | Raj | Tamil | -",
+            "[ROW] 1994 | Duet | Himself | Tamil | Cameo appearance",
+            "[ROW] 1995 | Bombay | Shekhar | Tamil | -",
+            "[ROW] 1995 | Indira | Thiyagu | Tamil | -",
+            "[ROW] 1995 | Mounam | Kiran | Telugu | -",
+            "[ROW] 1996 | Devaraagam | Vishnu | Malayalam | -",
+            "[ROW] 1997 | Minsaara Kanavu | Thomas | Tamil | -",
+            "[ROW] 1997 | Pudhayal | Koti | Tamil | -",
+            "[ROW] 1998 | Saat Rang Ke Sapne | Mahipal | Hindi | -",
+            "[ROW] 1999 | En Swasa Katre | Arun | Tamil | -",
+            "[ROW] 2000 | Alaipayuthey | Ram | Tamil | Guest appearance",
+            "[ROW] 2000 | Raja Ko Rani Se Pyar Ho Gaya | Mohit Kumar | Hindi | -",
+            "[ROW] 2006 | Sasanam | Muthiah | Tamil | -",
+            "[ROW] 2013 | Kadal | Sam Fernando | Tamil | -",
+            "[ROW] 2015 | Thani Oruvan | Dr. Siddharth Abimanyu (Pazhani Sengalvarayan) | Tamil | Edison Award Best Actor in a Negative Role Filmfare Award for Best Supporting Actor – Tamil IIFA Utsavam Award for Best Performance in a Negative Role",
+            "[ROW] 2016 | Dear Dad | Nitin Swaminathan | Hindi | -",
+            "[ROW] 2016 | Dhruva | Dr. Siddharth Abhimanyu (Venkanna Chengalarayudu) | Telugu | -",
+            "[ROW] 2017 | Bogan | Aadhithya Maravarman (Bogan) | Tamil | -",
+            "[ROW] 2018 | Bhaskar Oru Rascal | Bhaskar | Tamil | -",
+            "[ROW] 2018 | Chekka Chivantha Vaanam | Varadan | Tamil | -",
+            "[ROW] 2019 | Kallapart | Rajapandi | Tamil | Completed",
+            "[ROW] 2019 | Sathuranga Vettai 2 | Gandhi Babu | Tamil | Completed",
+            "[ROW] 2019 | Vanangamudi | - | Tamil | Completed",
+            "[ROW] 2019 | Naragasooran | Dhruva | Tamil | Completed"
+        ],
+        "id":39
+    }
+
+    {
+        "Prediction":"amanda pays made her debut in 1984 as lady victoria wingate in the oxford blues and played the role of nicole in the 1988 film off limits.",
+        "Question":"What was Amanda Pays debut film and what role did she play in the film \"Off Limits\" (1988)?",
+        "Ground Truth":"Pays made her film debut in \"Oxford Blues\" (1984) and she played as Sister Nicole in \"Off Limits\" (1988 film).",
+        "Table Title":"Amanda Pays | TV and filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role",
+            "[ROW] 1984 | Oxford Blues | Lady Victoria Wingate",
+            "[ROW] 1986 | The Frog Prince | -",
+            "[ROW] 1987 | The Kindred | Melissa Leftridge",
+            "[ROW] 1988 | Off Limits | Nicole",
+            "[ROW] 1989 | Leviathan | Elizabeth \"Willie\" Williams",
+            "[ROW] 1991 | A Grande Arte | Mariet",
+            "[ROW] 1995 | Solitaire for 2 | Katie Burrough",
+            "[ROW] 1996 | Subterfuge | Alex",
+            "[ROW] 1997 | Spacejacked | Dawn",
+            "[ROW] 2001 | Ablaze | Jennifer Lewis",
+            "[ROW] 2016 | My Mistress | Vera Clemens"
+        ],
+        "id":40
+    }
+
+    {
+        "Prediction":"in 2015, allen played the role of robyn in baby daddy.",
+        "Question":"Which role did Christa B. Allen play in 2015 alone?",
+        "Ground Truth":"In 2015, Christa B. Allen had a recurring role as Robyn in Baby Daddy.",
+        "Table Title":"Christa B. Allen | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2006 | Medium | Maura Walker | Episode: \"Blood Relation\"",
+            "[ROW] 2006 | Cake | Cake | Lead role, 13 episodes",
+            "[ROW] 2007 | Cory in the House | Cheyenne | Episode: \"The Kung Fu Kats Kid\"",
+            "[ROW] 2008 | The Suite Life on Deck | Violet Berg | Episode: \"The Kidney of the Sea\"",
+            "[ROW] 2008 | Grey's Anatomy | Holly Anderson | Episode: \"All by Myself\"",
+            "[ROW] 2009 | ER | Jody Nugent | Episode: \"Love Is a Battlefield\"",
+            "[ROW] 2009 | CSI: Crime Scene Investigation | Matty Moore | Episode: \"Miscarriage of Justice\"",
+            "[ROW] 2009 | Chasing a Dream | Nikol Schrunk | Television film",
+            "[ROW] 2009 | Wizards of Waverly Place | Daphne | Episode: \"Family Game Night\"",
+            "[ROW] 2010 | Cold Case | Annabelle Bennet | Episode: \"Free Love\"",
+            "[ROW] 2011 | Deadly Sibling Rivalry | Fiona | Television film",
+            "[ROW] 2011–15 | Revenge | Charlotte Grayson/Clarke | Main role (seasons 1–4); 70 episodes",
+            "[ROW] 2015 | Baby Daddy | Robyn | Recurring role, 4 episodes",
+            "[ROW] 2016 | Hopeless, Romantic | Liz | Television film",
+            "[ROW] 2017 | Family of Lies | Emily | Television film",
+            "[ROW] 2018 | Dangerous Seduction | Posy Pinkerton | Television film; also known as The Queen of Sin",
+            "[ROW] 2018 | Code Black | Amber | Episode: \"Only Human\"",
+            "[ROW] 2019 | When Vows Break | Ella | Television Film"
+        ],
+        "id":41
+    }
+
+    {
+        "Prediction":"alexianne castel of france and sinead russell of canada were the last two finishers of the at the 2012 summer olympics – women's 200 metre backstroke.",
+        "Question":"Who were the last two finishers of the at the 2012 Summer Olympics for the Women's 200 metre backstroke?",
+        "Ground Truth":"France's Alexianne Castel (2:08.43) and Canada's Sinead Russell (2:09.86) closed out the championship field.",
+        "Table Title":"Swimming at the 2012 Summer Olympics – Women's 200 metre backstroke | Final",
+        "Table Rows":[
+            "[COL] Rank | Lane | Name | Nationality | Time | Notes",
+            "[ROW] - | 5 | Missy Franklin | United States | 2:04.06 | WR",
+            "[ROW] - | 6 | Anastasia Zuyeva | Russia | 2:05.92 | -",
+            "[ROW] - | 4 | Elizabeth Beisel | United States | 2:06.55 | -",
+            "[ROW] 4 | 1 | Elizabeth Simmonds | Great Britain | 2:07.26 | -",
+            "[ROW] 5 | 3 | Meagen Nay | Australia | 2:07.43 | -",
+            "[ROW] 6 | 7 | Kirsty Coventry | Zimbabwe | 2:08.18 | -",
+            "[ROW] 7 | 2 | Alexianne Castel | France | 2:08.43 | -",
+            "[ROW] 8 | 8 | Sinead Russell | Canada | 2:09.86 | -"
+        ],
+        "id":42
+    }
+
+    {
+        "Prediction":"renner has been nominated for the academy award for best actor for his role in the hurt locker (2010) and best supporting actor for his role in the town (2011).",
+        "Question":"For what films has Renner been nominated for Academy Awards?",
+        "Ground Truth":"Renner earned two Academy Award nominations for Best Actor and Best Supporting Actor for his roles in The Hurt Locker and The Town.",
+        "Table Title":"List of awards and nominations received by Jeremy Renner | Academy Awards",
+        "Table Rows":[
+            "[COL] Year | Nominated work | Category | Result",
+            "[ROW] 2010 | The Hurt Locker | Best Actor | Nominated",
+            "[ROW] 2011 | The Town | Best Supporting Actor | Nominated"
+        ],
+        "id":43
+    }
+
+    {
+        "Prediction":"m-1 challenge 28: emelianenko vs. malikov was held on november 12, 2011 at the star centre in astrakhan, russia.",
+        "Question":"When and where was M-1 Challenge 28: Emelianenko vs. Malikov held?",
+        "Ground Truth":"M-1 Challenge 28: Emelianenko vs. Malikov was held on November 12, 2011, at Star Centre in Astrakhan, Russia.",
+        "Table Title":"2011 in M-1 Global | Events list",
+        "Table Rows":[
+            "[COL] # | Event Title | Date | Arena | Location",
+            "[ROW] 140 | M-1 Ukraine: Superfinal Grand Prix | December 17, 2011 | Acco International Exhibition Center | Kiev, Ukraine",
+            "[ROW] 139 | M-1 Challenge 30: Zavurov vs. Enomoto | December 9, 2011 | The Hangar | Costa Mesa, California, United States",
+            "[ROW] 138 | M-1 Global: Fedor vs. Monson | November 20, 2011 | Olympic Stadium | Moscow, Russia",
+            "[ROW] 137 | M-1 Challenge 29: Samoilov vs. Miranda | November 19, 2011 | Ufa Arena | Ufa, Bashkortostan, Russia",
+            "[ROW] 136 | M-1 Belarus 13: Belarus Fighting Championship | November 12, 2011 | Orion Night Club | Minsk, Belarus",
+            "[ROW] 135 | M-1 Challenge 28: Emelianenko vs. Malikov | November 12, 2011 | Star Centre | Astrakhan, Russia",
+            "[ROW] 134 | M-1 Ukraine: Battle of Minsk | October 15, 2011 | Minsk Sports Palace | Minsk, Belarus",
+            "[ROW] 133 | M-1 Challenge 27: Magalhaes vs. Zayats | October 14, 2011 | GCU Arena | Phoenix, Arizona, United States",
+            "[ROW] 132 | M-1 Belarus: Battle of Minsk | September 17, 2011 | Orion | Minsk, Belarus",
+            "[ROW] 131 | M-1 Ukraine: King of Mixfight | September 15, 2011 | Crystal Hall | Kiev, Ukraine",
+            "[ROW] 130 | M-1 Global: M-1 Fighter Tournament | August 6, 2011 | Saint Petersburg | Leningrad Oblast, Russia",
+            "[ROW] 129 | M-1 Challenge 26: Garner vs. Bennett 2 | July 8, 2011 | The Hangar at the O.C. Fair and Events Center | Costa Mesa, California, United States",
+            "[ROW] 128 | M-1 Global: M-1 Ukraine European Battle | June 4, 2011 | National Circus of Ukraine | Kiev, Ukraine",
+            "[ROW] 127 | M-1 Global - Mix Fight M-1 | May 21, 2011 | Orlyonok Sport Palace | Perm, Perm Krai, Russia",
+            "[ROW] 126 | M-1 Selection 2011: Asia Round 1 | April 30, 2011 | Seoul Fashion Center Event Hall | Seoul, South Korea",
+            "[ROW] 125 | M-1 Challenge 25: Zavurov vs. Enomoto | April 28, 2011 | Ice Palace Saint Petersburg | Saint Petersburg, Leningrad Oblast, Russia",
+            "[ROW] 124 | M-1 Ukraine: International Club Grand Prix 1 | April 2, 2011 | Acco International Exhibition Center | Kiev, Ukraine",
+            "[ROW] 123 | M-1 Selection 2011: European Tournament | April 1, 2011 | Ali Aliyev Sports Complex | Makhachkala, Russia",
+            "[ROW] 122 | M-1 Challenge 24: Damkovsky vs. Figueroa | March 25, 2011 | Ted Constant Convocation Center | Norfolk, Virginia, United States",
+            "[ROW] 121 | M-1 Challenge 23: Guram vs. Grishin | March 5, 2011 | Crocus City Hall | Moscow, Russia",
+            "[ROW] 120 | M-1 Selection Ukraine 2010: The Finals | February 12, 2011 | Acco International Exhibition Center | Kiev, Ukraine"
+        ],
+        "id":44
+    }
+
+    {
+        "Prediction":"in the 2nd test against sri lanka, kimble took 6-27.",
+        "Question":"How did Kimble perform in the game against Sri Lanka?",
+        "Ground Truth":"Kumble completed a ten-for in the match as Sri Lanka were bowled out for 247, losing by 188 runs.",
+        "Table Title":"Sri Lankan cricket team in India in 2005–06 | 2nd Test",
+        "Table Rows":[
+            "[COL] India | v | Sri Lanka",
+            "[ROW] 290 (96.4 overs) Sachin Tendulkar 109 (196) Muttiah Muralitharan 7/100 (38.4 overs) | - | 230 (83.3 overs) Marvan Atapattu 88 (202) Anil Kumble 6/72 (28 overs)",
+            "[ROW] 375/6d (105 overs) Irfan Pathan 93 (143) Chaminda Vaas 2/65 (21 overs) | - | 247 (91.2 overs) Marvan Atapattu 67 (129) Anil Kumble 4/85 (36 overs)"
+        ],
+        "id":45
+    }
+
+    {
+        "Prediction":"in 2010, jackson featured on \"she couldn't make it on her own\" and \"y'all know how i am\" from the album i am the west.",
+        "Question":"Which songs and albums did Jackson feature on in 2010?",
+        "Ground Truth":"In 2010, Jackson featured on the songs \"She Couldn't Make It On Her Own\" and \"Y'all Know How I Am\", from the album I Am the West.",
+        "Table Title":"O'Shea Jackson Jr. | Discography",
+        "Table Rows":[
+            "[COL] Year | Song | Artist | Album",
+            "[ROW] 2010 | \"She Couldn't Make It On Her Own\" | Ice Cube (feat. OMG & Doughboy) | I Am the West",
+            "[ROW] 2010 | \"Y'all Know How I Am\" | Ice Cube (feat. OMG, Doughboy, WC & Young Maylay) | I Am the West"
+        ],
+        "id":46
+    }
+
+    {
+        "Prediction":"in 2007, ryan played lila in i want candy.",
+        "Question":"What did Ryan play in 2007?What did Ryan play in 2007?",
+        "Ground Truth":"In 2007, Ryan was seen as Lila in the film, I Want Candy.",
+        "Table Title":"Michelle Ryan | Film",
+        "Table Rows":[
+            "[COL] Year | Title | Role",
+            "[ROW] 2006 | Cashback | Suzy",
+            "[ROW] 2007 | I Want Candy | Lila",
+            "[ROW] 2008 | Flick | Sandra Martin",
+            "[ROW] 2010 | 4.3.2.1. | Kelly",
+            "[ROW] 2010 | Huge | Cindy",
+            "[ROW] 2010 | Love's Kitchen | Shauna",
+            "[ROW] 2011 | Cleanskin | Emma",
+            "[ROW] 2011 | Girl Walks into a Bar | Loretta",
+            "[ROW] 2012 | Cockneys vs Zombies | Katy",
+            "[ROW] 2012 | The Man Inside | Alexia Sinclair",
+            "[ROW] 2015 | Andron | Elanor",
+            "[ROW] 2017 | The Last Photograph | Maryam"
+        ],
+        "id":47
+    }
+
+    {
+        "Prediction":"the 1984 tour de france took place from 29 june to 19 july, with a total race distance of 4,790 km (2,860 mi), and 21 stages.",
+        "Question":"What was the total duration, in distance, time, and stages, of the 1984 Tour de France?",
+        "Ground Truth":"The 1984 Tour de France runs over 4,021 km (2,499 mi) in 23 stages from 29 June to 22 July.",
+        "Table Title":"1984 Tour de France | Route and stages",
+        "Table Rows":[
+            "[COL] Stage | Date | Course | Distance | Type | Type | Winner",
+            "[ROW] P | 29 June | Montreuil to Noisy-le-Sec | 5 km (3.1 mi) | - | Individual time trial | Bernard Hinault (FRA)",
+            "[ROW] 1 | 30 June | Bondy to Saint-Denis | 149 km (93 mi) | - | Plain stage | Frank Hoste (BEL)",
+            "[ROW] 2 | 1 July | Bobigny to Louvroil | 249 km (155 mi) | - | Plain stage | Marc Madiot (FRA)",
+            "[ROW] 3 | 2 July | Louvroil to Valenciennes | 51 km (32 mi) | - | Team time trial | Renault–Elf",
+            "[ROW] 4 | 2 July | Valenciennes to Béthune | 83 km (52 mi) | - | Plain stage | Ferdi Van Den Haute (BEL)",
+            "[ROW] 5 | 3 July | Béthune to Cergy-Pontoise | 207 km (129 mi) | - | Plain stage | Paulo Ferreira (POR)",
+            "[ROW] 6 | 4 July | Cergy-Pontoise to Alençon | 202 km (126 mi) | - | Plain stage | Frank Hoste (BEL)",
+            "[ROW] 7 | 5 July | Alençon to Le Mans | 67 km (42 mi) | - | Individual time trial | Laurent Fignon (FRA)",
+            "[ROW] 8 | 6 July | Le Mans to Nantes | 192 km (119 mi) | - | Plain stage | Pascal Jules (FRA)",
+            "[ROW] 9 | 7 July | Nantes to Bordeaux | 338 km (210 mi) | - | Plain stage | Jan Raas (NED)",
+            "[ROW] 10 | 8 July | Langon to Pau | 198 km (123 mi) | - | Plain stage | Eric Vanderaerden (BEL)",
+            "[ROW] 11 | 9 July | Pau to Guzet-Neige | 227 km (141 mi) | - | Stage with mountain(s) | Robert Millar (GBR)",
+            "[ROW] 12 | 10 July | Saint-Girons to Blagnac | 111 km (69 mi) | - | Plain stage | Pascal Poisson (FRA)",
+            "[ROW] 13 | 11 July | Blagnac to Rodez | 220 km (140 mi) | - | Plain stage | Pierre-Henri Menthéour (FRA)",
+            "[ROW] 14 | 12 July | Rodez to Domaine du Rouret | 228 km (142 mi) | - | Hilly stage | Fons De Wolf (BEL)",
+            "[ROW] 15 | 13 July | Domaine du Rouret to Grenoble | 241 km (150 mi) | - | Hilly stage | Frédéric Vichot (FRA)",
+            "[ROW] - | 14 July | Grenoble | Grenoble | - | Rest day | Rest day",
+            "[ROW] 16 | 15 July | Les Échelles to La Ruchère | 22 km (14 mi) | - | Individual time trial | Laurent Fignon (FRA)",
+            "[ROW] 17 | 16 July | Grenoble to Alpe d'Huez | 151 km (94 mi) | - | Stage with mountain(s) | Luis Herrera (COL)",
+            "[ROW] 18 | 17 July | Le Bourg-d'Oisans to La Plagne | 185 km (115 mi) | - | Stage with mountain(s) | Laurent Fignon (FRA)",
+            "[ROW] 19 | 18 July | La Plagne to Morzine | 186 km (116 mi) | - | Stage with mountain(s) | Ángel Arroyo (ESP)",
+            "[ROW] 20 | 19 July | Morzine to Crans-Montana (Switzerland) | 141 km (88 mi) | - | Stage with mountain(s) | Laurent Fignon (FRA)",
+            "[ROW] 21 | 20 July | Crans-Montana (Switzerland) to Villefranche-sur-Saône | 320 km (200 mi) | - | Hilly stage | Frank Hoste (BEL)",
+            "[ROW] 22 | 21 July | Villié-Morgon to Villefranche-sur-Saône | 51 km (32 mi) | - | Individual time trial | Laurent Fignon (FRA)",
+            "[ROW] 23 | 22 July | Pantin to Paris (Champs-Élysées) | 197 km (122 mi) | - | Hilly stage | Eric Vanderaerden (BEL)",
+            "[ROW] - | Total | Total | 4,021 km (2,499 mi) | 4,021 km (2,499 mi) | 4,021 km (2,499 mi) | 4,021 km (2,499 mi)"
+        ],
+        "id":48
+    }
+
+    {
+        "Prediction":"in 2016, sabrina carpenter starred in adventures in babysitting, a disney channel original movie.",
+        "Question":"What movie did Sabrina Carpenter star in 2016?",
+        "Ground Truth":"Sabrina Carpenter starred as Jenny Parker in 2016 Disney Channel Original Movie Adventures in Babysitting.",
+        "Table Title":"Sabrina Carpenter | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Note",
+            "[ROW] 2011 | Law & Order: Special Victims Unit | Paula | Episode: \"Possessed\"",
+            "[ROW] 2012 | Phineas and Ferb | Girl | Voice role; episodes: \"What a Croc!\", \"Ferb TV\"",
+            "[ROW] 2012 | Gulliver Quinn | Iris | Television film",
+            "[ROW] 2012 | The Unprofessional | Harper | Television film",
+            "[ROW] 2013–2018 | Sofia the First | Princess Vivian | Recurring voice role; 13 episodes",
+            "[ROW] 2013 | The Goodwin Games | Young Chloe Goodwin | 5 episodes",
+            "[ROW] 2013 | Orange Is the New Black | Jessica Wedge | Episode: \"Fucksgiving\"",
+            "[ROW] 2013 | Austin & Ally | Lucy | Episode: \"Moon Week & Mentors\"",
+            "[ROW] 2014–2017 | Girl Meets World | Maya Hart | Main role",
+            "[ROW] 2015 | Radio Disney Family Holiday | Herself/Host | Special",
+            "[ROW] 2016 | Wander Over Yonder | Melodie | Voice role; episode: \"The Legend\"",
+            "[ROW] 2016 | Walk the Prank | Herself | Episode: \"Adventures in Babysitting\"",
+            "[ROW] 2016 | Adventures in Babysitting | Jenny | Disney Channel Original Movie",
+            "[ROW] 2016–present | Milo Murphy's Law | Melissa Chase | Main voice role",
+            "[ROW] 2017 | Soy Luna | Herself | Episodes 138 and 139",
+            "[ROW] 2018 | So Close | Jessica | Episode: Pilot",
+            "[ROW] 2018 | Mickey and the Roadster Racers | Nina Glitter | Voice role; episode: \"Super-Charged: Pop Star Helpers\""
+        ],
+        "id":49
+    }
+
+    {
+        "Prediction":"sharon cherop made her marathon debut at the 2010 hamburg marathon and won the 2010 toronto waterfront marathon.",
+        "Question":"Where did Sharon Cherop make her marathon debut, and in which competitions did she earn her first two marathon wins?",
+        "Ground Truth":"Sharon Cherop made her marathon debut at the Twin Cities Marathon in Minneapolis (coming third) and won her first two marathons in 2010: first at the Hamburg Marathon and then also at the Toronto Waterfront Marathon, which she won in 2:22:42 for the fastest marathon time in Canada.",
+        "Table Title":"Sharon Cherop | Achievements",
+        "Table Rows":[
+            "[COL] Year | Competition | Venue | Position | Event | Notes",
+            "[ROW] Representing Kenya | Representing Kenya | Representing Kenya | Representing Kenya | Representing Kenya | Representing Kenya",
+            "[ROW] 2000 | World Junior Championships | Santiago, Chile | 3rd | 5000m | 16:23.73",
+            "[ROW] 2007 | Twin Cities Marathon | Minneapolis, USA | 3rd | Marathon | 2:38:45",
+            "[ROW] 2009 | Nairobi Marathon | Nairobi, Kenya | 3rd | Marathon | 2:33:53",
+            "[ROW] 2010 | Hamburg Marathon | Hamburg, Germany | 1st | Marathon | 2:28:38",
+            "[ROW] 2010 | Toronto Waterfront Marathon | Toronto, Canada | 1st | Marathon | 2:22:42",
+            "[ROW] 2011 | Boston Marathon | Boston, USA | 3rd | Marathon | 2:22:42",
+            "[ROW] 2012 | Boston Marathon | Boston, USA | 1st | Marathon | 2:31:50"
+        ],
+        "id":50
+    }
+
+    {
+        "Prediction":"gavaskar and duleep mendis scored centuries against india in 1082.",
+        "Question":"Which Sri Lankan cricket players scored centuries against India in 1082?",
+        "Ground Truth":"The players who scored centuries were Duleep Mendis, who scored 105 in both Sri Lankan innings, and Sunil Gavaskar, who scored 155 in India's first innings.",
+        "Table Title":"Sri Lankan cricket team in India in 1982–83 | Only Test",
+        "Table Rows":[
+            "[COL] Sri Lanka | v | India",
+            "[ROW] 346 (92.5 overs) Duleep Mendis 105 (123) Dilip Doshi 5/85 (30 overs) | - | 6/566 declared (131 overs) Sunil Gavaskar 155 (293) Ashantha de Mel 2/133 (29 overs)",
+            "[ROW] 394 (96.3 overs) Duleep Mendis 105 (236) Kapil Dev 5/110 (24.3 overs) | - | 7/135 (28 overs) Sandeep Patil 46 (balls faced unknown) Ashantha de Mel 5/68 (14 overs)"
+        ],
+        "id":51
+    }
+
+    {
+        "Prediction":"in 1991, reid released \"always\" without collaborating with any other artists.",
+        "Question":"What song did Reid release in 1991 without collaborating with any other artists?",
+        "Ground Truth":"Reid's solo song \"Always\" was released in 1991.",
+        "Table Title":"Perri \"Pebbles\" Reid | As main performer",
+        "Table Rows":[
+            "[COL] Year | Single | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Peak chart positions | Album",
+            "[ROW] Year | Single | US | US R&B | US Dan | US A/C | AUS | CAN | IRE | NLD | NZ | UK | Album",
+            "[ROW] 1987 | \"Love/Hate\" | — | — | 34 | — | — | — | — | — | — | — | Pebbles",
+            "[ROW] 1987 | \"Girlfriend\" | 5 | 1 | 24 | — | 86 | 17 | 9 | 23 | 22 | 8 | Pebbles",
+            "[ROW] 1988 | \"Mercedes Boy\" | 2 | 1 | 2 | — | — | 14 | — | 39 | 50 | 42 | Pebbles",
+            "[ROW] 1988 | \"Take Your Time\" | — | 3 | 41 | — | — | — | — | — | — | — | Pebbles",
+            "[ROW] 1988 | \"Do Me Right\" | — | 67 | — | — | — | — | — | — | — | — | Pebbles",
+            "[ROW] 1990 | \"Giving You the Benefit\" | 4 | 1 | 10 | — | 48 | 32 | — | 32 | 26 | 73 | Always",
+            "[ROW] 1990 | \"Love Makes Things Happen\" (with Babyface) | 13 | 1 | — | 24 | — | 91 | — | — | — | — | Always",
+            "[ROW] 1991 | \"Backyard\" (with Salt-n-Pepa) | 73 | 4 | — | — | — | — | — | — | — | — | Always",
+            "[ROW] 1991 | \"Always\" | — | 13 | — | — | — | — | — | — | — | — | Always",
+            "[ROW] 1995 | \"Are You Ready?\" | — | 38 | — | — | — | — | — | — | — | — | Straight from My Heart",
+            "[ROW] 2008 | \"Let Freedom Reign\" | — | — | — | — | — | — | — | — | — | — | Prophetic Flows Vol. I & II",
+            "[ROW] 2008 | \"Healing Waters\" | — | — | — | — | — | — | — | — | — | — | Non-album single",
+            "[ROW] \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory. | \"—\" denotes a recording that did not chart or was not released in that territory."
+        ],
+        "id":52
+    }
+
+    {
+        "Prediction":"broad beat john carberry in the challenge international de tourisme 1930 circuit over europe.",
+        "Question":"Who beat John Carberry in the Challenge International de Tourisme 1930 Circuit over Europe?",
+        "Ground Truth":"With 270 points, Hubert Broad of the United Kingdom beat John Carberry, who had 268 points, at the Challenge International de Tourisme 1930 Circuit over Europe.",
+        "Table Title":"Challenge International de Tourisme 1930 | Circuit over Europe",
+        "Table Rows":[
+            "[COL] - | Pilot | Country | Aircraft type | Registration / Starting number | Average speed | Points (in this, regularity)",
+            "[ROW] 1. | Hubert Broad | United Kingdom | DH-60G | G-AAHR / K3 | 176 km/h | 270 (75)",
+            "[ROW] 2. | John Carberry | - | Monocoupe 110 | G-ABBR / K7 | 173 km/h | 268 (75)",
+            "[ROW] 3. | Reinhold Poss | Germany | Klemm L.25E | D-1901 / B8 | 149 km/h | 264 (75)",
+            "[ROW] 4. | Fritz Morzik | Germany | BFW M.23c | D-1883 / B3 | 148 km/h | 263 (75)",
+            "[ROW] 5. | Willy Polte | Germany | BFW M.23c | D-1892 / F2 | 147 km/h | 262 (75)",
+            "[ROW] 6. | Oskar Notz | Germany | Klemm L.25E | D-1902 / C1 | 146 km/h | 261 (75)",
+            "[ROW] 7. | Winifred Spooner | United Kingdom | DH-60G | G-AALK / K8 | 165 km/h | 260 (75)",
+            "[ROW] 8. | Dietrich von Massenbach | Germany | BFW M.23c | D-1888 / C7 | 151 km/h | 256 (65)",
+            "[ROW] 9. | Ernst Krüger | Germany | BFW M.23c | D-1891 / E8 | 139 km/h | 254 (75)",
+            "[ROW] 10. | Joachim von Köppen | Germany | BFW M.23c | D-1886 /C5 | 138 km/h | 253 (75)",
+            "[ROW] 11. | Sidney Thorn | United Kingdom | Avro Avian | G-AAHJ / K1 | 155 km/h | 250 (75)",
+            "[ROW] 12. | Oskar Dinort | Germany | Klemm L.25E | D-1900 / B9 | 145 km/h | 250 (65)",
+            "[ROW] 13. | Jean R. Pierroz | Switzerland | Breda Ba.15S | CH-257 / S1 | 133 km/h | 238 (75)",
+            "[ROW] 14. | Stanisław Płonczyński | Poland | RWD-2 | SP-ADG / P3 | 128 km/h | 236 (75)",
+            "[ROW] 15. | Edward Więckowski | Poland | RWD-2 | SP-ADH / P4 | 127 km/h | 234 (75)"
+        ],
+        "id":53
+    }
+
+    {
+        "Prediction":"in 2008, reed played as rosalie hale in the twilight saga.",
+        "Question":"Who and when did Reed play in The Twilight Saga?",
+        "Ground Truth":"Reed played as Rosalie Hale in The Twilight Saga from 2008 to 2012.",
+        "Table Title":"Nikki Reed | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2003 | Thirteen | Evie Zamora | Also co-writer",
+            "[ROW] 2005 | Man of God | Zane Berg | -",
+            "[ROW] 2005 | Lords of Dogtown | Kathy Alva | -",
+            "[ROW] 2005 | American Gun | Tally | -",
+            "[ROW] 2006 | Mini's First Time | Minerva \"Mini\" Drogues | -",
+            "[ROW] 2007 | Cherry Crush | Shay Bettencourt | -",
+            "[ROW] 2008 | Twilight | Rosalie Hale | -",
+            "[ROW] 2008 | Familiar Strangers | Allison | -",
+            "[ROW] 2009 | The Twilight Saga: New Moon | Rosalie Hale | -",
+            "[ROW] 2009 | Last Day of Summer | Stefanie | Also executive producer",
+            "[ROW] 2010 | The Twilight Saga: Eclipse | Rosalie Hale | -",
+            "[ROW] 2010 | Chain Letter | Jessie Campbell | -",
+            "[ROW] 2010 | Privileged | Lauren Carrington | -",
+            "[ROW] 2011 | Catch .44 | Kara | -",
+            "[ROW] 2011 | The Twilight Saga: Breaking Dawn – Part 1 | Rosalie Hale | -",
+            "[ROW] 2012 | The Twilight Saga: Breaking Dawn – Part 2 | Rosalie Hale | -",
+            "[ROW] 2013 | Empire State | Lizzette | -",
+            "[ROW] 2013 | Pawn | Amanda | -",
+            "[ROW] 2013 | Enter the Dangerous Mind | Wendy | -",
+            "[ROW] 2014 | Balls Out | Meredith Downs | -",
+            "[ROW] 2014 | In Your Eyes | Donna | -",
+            "[ROW] 2014 | Murder of a Cat | Greta | -",
+            "[ROW] 2015 | About Scout | Georgie | -",
+            "[ROW] 2016 | Jack Goes Home | Crystal | -",
+            "[ROW] 2016 | A Sunday Horse | Debi Walden | -"
+        ],
+        "id":54
+    }
+
+    {
+        "Prediction":"the total forfeitures increased from $1.25 billion in 2005 to $2.50 billion in 2010.",
+        "Question":"How much did the total forfeitures change from 2005 to 2010?",
+        "Ground Truth":"From 2005 to 2010, the forfeitures went from $1.25 billion to $2.50 billion.",
+        "Table Title":"Civil forfeiture in the United States | Statistics",
+        "Table Rows":[
+            "[COL] Year | Total forfeitures | Notes",
+            "[ROW] 1986 | $93.7 million | DOJ's Asset Forfeiture Fund",
+            "[ROW] 2004 | $567 million | -",
+            "[ROW] 2005 | $1.25 billion | -",
+            "[ROW] 2007 | $1.58 billion | -",
+            "[ROW] 2008 | $1.6 billion | DOJ Asset Forfeiture fund took in $1 billion",
+            "[ROW] 2010 | $2.50 billion | -"
+        ],
+        "id":55
+    }
+
+    {
+        "Prediction":"after playing the role of wallace 4 times, sallis appeared in a grand day out in 1989.",
+        "Question":"What did Sallis play after playing the role of Wallace 4 times?",
+        "Ground Truth":"In 2009, Sallis played Cyril in Kingdom after voicing Wallace in 1989, 1993, 1995, and 2008.",
+        "Table Title":"Peter Sallis | Television",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1958 | The Diary of Samuel Pepys | Samuel Pepys | -",
+            "[ROW] 1961 | Danger Man | John Gordon in Episode titled Find and Destroy | -",
+            "[ROW] 1964 | The Avengers | Steeds colleague and friend Hal Anderson in Episode titled The Wringer | -",
+            "[ROW] 1967 | Doctor Who: The Ice Warriors | Penley | 6 episodes",
+            "[ROW] 1970 | Catweazle | Stuffy Gladstone | -",
+            "[ROW] 1970 | The Culture Vultures | Professor George Hobbes | -",
+            "[ROW] 1971 | The Persuaders! | David Piper | -",
+            "[ROW] 1971 | Public Eye | Eddie Meadows | -",
+            "[ROW] 1973–2010 | Last of the Summer Wine | Norman Clegg | 295 episodes (final television appearance)",
+            "[ROW] 1973 | Frankenstein: The True Story | Priest | -",
+            "[ROW] 1974 | The Pallisers | Mr. Bonteen | -",
+            "[ROW] 1974 | Who Killed Lamb? | Lloyd | -",
+            "[ROW] 1974 | The Capone Investment | Wheatfield | -",
+            "[ROW] 1976–1978 | The Ghosts of Motley Hall | Mr Gudgin | -",
+            "[ROW] 1978 | The Clifton House Mystery | Milton Guest | -",
+            "[ROW] 1978 | She Loves Me | Ladislav Sipos | TV Movie",
+            "[ROW] 1978–1980 | Leave It To Charlie | Arthur Simister | -",
+            "[ROW] 1984–1990 | The Wind in the Willows | Rat | Voice",
+            "[ROW] 1987 | The New Statesman | Sidney Bliss | -",
+            "[ROW] 1988–1989 | First of the Summer Wine | Mr David Clegg | -",
+            "[ROW] 1989 | A Grand Day Out | Wallace | Voice",
+            "[ROW] 1993 | The Wrong Trousers | Wallace | Voice",
+            "[ROW] 1995 | A Close Shave | Wallace | Voice",
+            "[ROW] 2008 | A Matter of Loaf and Death | Wallace | Voice",
+            "[ROW] 2009 | Kingdom | Cyril | -",
+            "[ROW] 2010 | Wallace and Gromit's World of Invention | Wallace | Voice"
+        ],
+        "id":56
+    }
+
+    {
+        "Prediction":"shooto: spirit 2010 summer event was held on october 19, 2010 at shinjuku face in tokyo.",
+        "Question":"When and where was the Shooto: Spirit 2010 Summer event held?",
+        "Ground Truth":"Shooto: Spirit 2010 Summer was an event held on June 27, 2010 at the Accel Hall in Sendai, Miyagi, Japan.",
+        "Table Title":"2010 in Shooto | Events list",
+        "Table Rows":[
+            "[COL] # | Event Title | Date | Arena | Location",
+            "[ROW] 313 | Shooto: Border: Season 2: Immovable | December 26, 2010 | Hirano Ward Community Hall | Osaka, Kansai, Japan",
+            "[ROW] 312 | Shooto: The Rookie Tournament 2010 Final | December 18, 2010 | Shinjuku Face | Tokyo, Japan",
+            "[ROW] 311 | Shooto: The Way of Shooto 6: Like a Tiger, Like a Dragon | November 19, 2010 | Korakuen Hall | Tokyo, Japan",
+            "[ROW] 310 | Shooto: Gig Central 21 | October 24, 2010 | Asunal Kanayama Hall | Nagoya, Aichi, Japan",
+            "[ROW] 309 | Shooto: Shooting Disco 13: Can't Stop Myself! | October 16, 2010 | Shinjuku Face | Tokyo, Japan",
+            "[ROW] 308 | Shooto: Gig West 12 | September 26, 2010 | Abeno Ward Hall | Osaka, Kansai, Japan",
+            "[ROW] 307 | Shooto: The Way of Shooto 5: Like a Tiger, Like a Dragon | September 23, 2010 | Korakuen Hall | Tokyo, Japan",
+            "[ROW] 306 | Shooto: Kitazawa Shooto Vol. 4 | September 17, 2010 | Kitazawa Town Hall | Tokyo, Japan",
+            "[ROW] 305 | Shooto: Gig North 6 | August 29, 2010 | Zepp Sapporo | Sapporo, Hokkaido, Japan",
+            "[ROW] 304 | Shooto: Border: Season 2: Rhythm | August 15, 2010 | Hirano Ward Community Hall | Osaka, Kansai, Japan",
+            "[ROW] 303 | Shooto: Gig Tokyo 5 | August 7, 2010 | Shinjuku Face | Tokyo, Japan",
+            "[ROW] 302 | Shooto: The Way of Shooto 4: Like a Tiger, Like a Dragon | July 19, 2010 | Korakuen Hall | Tokyo, Japan",
+            "[ROW] 301 | Shooto: Gig Saitama 2 | July 4, 2010 | Pal City Civic Hall | Shiki, Saitama, Japan",
+            "[ROW] 300 | Shooto: Spirit 2010 Summer | June 27, 2010 | Accel Hall | Sendai, Miyagi, Japan",
+            "[ROW] 299 | Shooto: Gig Central 20 | June 13, 2010 | Zepp Nagoya | Nagoya, Aichi, Japan",
+            "[ROW] 298 | Shooto: Shooting Disco 12: Stand By Me | June 6, 2010 | Shinjuku Face | Tokyo, Japan",
+            "[ROW] 297 | Shooto: The Way of Shooto 3: Like a Tiger, Like a Dragon | May 30, 2010 | Tokyo Dome City Hall | Tokyo, Japan",
+            "[ROW] 296 | Shooto: Grapplingman 11 | May 16, 2010 | Hiroshima Industrial Hall | Hiroshima, Japan",
+            "[ROW] 295 | Shooto: Kitazawa Shooto Vol. 3 | May 9, 2010 | Kitazawa Town Hall | Tokyo, Japan",
+            "[ROW] 294 | Shooto: Gig Tokyo 4 | April 24, 2010 | Shinjuku Face | Tokyo, Japan",
+            "[ROW] 293 | Shooto: Grapplingman 10 | April 4, 2010 | Mamakari Forum | Okayama, Japan",
+            "[ROW] 292 | Shooto: Border: Season 2: Vibration | March 28, 2010 | Hirano Ward Community Hall | Osaka, Kansai, Japan",
+            "[ROW] 291 | Shooto: The Way of Shooto 2: Like a Tiger, Like a Dragon | March 22, 2010 | Korakuen Hall | Tokyo, Japan",
+            "[ROW] 290 | Shooto: Spirit 2010 Spring | March 7, 2010 | Accel Hall | Sendai, Miyagi, Japan",
+            "[ROW] 289 | Shooto: Shooting Disco 11: Tora Tora Tora! | February 27, 2010 | Shinjuku Face | Tokyo, Japan",
+            "[ROW] 288 | Shooto: Trilogy 1 | February 21, 2010 | Southernpia Hakata | Hakata-ku, Fukuoka",
+            "[ROW] 287 | Shooto: Gig North 5 | February 14, 2010 | Zepp Sapporo | Sapporo, Hokkaido, Japan",
+            "[ROW] 286 | Shooto: The Way of Shooto 1: Like a Tiger, Like a Dragon | January 23, 2010 | Korakuen Hall | Tokyo, Japan"
+        ],
+        "id":57
+    }
+
+    {
+        "Prediction":"the 1947 tour de france consisted of 17 stages covering a total distance of 4,090 km (2,090 mi).",
+        "Question":"In the 1947 Tour De France, how many stages did the course consist of and what was the total course distance?",
+        "Ground Truth":"The 1947 Tour de France total race distance was 21 stages over 4,642 km (2,884 mi).",
+        "Table Title":"1947 Tour de France | Route and stages",
+        "Table Rows":[
+            "[COL] Stage | Date | Course | Distance | Type | Type | Winner",
+            "[ROW] 1 | 25 June | Paris to Lille | 236 km (147 mi) | - | Plain stage | Ferdinand Kübler (SUI)",
+            "[ROW] 2 | 26 June | Lille to Brussels (Belgium) | 182 km (113 mi) | - | Plain stage | René Vietto (FRA)",
+            "[ROW] 3 | 27 June | Brussels (Belgium) to Luxembourg City (Luxembourg) | 314 km (195 mi) | - | Plain stage | Aldo Ronconi (ITA)",
+            "[ROW] 4 | 28 June | Luxembourg City (Luxembourg) to Strasbourg | 223 km (139 mi) | - | Plain stage | Jean Robic (FRA)",
+            "[ROW] 5 | 29 June | Strasbourg to Besançon | 248 km (154 mi) | - | Plain stage | Ferdinand Kübler (SUI)",
+            "[ROW] - | 30 June | Besançon | Besançon | - | Rest day | Rest day",
+            "[ROW] 6 | 1 July | Besançon to Lyon | 249 km (155 mi) | - | Plain stage | Lucien Teisseire (FRA)",
+            "[ROW] 7 | 2 July | Lyon to Grenoble | 172 km (107 mi) | - | Stage with mountain(s) | Jean Robic (FRA)",
+            "[ROW] 8 | 3 July | Grenoble to Briançon | 185 km (115 mi) | - | Stage with mountain(s) | Fermo Camellini (ITA)",
+            "[ROW] - | 4 July | Briançon | Briançon | - | Rest day | Rest day",
+            "[ROW] 9 | 5 July | Briançon to Digne | 217 km (135 mi) | - | Stage with mountain(s) | René Vietto (FRA)",
+            "[ROW] 10 | 6 July | Digne to Nice | 255 km (158 mi) | - | Stage with mountain(s) | Fermo Camellini (ITA)",
+            "[ROW] - | 7 July | Nice | Nice | - | Rest day | Rest day",
+            "[ROW] 11 | 8 July | Nice to Marseille | 230 km (143 mi) | - | Plain stage | Édouard Fachleitner (FRA)",
+            "[ROW] 12 | 9 July | Marseille to Montpellier | 165 km (103 mi) | - | Plain stage | Henri Massal (FRA)",
+            "[ROW] 13 | 10 July | Montpellier to Carcassonne | 172 km (107 mi) | - | Plain stage | Lucien Teisseire (FRA)",
+            "[ROW] 14 | 11 July | Carcassonne to Luchon | 253 km (157 mi) | - | Stage with mountain(s) | Albert Bourlon (FRA)",
+            "[ROW] - | 12 July | Luchon | Luchon | - | Rest day | Rest day",
+            "[ROW] 15 | 13 July | Luchon to Pau | 195 km (121 mi) | - | Stage with mountain(s) | Jean Robic (FRA)",
+            "[ROW] 16 | 14 July | Pau to Bordeaux | 195 km (121 mi) | - | Plain stage | Giuseppe Tacca (ITA)",
+            "[ROW] 17 | 15 July | Bordeaux to Les Sables-d'Olonne | 272 km (169 mi) | - | Plain stage | Éloi Tassin (FRA)",
+            "[ROW] 18 | 16 July | Les Sables-d'Olonne to Vannes | 236 km (147 mi) | - | Plain stage | Pietro Tarchini (SUI)",
+            "[ROW] - | 17 July | Vannes | Vannes | - | Rest day | Rest day",
+            "[ROW] 19 | 18 July | Vannes to Saint-Brieuc | 139 km (86 mi) | - | Individual time trial | Raymond Impanis (BEL)",
+            "[ROW] 20 | 19 July | Saint-Brieuc to Caen | 235 km (146 mi) | - | Plain stage | Maurice Diot (FRA)",
+            "[ROW] 21 | 20 July | Caen to Paris | 257 km (160 mi) | - | Plain stage | Briek Schotte (BEL)",
+            "[ROW] - | Total | Total | 4,642 km (2,884 mi) | 4,642 km (2,884 mi) | 4,642 km (2,884 mi) | 4,642 km (2,884 mi)"
+        ],
+        "id":58
+    }
+
+    {
+        "Prediction":"in 2006, nicholas blane appeared in the illusionist and sharpe's challenge.",
+        "Question":"What films did Nicholas Blane appear in during 2006?",
+        "Ground Truth":"Nicholas Blane appeared in The Illusionist (2006) and Sharpe's Challenge (2006).",
+        "Table Title":"Nicholas Blane | Film",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1995 | Some Kind of Life | Mr. Rawlings | TV film",
+            "[ROW] 1999 | Great Expectations | Wopsle | TV film",
+            "[ROW] 2005 | Pierrepoint | Governor of Strangeways | -",
+            "[ROW] 2005 | Kinky Boots | - | -",
+            "[ROW] 2006 | The Illusionist | Herr Doebler | -",
+            "[ROW] 2006 | Sharpe's Challenge | Crosby | TV film",
+            "[ROW] 2007 | Harry Potter and the Order of the Phoenix | Bob | -",
+            "[ROW] 2007 | The Shadow in the North | Mr. Harkness | TV film",
+            "[ROW] 2009 | Glorious 39 | Vicar | -",
+            "[ROW] 2012 | National Theatre Live: The Magistrate | Mr. Bullamy | -",
+            "[ROW] 2013 | In Secret | Chemist | -",
+            "[ROW] 2017 | Viceroy's House | Olaf Kirkpatrick Caroe | -"
+        ],
+        "id":59
+    }
+
+    {
+        "Prediction":"in 2008, ann harada played ms. darbus/ms. tenny in high school musical at the muny.",
+        "Question":"What did Ann Harada play in 2008?",
+        "Ground Truth":"Harada played Ms. Darbus in The Muny's production of High School Musical in 2008.",
+        "Table Title":"Ann Harada | Other stage credits",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Theater | Notes",
+            "[ROW] 1998 | Falsettoland | Trina | National Asian American Theatre Company | -",
+            "[ROW] 2006 | Avenue Q | Christmas Eve | Noël Coward Theatre | UK premiere",
+            "[ROW] 2008 | High School Musical | Ms. Darbus/Ms. Tenny | The Muny | -",
+            "[ROW] 2011 | God of Carnage | Annette | George Street Playhouse | -",
+            "[ROW] 2015 | Brooklynite | Professor Whitman | Vineyard Theatre | world premiere",
+            "[ROW] 2016 | 42nd Street | Maggie Jones | The Muny | -",
+            "[ROW] 2016 | Mamma Mia! | Rosie | The Muny | -",
+            "[ROW] 2016 | Stuffed | Stacey | The Women's Project | world premiere",
+            "[ROW] 2017 | Pacific Overtures | Madam/French Admiral/Emperor of Japan | Classic Stage Company | -",
+            "[ROW] 2017 | The New World | Hyannis, the Indian Chief | Bucks County Playhouse | world premiere",
+            "[ROW] 2018 | The Nerd | Clelia | George Street Playhouse | -",
+            "[ROW] 2018 | Gypsy | Electra | The Muny | -",
+            "[ROW] 2018 | Holiday Inn | Louise | Paper Mill Playhouse | -",
+            "[ROW] 2019 | I Married an Angel | Duchess of Holstein-Kuloff | Encores! | -"
+        ],
+        "id":60
+    }
+
+    {
+        "Prediction":"peter egan played toby meres in the film \"callan\" and the duke of sutherland in the film \"chariots of fire\" in 1981.",
+        "Question":"What roles did Peter Egan play in the film \"Callan\" and \"Chariots of Fire\" respectively?",
+        "Ground Truth":"Peter Egan played a role as Meres in Callan (1974), and as Duke of Sutherland in \"Chariots of Fire\" (1981).",
+        "Table Title":"Peter Egan | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1971 | One Brief Summer | Bill Denton | -",
+            "[ROW] 1971 | Elizabeth R | Earl of Southampton | Episode: \"Sweet England's Pride\"",
+            "[ROW] 1973 | The Hireling | Captain Hugh Cantrip | -",
+            "[ROW] 1974 | Callan | Toby Meres | -",
+            "[ROW] 1975 | Hennessy | Williams | -",
+            "[ROW] 1981 | Chariots of Fire | Duke of Sutherland | -",
+            "[ROW] 1984 | A Woman of Substance | Adam Fairley | 3 episodes",
+            "[ROW] 1984 | To Catch a King | Reinhard Heydrich | TV movie",
+            "[ROW] 1987 | A Perfect Spy | Magnus Pym | BBC, 5 episodes",
+            "[ROW] 1997 | Bean | Lord Walton | -",
+            "[ROW] 2000 | 2001: A Space Travesty | Griffin Pratt | -",
+            "[ROW] 2002 | The King's Beard | King Cuthbert | Voice",
+            "[ROW] 2004 | The I Inside | Doctor Truman | -",
+            "[ROW] 2005 | The Wedding Date | Victor Ellis | -",
+            "[ROW] 2005 | Man to Man | Gyllenhaal | -",
+            "[ROW] 2007 | Death at a Funeral | Victor | -",
+            "[ROW] 2011 | The Witcher 2: Assassins of Kings | King Henselt | Video Game, English version, Voice",
+            "[ROW] 2012 | When the Lights Went Out | Peter | -",
+            "[ROW] 2012 | National Theatre Live: People | Theodore | -",
+            "[ROW] 2012-2015 | Downton Abbey | Hugh 'Shrimpie' MacClare, Marquess of Flintshire | 4 episodes",
+            "[ROW] 2014 | Grantchester | Archie Johnson | 1 episode",
+            "[ROW] 2018 | Hold the Sunset | Mr Dugdale | 6 episodes"
+        ],
+        "id":61
+    }
+
+    {
+        "Prediction":"richard thompson's 100 metres record is 9.82 seconds.",
+        "Question":"What is Richard Thompson's 100 metres record?",
+        "Ground Truth":"In 2014, Richard Thompson made a record in 100 m with a run of 9.82 s.",
+        "Table Title":"Richard Thompson (sprinter) | Personal bests",
+        "Table Rows":[
+            "[COL] Date | Event | Venue | Time (seconds)",
+            "[ROW] 15 March 2008 | 60 metres | Fayetteville, United States | 6.51",
+            "[ROW] 21 June 2014 | 100 metres | Port of Spain, Trinidad and Tobago | 9.82",
+            "[ROW] 30 May 2008 | 200 metres | Fayetteville, United States | 20.18"
+        ],
+        "id":62
+    }
+
+    {
+        "Prediction":"in the 2003–04 season, seedorf appeared for inter milan in serie a.",
+        "Question":"What was Seedorf doing in the 2003-04 season?",
+        "Ground Truth":"In 2003–04 season, Seedorf played for Milan in Serie A.",
+        "Table Title":"Clarence Seedorf | Club",
+        "Table Rows":[
+            "[COL] Club | Season | League | League | League | Cup | Cup | Continental | Continental | Total | Total",
+            "[ROW] Club | Season | Division | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals",
+            "[ROW] Ajax | 1992–93 | Eredivisie | 12 | 1 | 3 | 0 | 3 | 0 | 18 | 1",
+            "[ROW] Ajax | 1993–94 | Eredivisie | 19 | 4 | 3 | 0 | 2 | 0 | 24 | 4",
+            "[ROW] Ajax | 1994–95 | Eredivisie | 34 | 6 | 3 | 0 | 11 | 0 | 48 | 6",
+            "[ROW] Ajax | Total | Total | 65 | 11 | 9 | 0 | 16 | 0 | 90 | 11",
+            "[ROW] Sampdoria | 1995–96 | Serie A | 32 | 3 | 2 | 1 | – | – | 34 | 4",
+            "[ROW] Sampdoria | Total | Total | 32 | 3 | 2 | 1 | – | – | 34 | 4",
+            "[ROW] Real Madrid | 1996–97 | La Liga | 38 | 6 | 4 | 0 | – | – | 42 | 6",
+            "[ROW] Real Madrid | 1997–98 | La Liga | 36 | 6 | 2 | 1 | 11 | 0 | 49 | 7",
+            "[ROW] Real Madrid | 1998–99 | La Liga | 37 | 3 | 5 | 1 | 10 | 3 | 52 | 7",
+            "[ROW] Real Madrid | 1999–2000 | La Liga | 10 | 0 | 0 | 0 | 6 | 0 | 16 | 0",
+            "[ROW] Real Madrid | Total | Total | 121 | 15 | 11 | 2 | 27 | 3 | 159 | 20",
+            "[ROW] Inter Milan | 1999–2000 | Serie A | 20 | 3 | 5 | 2 | 0 | 0 | 25 | 5",
+            "[ROW] Inter Milan | 2000–01 | Serie A | 24 | 2 | 5 | 0 | 7 | 3 | 36 | 5",
+            "[ROW] Inter Milan | 2001–02 | Serie A | 20 | 3 | 2 | 1 | 10 | 0 | 32 | 4",
+            "[ROW] Inter Milan | Total | Total | 64 | 8 | 12 | 3 | 17 | 3 | 93 | 14",
+            "[ROW] Milan | 2002–03 | Serie A | 29 | 4 | 3 | 2 | 16 | 1 | 48 | 7",
+            "[ROW] Milan | 2003–04 | Serie A | 29 | 3 | 6 | 0 | 10 | 0 | 45 | 3",
+            "[ROW] Milan | 2004–05 | Serie A | 32 | 5 | 4 | 1 | 13 | 1 | 49 | 7",
+            "[ROW] Milan | 2005–06 | Serie A | 36 | 4 | 2 | 1 | 11 | 1 | 49 | 6",
+            "[ROW] Milan | 2006–07 | Serie A | 32 | 7 | 5 | 0 | 14 | 3 | 51 | 10",
+            "[ROW] Milan | 2007–08 | Serie A | 32 | 7 | 0 | 0 | 10 | 3 | 42 | 10",
+            "[ROW] Milan | 2008–09 | Serie A | 33 | 6 | 1 | 0 | 7 | 0 | 41 | 6",
+            "[ROW] Milan | 2009–10 | Serie A | 29 | 5 | 0 | 0 | 8 | 1 | 37 | 6",
+            "[ROW] Milan | 2010–11 | Serie A | 30 | 4 | 2 | 0 | 8 | 0 | 40 | 4",
+            "[ROW] Milan | 2011–12 | Serie A | 18 | 2 | 3 | 1 | 8 | 0 | 29 | 3",
+            "[ROW] Milan | Total | Total | 300 | 48 | 26 | 5 | 105 | 10 | 431 | 63",
+            "[ROW] Botafogo | 2012 | Série A | 24 | 8 | 0 | 0 | 0 | 0 | 24 | 8",
+            "[ROW] Botafogo | 2013 | Série A | 34 | 8 | 0 | 0 | 1 | 1 | 35 | 9",
+            "[ROW] Botafogo | Total | Total | 58 | 16 | 0 | 0 | 1 | 1 | 59 | 17",
+            "[ROW] Career total | Career total | Career total | 640 | 100 | 69 | 11 | 166 | 17 | 875 | 128"
+        ],
+        "id":63
+    }
+
+    {
+        "Prediction":"judy kuhn played the role of golde in fiddler on the roof at the broadway theatre in 2016.",
+        "Question":"What and where was Judy Kuhn's most recent role?",
+        "Ground Truth":"In 2018, Judy Kuhn played Golde at the Menier Chocolate Factory in Fiddler on the Roof.",
+        "Table Title":"Judy Kuhn | Stage",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Venue",
+            "[ROW] 1985–1987 | The Mystery of Edwin Drood | Citizen of Cloisterham, Alice / Miss Isabel Yearsley / Succubae | Imperial Theatre",
+            "[ROW] 1986 | Rags | Bella Cohen | Mark Hellinger Theatre",
+            "[ROW] 1987 | Les Miserables | Cosette | The Broadway Theatre",
+            "[ROW] 1988 | Chess | Florence Vassy | The Broadway Theatre",
+            "[ROW] 1989 | Aspects of Love | unknown | Prince of Wales Theatre",
+            "[ROW] 1989 | Metropolis | Maria/Futura | West End theatre",
+            "[ROW] 1992 | Two Shakespearean Actors | Miss Helen Burton | Cort Theatre",
+            "[ROW] 1993 | Sunset Boulevard | Betty Schaefer | Shubert Theatre",
+            "[ROW] 1993–1994 | She Loves Me | Amalia Balash | Brooks Atkinson Theatre",
+            "[ROW] 1995 | Les Miserables: The Dream Cast in Concert | Cosette | filmed at Royal Albert Hall",
+            "[ROW] 1997 | King David | Michael | New Amsterdam Theatre",
+            "[ROW] 1998 | As Thousands Cheer | unknown | Greenwich House Theater",
+            "[ROW] 2002 | Funny Girl | Fanny Brice | New Amsterdam Theatre",
+            "[ROW] 2005 | Children and Art | unknown role | New Amsterdam Theatre",
+            "[ROW] 2005 | A Wonderful Life | unknown role | Shubert Theatre",
+            "[ROW] 2009 | Chance & Chemistry | unknown role | Minskoff Theatre",
+            "[ROW] 2013 | Passion | Fosca | Classic Stage Company",
+            "[ROW] 2013 | Fun Home | Helen Bechdel | The Public Theater",
+            "[ROW] 2016 | Fiddler on the Roof | Golde (replaced Jessica Hecht) | Broadway Theatre",
+            "[ROW] 2018 | Steel Magnolias | M’Lynn | The Cape Playhouse",
+            "[ROW] 2018 | Fiddler on the Roof | Golde | Menier Chocolate Factory & West-End"
+        ],
+        "id":64
+    }
+
+    {
+        "Prediction":"lee viau had a record of 373 and tony mullane had 220.",
+        "Question":"What were Lee Viau's and Tony Mullane' s records?",
+        "Ground Truth":"Lee Viau had a 22–20 record with a 3.79 ERA, while Tony Mullane was 11–9 with a 2.99 ERA.",
+        "Table Title":"1889 Cincinnati Red Stockings season | Starting pitchers",
+        "Table Rows":[
+            "[COL] Player | G | IP | W | L | ERA | SO",
+            "[ROW] Jesse Duryea | 53 | 401 | 32 | 19 | 2.56 | 183",
+            "[ROW] Lee Viau | 47 | 373 | 22 | 20 | 3.79 | 152",
+            "[ROW] Tony Mullane | 33 | 220 | 11 | 9 | 2.99 | 112",
+            "[ROW] Mike Smith | 29 | 203 | 9 | 12 | 4.88 | 104",
+            "[ROW] Charlie Petty | 5 | 44 | 2 | 3 | 5.52 | 10"
+        ],
+        "id":65
+    }
+
+    {
+        "Prediction":"bülent bostanolu was the commander of the turkish naval forces.",
+        "Question":"Who is Bülent Bostanoğlu?",
+        "Ground Truth":"Bülent Bostanoğlu served as the 25th Commander of the Turkish Naval Forces.",
+        "Table Title":"List of Commanders of the Turkish Naval Forces | ",
+        "Table Rows":[
+            "[COL] No. | Commander | Picture | Took office | Left office",
+            "[ROW] 1 | Admiral Mehmet Ali Ülgen | - | 1 July 1949 | 6 June 1950",
+            "[ROW] 2 | Admiral Sadık Altıncan | - | 13 June 1950 | 12 September 1957",
+            "[ROW] 3 | Admiral Fahri Korutürk | - | 12 September 1957 | 2 July 1960",
+            "[ROW] 4 | Vice admiral Ahmet Zeki Özak | - | 2 July 1960 | 20 June 1961",
+            "[ROW] 5 | Admiral Necdet Uran | - | 20 June 1961 | 16 August 1968",
+            "[ROW] 6 | Admiral Celal Eyiceoğlu | - | 16 August 1968 | 30 August 1972",
+            "[ROW] 7 | Admiral Kemal Kayacan | - | 30 August 1972 | 23 August 1974",
+            "[ROW] 8 | Admiral Hilmi Fırat | - | 23 August 1974 | 9 August 1977",
+            "[ROW] 9 | Admiral Bülent Ulusu | - | 9 August 1977 | 10 August 1980",
+            "[ROW] 10 | Admiral Nejat Tümer | - | 10 August 1980 | 6 December 1983",
+            "[ROW] 11 | Admiral Zahit Atakan | - | 6 December 1983 | 22 August 1986",
+            "[ROW] 12 | Admiral Emin Göksan | - | 22 August 1986 | 22 August 1988",
+            "[ROW] 13 | Admiral Orhan Karabulut | - | 22 August 1988 | 20 August 1990",
+            "[ROW] 14 | Admiral İrfan Tınaz | - | 20 August 1990 | 20 August 1992",
+            "[ROW] 15 | Admiral Vural Beyazıt | - | 20 August 1992 | 18 August 1995",
+            "[ROW] 16 | Admiral Güven Erkaya | - | 18 August 1995 | 29 August 1997",
+            "[ROW] 17 | Admiral Salim Dervişoğlu | - | 29 August 1997 | 26 August 1999",
+            "[ROW] 18 | Admiral İlhami Erdil | - | 26 August 1999 | 24 August 2001",
+            "[ROW] 19 | Admiral Bülent Alpkaya | - | 24 August 2001 | 28 August 2003",
+            "[ROW] 20 | Admiral Özden Örnek | - | 28 August 2003 | 26 August 2005",
+            "[ROW] 21 | Admiral Yener Karahanoğlu | - | 26 August 2005 | 24 August 2007",
+            "[ROW] 22 | Admiral Metin Ataç | - | 24 August 2007 | 30 August 2009",
+            "[ROW] 23 | Admiral Eşref Uğur Yiğit | - | 30 August 2009 | 29 July 2011",
+            "[ROW] 24 | Admiral Emin Murat Bilgel | - | 4 August 2011 | 23 August 2013",
+            "[ROW] 25 | Admiral Bülent Bostanoğlu | - | 23 August 2013 | 22 August 2017",
+            "[ROW] 26 | Admiral Adnan Özbal | - | 22 August 2017 | Incumbent"
+        ],
+        "id":66
+    }
+
+    {
+        "Prediction":"in 2017, roberto tola was nominated for the hollywood music in media awards for sunny morning.",
+        "Question":"When has Roberto Tola been nominated for the Hollywood Music in Media Awards?",
+        "Ground Truth":"In 2017 and 2018, the Hollywood Music in Media Awards, nominated Roberto Tola in the Jazz category.",
+        "Table Title":"Roberto Tola | Awards and Nominations",
+        "Table Rows":[
+            "[COL] Year | Award | Category | Nominated Work | Result | Notes",
+            "[ROW] 2017 | Global Music Awards | Jazz Music Album | Bein' Green | Silver Medal | -",
+            "[ROW] 2017 | Global Music Awards | Album | Bein' Green | Silver Medal | -",
+            "[ROW] 2017 | Hollywood Music in Media Awards | Jazz | Sunny Morning | Nominated | edition #8 (2017)",
+            "[ROW] 2017 | Radio Music Awards | Jazz | Sunny Morning | Won | -",
+            "[ROW] 2017 | Radio Music Awards | Jazz | Flying Away | Won | -",
+            "[ROW] 2018 | 16th Independent Music Awards | Jazz | Funky Party | Won | Vox Populi Award",
+            "[ROW] 2018 | Indie Music Channel Awards | Jazz Song | Flying Away | Won | -",
+            "[ROW] 2018 | Indie Music Channel Awards | Jazz Recording | Tears For Niro | Won | -",
+            "[ROW] 2018 | Indie Music Channel Awards | Jazz Instrumentalist | Funky Party | Won | -",
+            "[ROW] 2018 | Indie Music Channel Awards | Jazz Producer | Cabriolet | Won | -",
+            "[ROW] 2018 | Indie Music Channel Awards | Jazz Video | Sunny Morning | Won | Natalia Vlaskina co-winner",
+            "[ROW] 2018 | Indie Music Channel Awards | Best New Male Artist of the Year | - | Won | -",
+            "[ROW] 2018 | Indie Music Channel Awards | Recording of the Year | Tears For Niro | - | -",
+            "[ROW] 2018 | Hollywood Music in Media Awards | Jazz | Funky Party | Nominated | edition #9 (2018)",
+            "[ROW] 2018 | Annual TheMothFM Jazz Awards (GMFM -DB Radio Group) | Best Overall Artist 2018 | - | Winner | -",
+            "[ROW] 2018 | UK Songwriting Contest 2018 | Jazz/Blues | Flying Away | Finalist | -",
+            "[ROW] 2018 | UK Songwriting Contest 2018 | Jazz/Blues | Funky Party | Finalist | -",
+            "[ROW] 2018 | UK Songwriting Contest 2018 | Jazz/Blues | Tears For Niro | Finalist | -",
+            "[ROW] 2018 | UK Songwriting Contest 2018 | Jazz/Blues | With You All The Clouds Go Away | Finalist | -",
+            "[ROW] 2019 | 17th Independent Music Awards 2019 | Instrumental | Lullaby of Christmas | nominee | Winner TBA in June 2019"
+        ],
+        "id":67
+    }
+
+    {
+        "Prediction":"saikat ahamed played james henry trotter in james and the giant peach in 2004, ben gunn in treasure island in 2010, and tinker bell in peter pan in 2012.",
+        "Question":"What roles did Saikat Ahamed play in 2004, 2010 and 2012?",
+        "Ground Truth":"Saikat Ahamed played the roles of James Henry Trotter in James and the Giant Peach at the Polka Theatre, Ben Gunn in Treasure Island at Bristol Old Vic and Tinker Bell in Peter Pan at Bristol Old Vic.",
+        "Table Title":"Saikat Ahamed | Stage",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Venue",
+            "[ROW] 2002 | Journey to the West | Art | -",
+            "[ROW] 2004 | James and the Giant Peach | James Henry Trotter | Polka Theatre",
+            "[ROW] 2007 | A Fine Balance | Ishvar | Hampstead Theatre",
+            "[ROW] - | East Is East | - | Oldham Coliseum",
+            "[ROW] - | Shepherd's Pie Anyone? | - | Theatre Royal Stratford East",
+            "[ROW] - | Gym Buddies | - | Soho Theatre",
+            "[ROW] 2009 | Ali Baba and the Forty Thieves | Ali Baba | Tobacco Factory Theatre",
+            "[ROW] 2010 | Treasure Island | Ben Gunn | Bristol Old Vic, Regent's Park Open Air Theatre, Young Vic",
+            "[ROW] 2011–2013 | Cinderella | Step-brother | Tobacco Factory Theatre",
+            "[ROW] 2012 | Peter Pan | Tinker Bell | Bristol Old Vic",
+            "[ROW] 2013–2014 | Midsummer Night's Dream | Puck/Snug | Bristol Old Vic, Barbican Centre",
+            "[ROW] 2013 | The Tiger and the Moustache | Hashi | Tobacco Factory Theatre, Birmingham Repertory Theatre",
+            "[ROW] 2014 | The Last Voyage of Sinbad the Sailor | - | Theatre Royal",
+            "[ROW] 2015 | Strictly Balti | Ahamed | The Gilded Balloon, Tobacco Factory Theatre, Birmingham Repertory Theatre"
+        ],
+        "id":68
+    }
+
+    {
+        "Prediction":"in 1988, brooke theiss appeared in the films little nikita and a nightmare on elm street 4: the dream master.",
+        "Question":"What films did Brooke Theiss appear in the first year of her career?",
+        "Ground Truth":"Theiss's first film was 1988's Little Nikita where she acted as Dilys, later that year she acted in the movie A Nightmare on Elm Street 4: The Dream Master as Debbie.",
+        "Table Title":"Brooke Theiss | Movies",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1988 | Little Nikita | Dilys | -",
+            "[ROW] 1988 | A Nightmare on Elm Street 4: The Dream Master | Debbie | -",
+            "[ROW] 2000 | The Alternate | Mary | -",
+            "[ROW] 2002 | Quicksand | Randi Stewart | -",
+            "[ROW] 2004 | Catwoman | Ferris Wheel Mom | -",
+            "[ROW] 2010 | In the Heat of Passion | Ellen | Short",
+            "[ROW] 2016 | Do Over | Pharmacy Cashier | -"
+        ],
+        "id":69
+    }
+
+    {
+        "Prediction":"keila costa's personal bests are 14.58 m in the triple jump and 6.88 m in the long jump.",
+        "Question":"What are Keila Costa's personal best in the triple jump and the long jump?",
+        "Ground Truth":"Keila Costa achieved 14.58 metres in the triple jump and 6.88 metres in the long jump.",
+        "Table Title":"Keila Costa | Personal bests",
+        "Table Rows":[
+            "[COL] Event | Result | Venue | Date",
+            "[ROW] Outdoor | Outdoor | Outdoor | Outdoor",
+            "[ROW] 100 m | 12.43 s (wind: +0.5 m/s) | Brazil Belém | 6 May 2005",
+            "[ROW] Long jump | 6.88 m (wind: -0.1 m/s) | Brazil Belém | 20 May 2007",
+            "[ROW] Triple jump | 14.58 m (wind: +2.0 m/s) | Brazil São Paulo | 7 Jun 2013",
+            "[ROW] Indoor | Indoor | Indoor | Indoor",
+            "[ROW] Long jump | 6.64 m | France Paris-Bercy | 13 Feb 2009",
+            "[ROW] Triple jump | 14.11 m | Russia Moscow | 10 Mar 2006"
+        ],
+        "id":70
+    }
+
+    {
+        "Prediction":"canada's jacques villeneuve qualified first with 1:29.369 and germany's heinz-harald frentzen second with 1:31.123.",
+        "Question":"What positions did Canada Jacques Villeneuve and Germany Heinz-Harald Frentzen take and with what time?",
+        "Ground Truth":"Canadian Jacques Villeneuve took pole position after a lap of 1:29.369, while Heinz-Harald Frentzen managed a 1:31.121.",
+        "Table Title":"1997 Australian Grand Prix | Qualifying",
+        "Table Rows":[
+            "[COL] Pos. | No. | Driver | Constructor | Time | Gap",
+            "[ROW] 1 | 3 | Canada Jacques Villeneuve | Williams-Renault | 1:29.369 | —",
+            "[ROW] 2 | 4 | Germany Heinz-Harald Frentzen | Williams-Renault | 1:31.123 | +1.754",
+            "[ROW] 3 | 5 | Germany Michael Schumacher | Ferrari | 1:31.472 | +2.103",
+            "[ROW] 4 | 10 | United Kingdom David Coulthard | McLaren-Mercedes | 1:31.531 | +2.162",
+            "[ROW] 5 | 6 | United Kingdom Eddie Irvine | Ferrari | 1:31.881 | +2.512",
+            "[ROW] 6 | 9 | Finland Mika Häkkinen | McLaren-Mercedes | 1:31.971 | +2.602",
+            "[ROW] 7 | 16 | United Kingdom Johnny Herbert | Sauber-Petronas | 1:32.287 | +2.918",
+            "[ROW] 8 | 7 | France Jean Alesi | Benetton-Renault | 1:32.593 | +3.224",
+            "[ROW] 9 | 14 | France Olivier Panis | Prost-Mugen-Honda | 1:32.842 | +3.473",
+            "[ROW] 10 | 8 | Austria Gerhard Berger | Benetton-Renault | 1:32.870 | +3.501",
+            "[ROW] 11 | 22 | Brazil Rubens Barrichello | Stewart-Ford | 1:33.075 | +3.706",
+            "[ROW] 12 | 11 | Germany Ralf Schumacher | Jordan-Peugeot | 1:33.130 | +3.761",
+            "[ROW] 13 | 17 | Italy Nicola Larini | Sauber-Petronas | 1:33.327 | +3.958",
+            "[ROW] 14 | 12 | Italy Giancarlo Fisichella | Jordan-Peugeot | 1:33.552 | +4.183",
+            "[ROW] 15 | 20 | Japan Ukyo Katayama | Minardi-Hart | 1:33.798 | +4.429",
+            "[ROW] 16 | 15 | Japan Shinji Nakano | Prost-Mugen-Honda | 1:33.989 | +4.620",
+            "[ROW] 17 | 21 | Italy Jarno Trulli | Minardi-Hart | 1:34.120 | +4.751",
+            "[ROW] 18 | 19 | Finland Mika Salo | Tyrrell-Ford | 1:34.229 | +4.860",
+            "[ROW] 19 | 23 | Denmark Jan Magnussen | Stewart-Ford | 1:34.623 | +5.254",
+            "[ROW] 20 | 1 | United Kingdom Damon Hill | Arrows-Yamaha | 1:34.806 | +5.437",
+            "[ROW] 21 | 18 | Netherlands Jos Verstappen | Tyrrell-Ford | 1:34.943 | +5.574",
+            "[ROW] 107% time: 1:35.625 | 107% time: 1:35.625 | 107% time: 1:35.625 | 107% time: 1:35.625 | 107% time: 1:35.625 | 107% time: 1:35.625",
+            "[ROW] 22 | 2 | Brazil Pedro Diniz | Arrows-Yamaha | 1:35.972 | +6.603",
+            "[ROW] DNQ | 24 | Italy Vincenzo Sospiri | Lola-Ford | 1:40.972 | +11.603",
+            "[ROW] DNQ | 25 | Brazil Ricardo Rosset | Lola-Ford | 1:42.086 | +12.717",
+            "[ROW] Sources: | Sources: | Sources: | Sources: | Sources: | Sources:"
+        ],
+        "id":71
+    }
+
+    {
+        "Prediction":"in 2008, nenjukkul peithidum of thamarai won the filmfare award for best lyricist – tamil.",
+        "Question":"Who win the award in 2008?",
+        "Ground Truth":"In 2008, Thamarai won Best Lyricist Filmfare Award for \"Nenjukkul Peithidum\" in Vaaranam Aayiram.",
+        "Table Title":"Filmfare Award for Best Lyricist – Tamil | Winners",
+        "Table Rows":[
+            "[COL] Year | Lyricist | Film | Song",
+            "[ROW] 2017 | Vairamuthu | Kaatru Veliyidai | Vaan Varuvaan",
+            "[ROW] 2016 | Thamarai | Achcham Yenbadhu Madamaiyada | Thallipogathey",
+            "[ROW] 2015 | Madhan Karky | I | \"Pookale Sattru\"",
+            "[ROW] 2014 | Na. Muthukumar | Saivam | Azhagu",
+            "[ROW] 2013 | Na. Muthukumar | Thanga Meenkal | Aanandha Yaazhai",
+            "[ROW] 2012 | Yugabharathi | Kumki | Solitaaley",
+            "[ROW] 2011 | Vairamuthu | Vaagai Sooda Vaa | Sara Sara Saarakaathu",
+            "[ROW] 2010 | Thamarai | Vinnaithaandi Varuvaayaa | Mannipaaya",
+            "[ROW] 2009 | Na. Muthukumar | Ayan | Vizhi Moodi",
+            "[ROW] 2008 | Thamarai | Vaaranam Aayiram | Nenjukkul Peithidum",
+            "[ROW] 2007 | Pa. Vijay | Unnale Unnale | Unnale Unnale",
+            "[ROW] 2006 | Na.Muthukumar | Veyil | Urugudhe Maragudhe",
+            "[ROW] 2005 | Vairamuthu | Anniyan | Oh Sukumari"
+        ],
+        "id":72
+    }
+
+    {
+        "Prediction":"shelley blond voiced cinderella in snow white: the sequel in 2007 and audrey glamour in moomins on the riviera in 2014.",
+        "Question":"What kind of voice work did Shelly Blond do in 2007 and 2014, and in which productions?",
+        "Ground Truth":"Shelley Blond is the voice of Cinderella in Snow White: The Sequel, and Audrey Glamour in the 2014 film Moomins on the Riviera.",
+        "Table Title":"Shelley Blond | Film",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2002 | Cruise of the Gods | PA Romy | Television film",
+            "[ROW] 2007 | Snow White: The Sequel | Cinderella | Voice",
+            "[ROW] 2009 | Tranquility | Therapist | Short film",
+            "[ROW] 2014 | Moomins on the Riviera | Audrey Glamour | Voice"
+        ],
+        "id":73
+    }
+
+    {
+        "Prediction":"ajoy mukherjee was a member of the m.l.a. in tamluk.",
+        "Question":"Who did Ajoy Mukerjee represent in in Tamluk?",
+        "Ground Truth":"Ajoy Mukherjee represents Indian National Congress and won the election in 1951, 1957, 1962, and in 1972, also represented Bangla Congress winning in 1971, 1969 and 1967.",
+        "Table Title":"Tamluk (Vidhan Sabha constituency) | Members of Legislative Assembly",
+        "Table Rows":[
+            "[COL] Election Year | Constituency | Name of M.L.A. | Party Affiliation",
+            "[ROW] 1951 | Tamluk | Ajoy Mukherjee | Indian National Congress",
+            "[ROW] 1957 | - | Ajoy Mukherjee | Indian National Congress",
+            "[ROW] 1962 | - | Ajoy Mukherjee | Indian National Congress",
+            "[ROW] 1967 | - | Ajoy Mukherjee | Bangla Congress",
+            "[ROW] 1969 | - | Ajoy Mukherjee | Bangla Congress",
+            "[ROW] 1971 | - | Ajoy Mukherjee | Bangla Congress",
+            "[ROW] 1972 | - | Ajoy Mukherjee | Indian National Congress",
+            "[ROW] 1977 | - | Biswanath Mukherjee | Communist Party of India",
+            "[ROW] 1982 | - | Biswanath Mukherjee | Communist Party of India",
+            "[ROW] 1987 | - | Surajit Bagchi | Communist Party of India",
+            "[ROW] 1991 | - | Anil Mudi | Indian National Congress",
+            "[ROW] 1996 | - | Anil Mudi | Indian National Congress",
+            "[ROW] 2001 | - | Nirbed Roy | All India Trinamool Congress",
+            "[ROW] 2006 | - | Jagannath Mitra | Communist Party of India",
+            "[ROW] 2011 | - | Dr. Somen Mahapatra | All India Trinamool Congress",
+            "[ROW] 2016 | - | Ashok Kumar Dinda | Communist Party of India"
+        ],
+        "id":74
+    }
+
+    {
+        "Prediction":"in 2009 election, biju janata dal candidate pramod kumar mallick defeated indian national congress candidate artratrana malik by a margin of 50,653 votes.",
+        "Question":"Who won the 2009 Election, by what margin?",
+        "Ground Truth":"In the 2009 election, Biju Janata Dal candidate Pramod Kumar Mallick defeated Indian National Congress candidate Artratrana Malik by a margin of 50,653 votes.",
+        "Table Title":"Niali (Odisha Vidhan Sabha constituency) | 2009 Election Results",
+        "Table Rows":[
+            "[COL] Party | Party | Candidate | Votes | % | ±",
+            "[ROW] - | BJD | Pramod Kumar Mallick | 90,058 | 65.45 | -",
+            "[ROW] - | INC | Artratrana Malik | 40,005 | 28.88 | -",
+            "[ROW] - | BJP | Sushanta Kumar Mallick | 4,921 | 3.55 | -",
+            "[ROW] - | Independent | Sandhyarani Das | 1,719 | 1.24 | -",
+            "[ROW] - | BSP | Santosh Kumar Mallick | 1,218 | 0.88 | -",
+            "[ROW] Majority | Majority | Majority | 50,653 | 36.57 | -",
+            "[ROW] Turnout | Turnout | Turnout | 1,38,534 | 64.56 | -",
+            "[ROW] Registered electors | Registered electors | Registered electors | 2,14,580 | - | -"
+        ],
+        "id":75
+    }
+
+    {
+        "Prediction":"masakazu koda joined the japan football league club vissel kobe in 1995.",
+        "Question":"When did Masakazu Koda first joined the Japan Football League and which club did he play for?",
+        "Ground Truth":"In 1995, Masakazu Koda moved to Japan Football League club Vissel Kobe.",
+        "Table Title":"Masakazu Koda | Club statistics",
+        "Table Rows":[
+            "[COL] Club performance | Club performance | Club performance | League | League | Cup | Cup | League Cup | League Cup | Total | Total",
+            "[ROW] Season | Club | League | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals",
+            "[ROW] Japan | Japan | Japan | League | League | Emperor's Cup | Emperor's Cup | J.League Cup | J.League Cup | Total | Total",
+            "[ROW] 1988/89 | Mazda | JSL Division 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0",
+            "[ROW] 1989/90 | Mazda | JSL Division 2 | - | - | - | - | - | - | - | -",
+            "[ROW] 1990/91 | Mazda | JSL Division 2 | 0 | 0 | - | - | 0 | 0 | 0 | 0",
+            "[ROW] 1991/92 | Mazda | JSL Division 1 | 0 | 0 | - | - | 0 | 0 | 0 | 0",
+            "[ROW] 1992 | Sanfrecce Hiroshima | J1 League | - | - | 0 | 0 | 0 | 0 | - | -",
+            "[ROW] 1993 | Sanfrecce Hiroshima | J1 League | 0 | 0 | 0 | 0 | 4 | 0 | 4 | 0",
+            "[ROW] 1994 | Sanfrecce Hiroshima | J1 League | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0",
+            "[ROW] 1995 | Vissel Kobe | Football League | 28 | 1 | 3 | 0 | - | - | 31 | 1",
+            "[ROW] 1996 | Vissel Kobe | Football League | 29 | 1 | 3 | 0 | - | - | 32 | 1",
+            "[ROW] 1997 | Vissel Kobe | J1 League | 30 | 1 | 0 | 0 | 6 | 0 | 36 | 1",
+            "[ROW] 1998 | Vissel Kobe | J1 League | 8 | 0 | 0 | 0 | 0 | 0 | 8 | 0",
+            "[ROW] 1999 | Yokohama FC | Football League | 21 | 0 | 3 | 1 | - | - | 24 | 1",
+            "[ROW] 2000 | Yokohama FC | Football League | 20 | 0 | 0 | 0 | - | - | 20 | 0",
+            "[ROW] 2001 | Yokohama FC | J2 League | 5 | 0 | 0 | 0 | 1 | 0 | 6 | 0",
+            "[ROW] 2002 | Ehime FC | Football League | 2 | 0 | - | - | - | - | 2 | 0",
+            "[ROW] 2003 | Ehime FC | Football League | 0 | 0 | - | - | - | - | 0 | 0",
+            "[ROW] Country | Japan | Japan | 143 | 3 | 9 | 1 | 11 | 0 | 163 | 4",
+            "[ROW] Total | Total | Total | 143 | 3 | 9 | 1 | 11 | 0 | 163 | 4"
+        ],
+        "id":76
+    }
+
+    {
+        "Prediction":"in the 2008 carlton football club season, judd won the john nicholls medal with 472 votes, ahead of marc murphy and brendan fevola.",
+        "Question":"How did Judd do compared to Marc Murphy and Brendan Fevola in the 2008 Carlton Football Club season?",
+        "Ground Truth":"Judd (472 votes) won ahead of Marc Murphy (417 votes) and Brendan Fevola (373 votes).",
+        "Table Title":"2008 Carlton Football Club season | John Nicholls Medal",
+        "Table Rows":[
+            "[COL] Pos. | Player | Votes",
+            "[ROW] 1st | Chris Judd | 472",
+            "[ROW] 2nd | Marc Murphy | 417",
+            "[ROW] 3rd | Brendan Fevola | 373",
+            "[ROW] 4th | Andrew Carrazzo | 316",
+            "[ROW] 5th | Bryce Gibbs | 288",
+            "[ROW] 6th | Nick Stevens | 287",
+            "[ROW] 7th | Jarrad Waite | 267",
+            "[ROW] 8th | Kade Simpson | 202",
+            "[ROW] 9th | Heath Scotland | 201",
+            "[ROW] 10th | Bret Thornton | 197"
+        ],
+        "id":77
+    }
+
+    {
+        "Prediction":"in 2012, once won five tony awards, including best musical, best book of a musical, best actor in a musical, best actor in a musical for steve kazee, best actress in a musical for cristin milioti, and best featured actress in a musical for elizabeth a. davis.",
+        "Question":"How many Tony Awards did Once win in 2012?",
+        "Ground Truth":"In 2012, Once's production won eight 2012 Tony Awards: Best Musical, Best Actor, Best Book, Best Direction, Best Orchestrations, Best Scenic Design, Best Lighting Design, and Best Sound Design.",
+        "Table Title":"Once (musical) | Original Broadway production",
+        "Table Rows":[
+            "[COL] Year | Award | Category | Nominee(s) | Result",
+            "[ROW] 2012 | Tony Award | Best Musical | Best Musical | Won",
+            "[ROW] 2012 | Tony Award | Best Book of a Musical | Enda Walsh | Won",
+            "[ROW] 2012 | Tony Award | Best Actor in a Musical | Steve Kazee | Won",
+            "[ROW] 2012 | Tony Award | Best Actress in a Musical | Cristin Milioti | Nominated",
+            "[ROW] 2012 | Tony Award | Best Featured Actress in a Musical | Elizabeth A. Davis | Nominated",
+            "[ROW] 2012 | Tony Award | Best Direction of a Musical | John Tiffany | Won",
+            "[ROW] 2012 | Tony Award | Best Choreography | Steven Hoggett | Nominated",
+            "[ROW] 2012 | Tony Award | Best Orchestrations | Martin Lowe | Won",
+            "[ROW] 2012 | Tony Award | Best Scenic Design | Bob Crowley | Won",
+            "[ROW] 2012 | Tony Award | Best Lighting Design | Natasha Katz | Won",
+            "[ROW] 2012 | Tony Award | Best Sound Design | Clive Goodwin | Won",
+            "[ROW] 2012 | Drama Desk Award | Outstanding Musical | Outstanding Musical | Won",
+            "[ROW] 2012 | Drama Desk Award | Outstanding Director of a Musical | John Tiffany | Won",
+            "[ROW] 2012 | Drama Desk Award | Outstanding Music | Glen Hansard and Markéta Irglová | Nominated",
+            "[ROW] 2012 | Drama Desk Award | Outstanding Lyrics | Glen Hansard and Markéta Irglová | Won",
+            "[ROW] 2012 | Drama Desk Award | Outstanding Sound Design | Clive Goodwin | Nominated",
+            "[ROW] 2012 | Drama Desk Award | Outstanding Orchestrations | Martin Lowe | Won",
+            "[ROW] 2013 | Grammy Award | Best Musical Theater Album | Steve Kazee & Cristin Milioti, principal soloists; Steven Epstein & Martin Lowe, producers (Glen Hansard & Marketa Irglova, composers/lyricists) | Won"
+        ],
+        "id":78
+    }
+
+    {
+        "Prediction":"david paetkau starred as evan lewis in the 2003 film final destination 2 and as ira glatt in the 2011 film goon.",
+        "Question":"What roles did David Paetkau play in 2003 and in 2011?",
+        "Ground Truth":"David Paetkau played Evan Lewis in Final Destination 2 in 2003, and Ira Glatt in Goon in 2011.",
+        "Table Title":"David Paetkau | Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1998 | Disturbing Behavior | Tom Cox | -",
+            "[ROW] 2000 | Snow Day | Chuck Wheeler | -",
+            "[ROW] 2001 | Candy from Strangers | David | Short film",
+            "[ROW] 2002 | Slap Shot 2: Breaking the Ice | Gordie Miller | Video",
+            "[ROW] 2002 | Bang Bang You're Dead | Brad Lynch | -",
+            "[ROW] 2003 | Final Destination 2 | Evan Lewis | -",
+            "[ROW] 2006 | Becoming Bardo | Bardo | Short film",
+            "[ROW] 2006 | I'll Always Know What You Did Last Summer | Colby Patterson | Video",
+            "[ROW] 2007 | Aliens vs. Predator: Requiem | Dale Collins | -",
+            "[ROW] 2008 | For Heaven's Sake | Young David | -",
+            "[ROW] 2011 | Goon | Ira Glatt | -",
+            "[ROW] 2013 | Man of Steel | Threat Analyst | -",
+            "[ROW] 2014 | The Colossal Failure of the Modern Relationship | James | -",
+            "[ROW] 2016 | Goon: Last of the Enforcers | Ira Glatt | -",
+            "[ROW] 2017 | The Space Between | Marcus | -"
+        ],
+        "id":79
+    }
+
+    {
+        "Prediction":"jordan fry starred as mike teavee in the 2005 film charlie and the chocolate factory and as lewis in the 2007 film meet the robinsons.",
+        "Question":"What roles did Jordan Fry play in Charlie and the Chocolate Factory and Meet in the Robinsons?",
+        "Ground Truth":"Jordan Fry played as Mike Teavee in the 2005 film, Charlie and the Chocolate Factory, and as Lewis in Meet the Robinsons.",
+        "Table Title":"Jordan Fry | Film",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 1998 | The Robertson Family | Aubrey Robertson | -",
+            "[ROW] 2004 | Eight Below | Steve | -",
+            "[ROW] 2005 | Charlie and the Chocolate Factory | Mike Teavee | -",
+            "[ROW] 2006 | Raising Flagg | Porter Purdy | -",
+            "[ROW] 2006 | Eight Below 2: Together Again | Steve | -",
+            "[ROW] 2007 | Meet the Robinsons | Lewis | Voice",
+            "[ROW] 2010 | The Journey | Kyle | -",
+            "[ROW] 2011 | An International Love Story | Josef | -",
+            "[ROW] 2012 | Gone | Jock | -",
+            "[ROW] 2017 | Byrd and the Bees | Ewan | -"
+        ],
+        "id":80
+    }

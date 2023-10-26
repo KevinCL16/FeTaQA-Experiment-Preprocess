@@ -1,0 +1,2209 @@
+
+    {
+        "Question":"What is the population breakdown of Nurpur Jattan by gender, and how many houses does it have?",
+        "Ground Truth":"Nurpur Jattan has total number of 157 houses and population of 763, of which include 401 males and 362 females.",
+        "Prediction_1":"nurpur jattan has a population of 763 of which 55 are male and 362 are female. it has 157 houses.",
+        "Prediction_2":"nurpur jattan has a population of 763 of which 401 are male and 362 are female. it has a total number of 157 houses.",
+        "Prediction_3":"The population breakdown of Nurpur Jattan by gender is as follows: there are a total of 763 people, with 401 males and 362 females. As for the number of houses, Nurpur Jattan has a total of 157 houses. ",
+        "Table Column":[
+            "Particulars",
+            "Total",
+            "Male",
+            "Female"
+        ],
+        "Table Rows":[
+            [
+                "Total No. of Houses",
+                "157",
+                "-",
+                "-"
+            ],
+            [
+                "Population",
+                "763",
+                "401",
+                "362"
+            ],
+            [
+                "Child (0-6)",
+                "55",
+                "32",
+                "23"
+            ],
+            [
+                "Schedule Caste",
+                "132",
+                "66",
+                "66"
+            ],
+            [
+                "Schedule Tribe",
+                "0",
+                "0",
+                "0"
+            ],
+            [
+                "Literacy",
+                "80.23 %",
+                "81.57 %",
+                "78.76 %"
+            ],
+            [
+                "Total Workers",
+                "226",
+                "191",
+                "35"
+            ],
+            [
+                "Main Worker",
+                "214 0",
+                "0",
+                "-"
+            ],
+            [
+                "Marginal Worker",
+                "12",
+                "4",
+                "8"
+            ]
+        ],
+        "id":1
+    }
+
+    {
+        "Question":"What was James' personal best record set at the 2010 CARIFTA Games?",
+        "Ground Truth":"James set a personal best of 45.02 s in the 400 m event at the 2010 CARIFTA Games.",
+        "Prediction_1":"at the 2010 carifta games, james set a personal best of 48.47 seconds in the 400 m.",
+        "Prediction_2":"at the 2010 carifta games, james set a personal best of 48.43 in the 400 m.",
+        "Prediction_3":"James' personal best record set at the 2010 CARIFTA Games was 45.02 seconds in the 400m event. ",
+        "Table Column":[
+            "Year",
+            "Competition",
+            "Venue",
+            "Position",
+            "Event",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "Representing Grenada",
+                "Representing Grenada",
+                "Representing Grenada",
+                "Representing Grenada",
+                "Representing Grenada",
+                "Representing Grenada"
+            ],
+            [
+                "2007",
+                "CARIFTA Games (U-17)",
+                "Providenciales, Turks and Caicos Islands",
+                "6th",
+                "200 m",
+                "22.10 (+1.2 m/s)"
+            ],
+            [
+                "2007",
+                "CARIFTA Games (U-17)",
+                "Providenciales, Turks and Caicos Islands",
+                "1st",
+                "400 m",
+                "47.86 PB"
+            ],
+            [
+                "2007",
+                "World Youth Championships",
+                "Ostrava, Czech Republic",
+                "2nd",
+                "400 m",
+                "46.96 PB"
+            ],
+            [
+                "2008",
+                "CARIFTA Games (U-17)",
+                "Basseterre, Saint Kitts and Nevis",
+                "1st",
+                "200 m",
+                "21.38 (+2.0 m/s)"
+            ],
+            [
+                "2008",
+                "CARIFTA Games (U-17)",
+                "Basseterre, Saint Kitts and Nevis",
+                "1st",
+                "400 m",
+                "47.87"
+            ],
+            [
+                "2008",
+                "World Junior Championships",
+                "Bydgoszcz, Poland",
+                "2nd",
+                "400 m",
+                "45.70 PB"
+            ],
+            [
+                "2008",
+                "Commonwealth Youth Games",
+                "Pune, India",
+                "1st",
+                "400 m",
+                "46.66 GR"
+            ],
+            [
+                "2009",
+                "CARIFTA Games (U-20)",
+                "Vieux Fort, Saint Lucia",
+                "DQ (h1)",
+                "200 m",
+                "False start"
+            ],
+            [
+                "2009",
+                "CARIFTA Games (U-20)",
+                "Vieux Fort, Saint Lucia",
+                "1st",
+                "400 m",
+                "45.45 PB GR"
+            ],
+            [
+                "2009",
+                "CARIFTA Games (U-20)",
+                "Vieux Fort, Saint Lucia",
+                "DQ (h1)",
+                "4 × 100 m relay",
+                "Out of zone"
+            ],
+            [
+                "2009",
+                "CARIFTA Games (U-20)",
+                "Vieux Fort, Saint Lucia",
+                "3rd",
+                "4 × 400 m relay",
+                "3:11.93 PB"
+            ],
+            [
+                "2009",
+                "World Youth Championships",
+                "Brixen, Italy",
+                "1st",
+                "200 m",
+                "21.05 (−0.9 m/s) PB"
+            ],
+            [
+                "2009",
+                "World Youth Championships",
+                "Brixen, Italy",
+                "1st",
+                "400 m",
+                "45.24 PB CR"
+            ],
+            [
+                "2009",
+                "Pan American Junior Championships",
+                "Port of Spain, Trinidad and Tobago",
+                "1st",
+                "400 m",
+                "45.43"
+            ],
+            [
+                "2009",
+                "Pan American Junior Championships",
+                "Port of Spain, Trinidad and Tobago",
+                "5th",
+                "4 × 400 m relay",
+                "3:11.91 PB"
+            ],
+            [
+                "2010",
+                "CARIFTA Games (U-20)",
+                "George Town, Cayman Islands",
+                "1st",
+                "200 m",
+                "20.76 (+0.8 m/s) SB"
+            ],
+            [
+                "2010",
+                "CARIFTA Games (U-20)",
+                "George Town, Cayman Islands",
+                "1st",
+                "400 m",
+                "45.02 PB GR"
+            ],
+            [
+                "2010",
+                "World Junior Championships",
+                "Moncton, Canada",
+                "1st",
+                "400 m",
+                "45.89"
+            ],
+            [
+                "2011",
+                "CAC Championships",
+                "Mayagüez, Puerto Rico",
+                "5th",
+                "4 × 400 m relay",
+                "3:04.27 NR PB"
+            ],
+            [
+                "2011",
+                "Pan American Junior Championships",
+                "Miramar, Florida",
+                "1st",
+                "200 m",
+                "20.53 w (+2.2 m/s)"
+            ],
+            [
+                "2011",
+                "World Championships",
+                "Daegu, South Korea",
+                "1st",
+                "400 m",
+                "44.60 PB"
+            ],
+            [
+                "2012",
+                "World Indoor Championships",
+                "Istanbul, Turkey",
+                "6th",
+                "400 m",
+                "46.21"
+            ],
+            [
+                "2012",
+                "Olympic Games",
+                "London, England",
+                "1st",
+                "400 m",
+                "43.94 WL NR PB"
+            ],
+            [
+                "2013",
+                "World Championships",
+                "Moscow, Russia",
+                "7th",
+                "400 m",
+                "44.99"
+            ],
+            [
+                "2014",
+                "Commonwealth Games",
+                "Glasgow, Scotland",
+                "1st",
+                "400 m",
+                "44.24 GR"
+            ],
+            [
+                "2015",
+                "World Championships",
+                "Beijing, China",
+                "3rd",
+                "400 m",
+                "43.78 SB"
+            ],
+            [
+                "2016",
+                "Olympic Games",
+                "Rio de Janeiro, Brazil",
+                "2nd",
+                "400 m",
+                "43.76 SB"
+            ]
+        ],
+        "id":2
+    }
+
+    {
+        "Question":"Who did Lotte Friis beat in order to win bronze in the 800m freestyle at the 2008 Summer Olympics?",
+        "Ground Truth":"Denmark's Lotte Friis claimed a bronze in the Women's 800 metre freestyle at the 2008 Summer Olympics in 8:23.03 by edging out Romania's Camelia Potec.",
+        "Prediction_1":"lotte friis beat alessia filippi in order to win bronze in the 800m freestyle at the 2008 summer olympics.",
+        "Prediction_2":"in swimming at the 2008 summer olympics – women's 800 metre freestyle, lotte friis beat romanian camelia potec to win bronze in 8:23.03.",
+        "Prediction_3":"Lotte Friis beat Camelia Potec in order to win bronze in the 800m freestyle at the 2008 Summer Olympics. ",
+        "Table Column":[
+            "Rank",
+            "Lane",
+            "Name",
+            "Nationality",
+            "Time",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "4",
+                "Rebecca Adlington",
+                "Great Britain",
+                "8:14.10",
+                "WR"
+            ],
+            [
+                "-",
+                "6",
+                "Alessia Filippi",
+                "Italy",
+                "8:20.23",
+                "-"
+            ],
+            [
+                "-",
+                "3",
+                "Lotte Friis",
+                "Denmark",
+                "8:23.03",
+                "-"
+            ],
+            [
+                "4",
+                "5",
+                "Camelia Potec",
+                "Romania",
+                "8:23.11",
+                "-"
+            ],
+            [
+                "5",
+                "1",
+                "Li Xuanxu",
+                "China",
+                "8:26.34",
+                "-"
+            ],
+            [
+                "6",
+                "2",
+                "Kylie Palmer",
+                "Australia",
+                "8:26.39",
+                "-"
+            ],
+            [
+                "7",
+                "7",
+                "Yelena Sokolova",
+                "Russia",
+                "8:29.79",
+                "-"
+            ],
+            [
+                "8",
+                "8",
+                "Cassandra Patten",
+                "Great Britain",
+                "8:32.35",
+                "-"
+            ]
+        ],
+        "id":3
+    }
+
+    {
+        "Question":"What is the Literacy rate of Awan among male, female, and total?",
+        "Ground Truth":"Literacy rate of Awan is 70.55% in total, with 71.76% among male and 69.50% among female.",
+        "Prediction_1":"literacy rate of awan is 70.55 % for males and 71.76 % for females.",
+        "Prediction_2":"literacy rate of awan is 70.55% in total, 71.76% among males and 69.50% among females.",
+        "Prediction_3":"The literacy rate of Awan is 70.55% among the total population, 71.76% among males, and 69.50% among females. ",
+        "Table Column":[
+            "Particulars",
+            "Total",
+            "Male",
+            "Female"
+        ],
+        "Table Rows":[
+            [
+                "Total No. of Houses",
+                "279",
+                "-",
+                "-"
+            ],
+            [
+                "Population",
+                "1,143",
+                "556",
+                "587"
+            ],
+            [
+                "Child (0-6)",
+                "131",
+                "85",
+                "46"
+            ],
+            [
+                "Schedule Caste",
+                "275",
+                "153",
+                "122"
+            ],
+            [
+                "Schedule Tribe",
+                "0",
+                "0",
+                "0"
+            ],
+            [
+                "Literacy",
+                "70.55 %",
+                "71.76 %",
+                "69.50 %"
+            ],
+            [
+                "Total Workers",
+                "268",
+                "250",
+                "18"
+            ],
+            [
+                "Main Worker",
+                "256",
+                "0",
+                "0"
+            ],
+            [
+                "Marginal Worker",
+                "12",
+                "8",
+                "4"
+            ]
+        ],
+        "id":4
+    }
+
+    {
+        "Question":"What competitions did Olga Kaniskina win the gold medal?",
+        "Ground Truth":"Olga Kaniskina won the the gold medal at the 2007 World Championships, and the 2008 World Race Walking Cup and the 2008 Beijing Olympics.",
+        "Prediction_1":"olga kaniskina won the gold medal at the 2007 world championships in osaka, japan and at the 2008 olympic games in beijing.",
+        "Prediction_2":"olga kaniskina won the gold medal at the 2007 world championships in osaka, japan and at the 2008 olympic games in beijing.",
+        "Prediction_3":"Olga Kaniskina won the gold medal in the World Championships in 2007 and the Olympic Games in 2008. ",
+        "Table Column":[
+            "Year",
+            "Competition",
+            "Venue",
+            "Position",
+            "Event",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "Representing Russia",
+                "Representing Russia",
+                "Representing Russia",
+                "Representing Russia",
+                "Representing Russia",
+                "Representing Russia"
+            ],
+            [
+                "2005",
+                "European U23 Championships",
+                "Erfurt, Germany",
+                "2nd",
+                "20 km",
+                "1:33:33"
+            ],
+            [
+                "2006",
+                "World Race Walking Cup",
+                "A Coruña, Spain",
+                "5th",
+                "20 km",
+                "1:28:59"
+            ],
+            [
+                "2006",
+                "European Championships",
+                "Gothenburg, Sweden",
+                "2nd",
+                "20 km",
+                "1:28:35"
+            ],
+            [
+                "2007",
+                "European Race Walking Cup",
+                "Leamington Spa, Great Britain",
+                "2nd",
+                "20 km",
+                "1:28:13"
+            ],
+            [
+                "2007",
+                "World Championships",
+                "Osaka, Japan",
+                "1st",
+                "20 km",
+                "1:30:09"
+            ],
+            [
+                "2008",
+                "World Race Walking Cup",
+                "Cheboksary, Russia",
+                "1st",
+                "20 km",
+                "1:25:42 CR"
+            ],
+            [
+                "2008",
+                "Olympic Games",
+                "Beijing, China",
+                "1st",
+                "20 km",
+                "1:26:31 OR"
+            ],
+            [
+                "2009",
+                "World Championships",
+                "Berlin, Germany",
+                "DQ",
+                "20 km",
+                "1:28:09 DQ (Doping)"
+            ],
+            [
+                "2010",
+                "European Championships",
+                "Barcelona, Spain",
+                "DQ",
+                "20 km",
+                "1:27:44"
+            ],
+            [
+                "2011",
+                "World Championships",
+                "Daegu, South Korea",
+                "DQ",
+                "20 km",
+                "1:29:42 DQ (Doping)"
+            ],
+            [
+                "2012",
+                "Olympic Games",
+                "London, United Kingdom",
+                "DQ",
+                "20 km",
+                "1:25:09 DQ (Doping)"
+            ]
+        ],
+        "id":5
+    }
+
+    {
+        "Question":"Did Gloria Lynne Henry ever repeat a role?",
+        "Ground Truth":"Gloria Lynne Henry reprised her role as Rocky in the 2016 film Phantasm: Ravager.",
+        "Prediction_1":"gloria lynne henry reprised her role as rocky in the 2016 film phantasm: ravager.",
+        "Prediction_2":"gloria lynne henry reprised her role as rocky in phantasm: ravager (2016).",
+        "Prediction_3":"No, Gloria Lynne Henry did not repeat a role according to the provided table. ",
+        "Table Column":[
+            "Year",
+            "Title",
+            "Role",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "1994",
+                "Phantasm III: Lord of the Dead",
+                "Rocky",
+                "-"
+            ],
+            [
+                "1997",
+                "The Devil's Advocate",
+                "Tiffany",
+                "-"
+            ],
+            [
+                "1998",
+                "The Horse Whisperer",
+                "Member of Magazine Staff",
+                "Uncredited"
+            ],
+            [
+                "2016",
+                "Phantasm: Ravager",
+                "Rocky",
+                "-"
+            ]
+        ],
+        "id":6
+    }
+
+    {
+        "Question":"What awards did Harry Nilsson win?",
+        "Ground Truth":"Harry Nilsson won Best Contemporary Vocal Performance, Male in 1970 for \"Everybody's Talkin'\" and Best Pop Vocal Performance in 1973 for \"Without You\".",
+        "Prediction_1":"harry nilsson won best contemporary vocal performance, male for \"everybody's talkin'\" in 1970 and best male pop vocal performance for \"without you\" in 1973.",
+        "Prediction_2":"harry nilsson won the awards for best contemporary vocal performance, male in 1970 for \"everybody's talkin'\" and best male pop vocal performance in 1973 for \"without you\".",
+        "Prediction_3":"Harry Nilsson won the following awards:  - Best Contemporary Vocal Performance, Male for \"Everybody's Talkin'\" in 1970 - Best Male Pop Vocal Performance for \"Without You\" in 1973 ",
+        "Table Column":[
+            "Year",
+            "Nominee / work",
+            "Award",
+            "Result"
+        ],
+        "Table Rows":[
+            [
+                "1970",
+                "\"Everybody's Talkin'\"",
+                "Best Contemporary Vocal Performance, Male",
+                "Won"
+            ],
+            [
+                "1973",
+                "\"Without You\"",
+                "Best Male Pop Vocal Performance",
+                "Won"
+            ],
+            [
+                "1973",
+                "\"Without You\"",
+                "Record of the Year",
+                "Nominated"
+            ],
+            [
+                "1973",
+                "Nilsson Schmilsson",
+                "Album of the Year",
+                "Nominated"
+            ],
+            [
+                "1973",
+                "Nilsson Schmilsson",
+                "Best Engineered Album, Non-Classical",
+                "Nominated"
+            ]
+        ],
+        "id":7
+    }
+
+    {
+        "Question":"How many stages do the 1972 Vuelta a España have? How long was it covered?",
+        "Ground Truth":"The 1972 Vuelta a España consisted of 17 stages, covering a total of 3,079.3 km (1,913.4 mi).",
+        "Prediction_1":"the 1972 vuelta a espaa consisted of 17 stages covering a total of 2,070 km (1,871 mi).",
+        "Prediction_2":"the 1972 vuelta a espaa consisted of 17 stages covering a total of 2,080 km (1,871 mi).",
+        "Prediction_3":"The 1972 Vuelta a España had a total of 17 stages. The race covered a distance of 3,079.3 km (1,913 mi). ",
+        "Table Column":[
+            "Stage",
+            "Date",
+            "Course",
+            "Distance",
+            "Type",
+            "Type",
+            "Winner"
+        ],
+        "Table Rows":[
+            [
+                "P",
+                "27 April",
+                "Fuengirola – Fuengirola",
+                "6 km (4 mi)",
+                "-",
+                "Individual time trial",
+                "René Pijnen (NED)"
+            ],
+            [
+                "1",
+                "28 April",
+                "Fuengirola – Cabra",
+                "167 km (104 mi)",
+                "-",
+                "-",
+                "Miguel María Lasa (ESP)"
+            ],
+            [
+                "2",
+                "29 April",
+                "Cabra – Granada",
+                "206 km (128 mi)",
+                "-",
+                "-",
+                "Gerard Vianen (NED)"
+            ],
+            [
+                "3",
+                "30 April",
+                "Granada – Almería",
+                "181 km (112 mi)",
+                "-",
+                "-",
+                "Domingo Perurena (ESP)"
+            ],
+            [
+                "4",
+                "1 May",
+                "Almería – Dehesa de Campoamor",
+                "251 km (156 mi)",
+                "-",
+                "-",
+                "Ger Harings [fr] (NED)"
+            ],
+            [
+                "5",
+                "2 May",
+                "Dehesa De Campoamor – Gandia",
+                "183 km (114 mi)",
+                "-",
+                "-",
+                "Pieter Nassen (BEL)"
+            ],
+            [
+                "6a",
+                "3 May",
+                "Gandia – El Saler",
+                "120 km (75 mi)",
+                "-",
+                "-",
+                "Roger Kindt [fr] (BEL)"
+            ],
+            [
+                "6b",
+                "3 May",
+                "El Saler – El Saler",
+                "6.5 km (4 mi)",
+                "-",
+                "Team time trial",
+                "Kas–Kaskol"
+            ],
+            [
+                "7",
+                "4 May",
+                "Valencia – Vinaròs",
+                "181 km (112 mi)",
+                "-",
+                "-",
+                "Jos van der Vleuten (NED)"
+            ],
+            [
+                "8",
+                "5 May",
+                "Vinaròs – Tarragona",
+                "189 km (117 mi)",
+                "-",
+                "-",
+                "Cees Koeken (NED)"
+            ],
+            [
+                "9a",
+                "6 May",
+                "Tarragona – Barcelona",
+                "118 km (73 mi)",
+                "-",
+                "-",
+                "Ger Harings [fr] (NED)"
+            ],
+            [
+                "9b",
+                "6 May",
+                "Barcelona – Barcelona",
+                "10 km (6 mi)",
+                "-",
+                "Individual time trial",
+                "Jesús Manzaneque (ESP)"
+            ],
+            [
+                "10",
+                "7 May",
+                "Barcelona – Banyoles",
+                "192 km (119 mi)",
+                "-",
+                "-",
+                "Domingo Perurena (ESP)"
+            ],
+            [
+                "11",
+                "8 May",
+                "Manresa – Zaragoza",
+                "259 km (161 mi)",
+                "-",
+                "-",
+                "Luis Balague (ESP)"
+            ],
+            [
+                "12",
+                "9 May",
+                "Zaragoza – Formigal",
+                "169 km (105 mi)",
+                "-",
+                "-",
+                "José Manuel Fuente (ESP)"
+            ],
+            [
+                "13",
+                "10 May",
+                "Sangüesa – Arrate [es]",
+                "201 km (125 mi)",
+                "-",
+                "-",
+                "Agustín Tamames (ESP)"
+            ],
+            [
+                "14",
+                "11 May",
+                "Eibar – Bilbao",
+                "145 km (90 mi)",
+                "-",
+                "-",
+                "Miguel María Lasa (ESP)"
+            ],
+            [
+                "15",
+                "12 May",
+                "Bilbao – Torrelavega",
+                "148 km (92 mi)",
+                "-",
+                "-",
+                "Gerard Vianen (NED)"
+            ],
+            [
+                "16",
+                "13 May",
+                "Torrelavega – Vitoria",
+                "219 km (136 mi)",
+                "-",
+                "-",
+                "Agustín Tamames (ESP)"
+            ],
+            [
+                "17a",
+                "14 May",
+                "Vitoria – San Sebastián",
+                "138 km (86 mi)",
+                "-",
+                "-",
+                "Jesús Aranzabal [es] (ESP)"
+            ],
+            [
+                "17b",
+                "14 May",
+                "San Sebastián – San Sebastián",
+                "20 km (12 mi)",
+                "-",
+                "Individual time trial",
+                "José Antonio González (ESP)"
+            ],
+            [
+                "-",
+                "Total",
+                "Total",
+                "3,079.3 km (1,913 mi)",
+                "3,079.3 km (1,913 mi)",
+                "3,079.3 km (1,913 mi)",
+                "3,079.3 km (1,913 mi)"
+            ]
+        ],
+        "id":8
+    }
+
+    {
+        "Question":"What was Natalia Semenova's personal best record and where did she achieve it?",
+        "Ground Truth":"Natalia Semenova's personal best throw is 63.11 metres which was achieved at the 2003 Universiade in Daegu.",
+        "Prediction_1":"natalia semenova's personal best is 63.11 m, achieved at the 2003 universiade in daegu, south korea.",
+        "Prediction_2":"natalia semenova's personal best is 63.11 m, achieved at the 2003 universiade in daegu, south korea.",
+        "Prediction_3":"Natalia Semenova's personal best record was 63.11 m, which she achieved at the Universiade in Daegu, South Korea. ",
+        "Table Column":[
+            "Year",
+            "Competition",
+            "Venue",
+            "Position",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "Representing Ukraine",
+                "Representing Ukraine",
+                "Representing Ukraine",
+                "Representing Ukraine",
+                "Representing Ukraine"
+            ],
+            [
+                "2000",
+                "World Junior Championships",
+                "Santiago, Chile",
+                "6th",
+                "51.44 m"
+            ],
+            [
+                "2003",
+                "European U23 Championships",
+                "Bydgoszcz, Poland",
+                "1st",
+                "59.30 m"
+            ],
+            [
+                "2003",
+                "Universiade",
+                "Daegu, South Korea",
+                "1st",
+                "63.11 m (PB)"
+            ],
+            [
+                "2004",
+                "Olympic Games",
+                "Athens, Greece",
+                "24th (q)",
+                "58.28 m"
+            ],
+            [
+                "2005",
+                "World Championships",
+                "Helsinki, Finland",
+                "9th",
+                "58.44 m"
+            ],
+            [
+                "2005",
+                "Universiade",
+                "Izmir, Turkey",
+                "8th",
+                "56.47 m"
+            ],
+            [
+                "2006",
+                "European Championships",
+                "Gothenburg, Sweden",
+                "9th",
+                "59.99 m"
+            ],
+            [
+                "2007",
+                "World Championships",
+                "Osaka, Japan",
+                "8th",
+                "61.17 m"
+            ],
+            [
+                "2008",
+                "Olympic Games",
+                "Athens, Greece",
+                "14th (q)",
+                "60.18 m"
+            ],
+            [
+                "2011",
+                "World Championships",
+                "Daegu, South Korea",
+                "16th (q)",
+                "58.27 m"
+            ],
+            [
+                "2012",
+                "European Championships",
+                "Helsinki, Finland",
+                "3rd",
+                "62.91 m"
+            ],
+            [
+                "2012",
+                "Olympic Games",
+                "London, United Kingdom",
+                "18th (q)",
+                "60.61 m"
+            ],
+            [
+                "2013",
+                "World Championships",
+                "Moscow, Russia",
+                "23rd (q)",
+                "55.79 m"
+            ],
+            [
+                "2014",
+                "European Championships",
+                "Zürich, Switzerland",
+                "21st (q)",
+                "46.57 m"
+            ],
+            [
+                "2015",
+                "World Championships",
+                "Beijing, China",
+                "12th",
+                "59.54 m"
+            ],
+            [
+                "2016",
+                "European Championships",
+                "Amsterdam, Netherlands",
+                "6th",
+                "62.21 m"
+            ],
+            [
+                "2016",
+                "Olympic Games",
+                "Rio de Janeiro, Brazil",
+                "15th (q)",
+                "58.41 m"
+            ],
+            [
+                "2017",
+                "World Championships",
+                "London, United Kingdom",
+                "25th (q)",
+                "55.83 m"
+            ]
+        ],
+        "id":9
+    }
+
+    {
+        "Question":"Which television series did Peter Graves play from 1967 to 1973, and 1988?",
+        "Ground Truth":"Peter Graves played the role of Jim Phelps in the television series Mission: Impossible, from 1967 to 1973 (original), and in 1988 (revival).",
+        "Prediction_1":"peter graves played as jim phelps in the television series mission: impossible from 1967 to 1973, and as palmer kirby in the revival of the original series in 1988.",
+        "Prediction_2":"peter graves played the role of jim phelps in the television series mission: impossible from 1967 to 1973, and 1988.",
+        "Prediction_3":"Peter Graves played in the television series \"Mission: Impossible\" from 1967 to 1973, and in the revival of the original series in 1988. ",
+        "Table Column":[
+            "Year",
+            "Title",
+            "Role",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "1955-1960",
+                "Fury",
+                "Newton / Cyrus",
+                "-"
+            ],
+            [
+                "1959-60",
+                "Whiplash",
+                "Christopher Cobb",
+                "-"
+            ],
+            [
+                "1966",
+                "Branded",
+                "Senator Keith Ashley",
+                "-"
+            ],
+            [
+                "1966",
+                "Daniel Boone",
+                "Logan Harris",
+                "Episode \"Run A Crooked Mile\""
+            ],
+            [
+                "1967",
+                "The Invaders",
+                "Gavin Lewis",
+                "1 episode"
+            ],
+            [
+                "1967-1973",
+                "Mission: Impossible",
+                "Jim Phelps",
+                "-"
+            ],
+            [
+                "1979",
+                "Buck Rogers in the 25th Century",
+                "Major Noah Cooper",
+                "Episode \"Return of the Fighting 69th\""
+            ],
+            [
+                "1983",
+                "The Winds of War",
+                "Palmer 'Fred' Kirby",
+                "Miniseries"
+            ],
+            [
+                "1984",
+                "Hammer House of Mystery and Suspense",
+                "John Bray",
+                "Episode \"Tennis Court\""
+            ],
+            [
+                "1984",
+                "Murder, She Wrote",
+                "Edmund Gerard",
+                "Episode \"Lovers and Other Killers\""
+            ],
+            [
+                "1988",
+                "Mission: Impossible",
+                "Jim Phelps",
+                "Revival of the original series"
+            ],
+            [
+                "1988",
+                "War and Remembrance",
+                "Palmer Kirby",
+                "-"
+            ],
+            [
+                "1991",
+                "The Golden Girls",
+                "Jerry Kennedy",
+                "-"
+            ],
+            [
+                "1996-2007",
+                "7th Heaven",
+                "John 'The Colonel' Camden",
+                "-"
+            ],
+            [
+                "2005",
+                "House",
+                "Myron",
+                "-"
+            ],
+            [
+                "2006",
+                "Cold Case",
+                "Anton Bikker",
+                "1 episode"
+            ],
+            [
+                "2007",
+                "American Dad!",
+                "Mr. Pibb",
+                "-"
+            ],
+            [
+                "2007",
+                "WordGirl",
+                "Mr. Callahan",
+                "Voice"
+            ]
+        ],
+        "id":10
+    }
+
+    {
+        "Question":"Who defeated Sharatt and with what percentage of the vote?",
+        "Ground Truth":"Cheney defeated Bryan Sharratt with 66.62% of the vote.",
+        "Prediction_1":"cheney defeated sharratt with 66.62% of the vote.",
+        "Prediction_2":"cheney defeated sharratt with 66.62% of the vote.",
+        "Prediction_3":"Dick Cheney defeated Bryan Sharratt with 66.62% of the vote. ",
+        "Table Column":[
+            "Party",
+            "Party",
+            "Candidate",
+            "Votes",
+            "%"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "Republican",
+                "Dick Cheney",
+                "118,350",
+                "66.62%"
+            ],
+            [
+                "-",
+                "Democratic",
+                "Bryan Sharratt",
+                "56,527",
+                "31.82%"
+            ],
+            [
+                "-",
+                "Libertarian",
+                "Craig Alan McCune",
+                "1,906",
+                "1.07%"
+            ],
+            [
+                "-",
+                "New Alliance",
+                "Al Hamburg",
+                "868",
+                "0.49%"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "Total votes",
+                "177,651",
+                "100%"
+            ]
+        ],
+        "id":11
+    }
+
+    {
+        "Question":"Fehrbelliner Platz is a station of the Berlin U-Bahn located where ?",
+        "Ground Truth":"Fehrbelliner Platz is a station of the Berlin U-Bahn located on the U3 and the U7.",
+        "Prediction_1":"fehrbelliner platz is a station of the berlin u-bahn located in fehrbelliner platz.",
+        "Prediction_2":"fehrbelliner platz is a station of the berlin u-bahn, located on the u3 and the u7.",
+        "Prediction_3":"Fehrbelliner Platz is a station of the Berlin U-Bahn located underground. ",
+        "Table Column":[
+            "Station",
+            "Line",
+            "Opened",
+            "Situation"
+        ],
+        "Table Rows":[
+            [
+                "Fehrbelliner Platz",
+                "U3",
+                "12 October 1913",
+                "underground"
+            ],
+            [
+                "Fehrbelliner Platz",
+                "U7",
+                "29 January 1971",
+                "underground"
+            ],
+            [
+                "Frankfurter Allee",
+                "U5",
+                "21 December 1930",
+                "underground"
+            ],
+            [
+                "Frankfurter Tor",
+                "U5",
+                "21 December 1930",
+                "underground"
+            ],
+            [
+                "Franz-Neumann-Platz",
+                "U8",
+                "27 April 1987",
+                "underground"
+            ],
+            [
+                "Französische Straße",
+                "U6",
+                "30 January 1923",
+                "underground"
+            ],
+            [
+                "Friedrichsfelde",
+                "U5",
+                "21 December 1930",
+                "underground"
+            ],
+            [
+                "Friedrichstraße",
+                "U6",
+                "30 January 1923",
+                "underground"
+            ],
+            [
+                "Friedrich-Wilhelm-Platz",
+                "U9",
+                "29 January 1971",
+                "underground"
+            ]
+        ],
+        "id":12
+    }
+
+    {
+        "Question":"What two athletes closed out the field and what were their times?",
+        "Ground Truth":"Japan's Masami Tanaka (2:26.98) and Luo Xuejuan (2:27.33) closed out the field.",
+        "Prediction_1":"ágnes kovács and kristy kowal closed out the field with times of 2:24.35 and 2:24.56.",
+        "Prediction_2":"masami tanaka and luo xuejuan closed out the field with times of 2:26.98 and 2:27.33.",
+        "Prediction_3":"The two athletes who closed out the field in the Women's 200 metre breaststroke final at the 2000 Summer Olympics were Masami Tanaka from Japan and Luo Xuejuan from China. Their respective times were 2:26.98 and 2:27.33. ",
+        "Table Column":[
+            "Rank",
+            "Lane",
+            "Name",
+            "Nationality",
+            "Time",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "4",
+                "Ágnes Kovács",
+                "Hungary",
+                "2:24.35",
+                "-"
+            ],
+            [
+                "-",
+                "6",
+                "Kristy Kowal",
+                "United States",
+                "2:24.56",
+                "AM"
+            ],
+            [
+                "-",
+                "8",
+                "Amanda Beard",
+                "United States",
+                "2:25.35",
+                "-"
+            ],
+            [
+                "4",
+                "5",
+                "Qi Hui",
+                "China",
+                "2:25.36",
+                "-"
+            ],
+            [
+                "5",
+                "3",
+                "Olga Bakaldina",
+                "Russia",
+                "2:25.47",
+                "-"
+            ],
+            [
+                "6",
+                "2",
+                "Sarah Poewe",
+                "South Africa",
+                "2:25.72",
+                "-"
+            ],
+            [
+                "7",
+                "1",
+                "Masami Tanaka",
+                "Japan",
+                "2:26.98",
+                "-"
+            ],
+            [
+                "8",
+                "7",
+                "Luo Xuejuan",
+                "China",
+                "2:27.33",
+                "-"
+            ]
+        ],
+        "id":13
+    }
+
+    {
+        "Question":"During what year was Freddy Fender's singles  \"Before the Next Teardrop Falls\" and \"Wasted Days and Wasted Nights\" released in?",
+        "Ground Truth":"Freddy Fender's singles \"Before the Next Teardrop Falls\" and \"Wasted Days and Wasted Nights\" released in 1975.",
+        "Prediction_1":"freddy fender's singles \"before the next teardrop falls\" and \"wasted days and wasted nights\" were released in 1975.",
+        "Prediction_2":"freddy fender's singles \"before the next teardrop falls\" and \"wasted days and wasted nights\" were released in 1975..",
+        "Prediction_3":"The singles \"Before the Next Teardrop Falls\" and \"Wasted Days and Wasted Nights\" by Freddy Fender were released in the year 1975. ",
+        "Table Column":[
+            "Year",
+            "Single",
+            "Peak chart positions",
+            "Peak chart positions",
+            "Peak chart positions",
+            "Peak chart positions",
+            "Peak chart positions",
+            "Peak chart positions",
+            "Peak chart positions",
+            "Peak chart positions",
+            "Certifications (sales threshold)",
+            "Album"
+        ],
+        "Table Rows":[
+            [
+                "Year",
+                "Single",
+                "US Country",
+                "US",
+                "US AC",
+                "CAN Country",
+                "CAN",
+                "CAN AC",
+                "NZ",
+                "AUS",
+                "Certifications (sales threshold)",
+                "Album"
+            ],
+            [
+                "1960",
+                "\"Holy One\"",
+                "—",
+                "107",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "N/A"
+            ],
+            [
+                "1975",
+                "\"Before the Next Teardrop Falls\"",
+                "1",
+                "1",
+                "19",
+                "1",
+                "6",
+                "18",
+                "2",
+                "1",
+                "US: Gold",
+                "Before the Next Teardrop Falls"
+            ],
+            [
+                "1975",
+                "\"Wasted Days and Wasted Nights\"",
+                "1",
+                "8",
+                "9",
+                "2",
+                "6",
+                "14",
+                "1",
+                "9",
+                "US: Gold",
+                "Before the Next Teardrop Falls"
+            ],
+            [
+                "1975",
+                "\"Since I Met You Baby\"",
+                "10",
+                "45",
+                "—",
+                "—",
+                "52",
+                "—",
+                "—",
+                "—",
+                "-",
+                "Since I Met You Baby"
+            ],
+            [
+                "1975",
+                "\"Secret Love\"",
+                "1",
+                "20",
+                "10",
+                "1",
+                "38",
+                "7",
+                "10",
+                "33",
+                "-",
+                "Are You Ready for Freddy?"
+            ],
+            [
+                "1976",
+                "\"The Wild Side of Life\"",
+                "13",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "Since I Met You Baby"
+            ],
+            [
+                "1976",
+                "\"You'll Lose a Good Thing\"",
+                "1",
+                "32",
+                "28",
+                "—",
+                "—",
+                "—",
+                "24",
+                "—",
+                "-",
+                "Rock 'N' Country"
+            ],
+            [
+                "1976",
+                "\"Vaya con Dios\"",
+                "7",
+                "59",
+                "41",
+                "1",
+                "—",
+                "48",
+                "—",
+                "—",
+                "-",
+                "Rock 'N' Country"
+            ],
+            [
+                "1976",
+                "\"Living It Down\"",
+                "2",
+                "72",
+                "—",
+                "1",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "If You're Ever in Texas"
+            ],
+            [
+                "1977",
+                "\"The Rains Came\"",
+                "4",
+                "—",
+                "—",
+                "1",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "Rock ’n’ Country"
+            ],
+            [
+                "1977",
+                "\"If You Don't Love Me (Why Don't You Just Leave Me Alone)\"",
+                "11",
+                "—",
+                "—",
+                "16",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "If You Don't Love Me"
+            ],
+            [
+                "1977",
+                "\"Think About Me\"",
+                "18",
+                "—",
+                "—",
+                "10",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "If You Don't Love Me"
+            ],
+            [
+                "1978",
+                "\"If You're Looking for a Fool\"",
+                "34",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "If You Don't Love Me"
+            ],
+            [
+                "1978",
+                "\"Talk to Me\"",
+                "13",
+                "103",
+                "—",
+                "10",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "Swamp Gold"
+            ],
+            [
+                "1978",
+                "\"I'm Leaving It All Up to You\"",
+                "26",
+                "—",
+                "—",
+                "20",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "Swamp Gold"
+            ],
+            [
+                "1979",
+                "\"Walking Piece of Heaven\"",
+                "22",
+                "—",
+                "—",
+                "13",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "Tex-Mex"
+            ],
+            [
+                "1979",
+                "\"Yours\"",
+                "22",
+                "—",
+                "—",
+                "23",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "The Texas Balladeer"
+            ],
+            [
+                "1979",
+                "\"Squeeze Box\"",
+                "61",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "The Texas Balladeer"
+            ],
+            [
+                "1980",
+                "\"My Special Prayer\"",
+                "83",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "The Texas Balladeer"
+            ],
+            [
+                "1980",
+                "\"Please Talk to My Heart\"",
+                "82",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "Together We Drifted Apart"
+            ],
+            [
+                "1983",
+                "\"Chokin' Kind\"",
+                "87",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "-",
+                "N/A"
+            ],
+            [
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "\"—\" denotes releases that did not chart",
+                "-"
+            ]
+        ],
+        "id":14
+    }
+
+    {
+        "Question":"Which candidates ran in the 1940 United States presidential election in Nevada, and what percentage of the vote did each candidate earn?",
+        "Ground Truth":"Nevada was won by incumbent Franklin D. Roosevelt (D), with 60.08% of the vote, against Wendell Willkie (R), with 39.92% of the vote.",
+        "Prediction_1":"nevada was won by franklin d. roosevelt (d) with 60.08% of the vote against wendell willkie (r) with 39.92% of the vote.",
+        "Prediction_2":"nevada was won by franklin d. roosevelt (d) with 60.08% of the vote against wendell willkie (r) with 39.92% of the vote.",
+        "Prediction_3":"In the 1940 United States presidential election in Nevada, the candidates were Franklin D. Roosevelt (inc.) from the Democratic Party and Wendell Willkie from the Republican Party. Franklin D. Roosevelt received 60.08% of the vote, while Wendell Willkie received 39.92% of the vote. ",
+        "Table Column":[
+            "Party",
+            "Party",
+            "Candidate",
+            "Votes",
+            "%"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "Democratic",
+                "Franklin D. Roosevelt (inc.)",
+                "31,945",
+                "60.08%"
+            ],
+            [
+                "-",
+                "Republican",
+                "Wendell Willkie",
+                "21,229",
+                "39.92%"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "Total votes",
+                "53,174",
+                "100%"
+            ]
+        ],
+        "id":15
+    }
+
+    {
+        "Question":"By what majority did Mason win the seat for the Liberal party in the 1918 Wansbeck by-election?",
+        "Ground Truth":"In the 1918 Wansbeck by-election, Mason won the seat for the Liberal party with a majority of 547 votes over Edwards.",
+        "Prediction_1":"mason won the seat for the liberal party with a majority of 547 votes in the 1918 wansbeck by-election.",
+        "Prediction_2":"mason won the seat for the liberal party in the 1918 wansbeck by-election with a majority of 547 votes over ebenezer edwards.",
+        "Prediction_3":"Mason won the seat for the Liberal party in the 1918 Wansbeck by-election by a majority of 547 votes. ",
+        "Table Column":[
+            "Party",
+            "Party",
+            "Candidate",
+            "Votes",
+            "%",
+            "±"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "Liberal",
+                "Robert Mason",
+                "5,814",
+                "52.5",
+                "n/a"
+            ],
+            [
+                "-",
+                "Labour",
+                "Ebenezer Edwards",
+                "5,267",
+                "47.5",
+                "n/a"
+            ],
+            [
+                "Majority",
+                "Majority",
+                "Majority",
+                "547",
+                "5.0",
+                "n/a"
+            ],
+            [
+                "-",
+                "Liberal hold",
+                "Liberal hold",
+                "Swing",
+                "n/a",
+                "-"
+            ]
+        ],
+        "id":16
+    }
+
+    {
+        "Question":"What Democrat defeated what Republican, and what percentage of vote did the Democrat receive?",
+        "Ground Truth":"Democrat Brendan Byrne defeated Republican Raymond Bateman with 55.71% of the vote.",
+        "Prediction_1":"brendan byrne defeated republican raymond bateman with 55.71% of the vote.",
+        "Prediction_2":"brendan byrne defeated republican raymond bateman with 55.71% of the vote.",
+        "Prediction_3":"Brendan Byrne, the Democratic candidate, defeated Raymond Bateman, the Republican candidate, in the 1977 New Jersey gubernatorial election. Byrne received 55.71% of the vote. ",
+        "Table Column":[
+            "Party",
+            "Party",
+            "Candidate",
+            "Votes",
+            "%",
+            "±"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "Democratic",
+                "Brendan Byrne",
+                "1,184,564",
+                "55.71%",
+                "-"
+            ],
+            [
+                "-",
+                "Republican",
+                "Raymond Bateman",
+                "888,880",
+                "41.81%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Francis W. Flowers",
+                "8,677",
+                "0.41%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Chester Grabowski",
+                "8,494",
+                "0.40%",
+                "-"
+            ],
+            [
+                "-",
+                "Libertarian",
+                "Frank J. Primich",
+                "5,674",
+                "0.27%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Chauncey E. McSpiritt",
+                "4,464",
+                "0.21%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Paul B. Rizzo",
+                "3,691",
+                "0.17%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Richard D. McAleer",
+                "3,688",
+                "0.17%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "John F. Donato",
+                "3,189",
+                "0.15%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Angelo S. Massaro",
+                "3,031",
+                "0.14%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "William Zsidisin",
+                "2,974",
+                "0.14%",
+                "-"
+            ],
+            [
+                "-",
+                "Socialist Labor",
+                "Julius Levin",
+                "2,276",
+                "0.11%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Jasper C. Gould",
+                "2,248",
+                "0.11%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Leif O. Johnson",
+                "1,601",
+                "0.08%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Robert Ganteaume",
+                "1,480",
+                "%",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Bill Gahres",
+                "1,333",
+                "%",
+                "-"
+            ],
+            [
+                "Majority",
+                "Majority",
+                "Majority",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "Turnout",
+                "Turnout",
+                "Turnout",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "-",
+                "Democratic hold",
+                "Democratic hold",
+                "Swing",
+                "-",
+                "-"
+            ]
+        ],
+        "id":17
+    }
+
+    {
+        "Question":"When and where did the Shinee World The Best 2018 start and end?",
+        "Ground Truth":"Shinee's activities in Japan kicked off in Osaka Dome on February 17, 2018 and ended in Tokyo Dome on February 27, 2018.",
+        "Prediction_1":"shinee world the best 2018 began on february 17, 2018 in osaka, japan at the kyocera dome osaka and concluded on february 27, 2018 in tokyo, japan at the tokyo dome.",
+        "Prediction_2":"shinee world the best 2018 started in osaka dome on february 17, 2018 and ended in tokyo dome on february 27.",
+        "Prediction_3":"The Shinee World The Best 2018 started on February 17, 2018, in Osaka, Japan at the Kyocera Dome Osaka. It ended on February 27, 2018, in Tokyo, Japan at the Tokyo Dome. ",
+        "Table Column":[
+            "Date",
+            "City",
+            "Country",
+            "Venue"
+        ],
+        "Table Rows":[
+            [
+                "February 17, 2018",
+                "Osaka",
+                "Japan",
+                "Kyocera Dome Osaka"
+            ],
+            [
+                "February 18, 2018",
+                "Osaka",
+                "Japan",
+                "Kyocera Dome Osaka"
+            ],
+            [
+                "February 26, 2018",
+                "Tokyo",
+                "Japan",
+                "Tokyo Dome"
+            ],
+            [
+                "February 27, 2018",
+                "Tokyo",
+                "Japan",
+                "Tokyo Dome"
+            ]
+        ],
+        "id":18
+    }
+
+    {
+        "Question":"Which years did Sato win the Asian Games?",
+        "Ground Truth":"Megumi Sato won the 1986 and 1990 Asian Games.",
+        "Prediction_1":"megumi sato won the asian games in 1986 and 1990.",
+        "Prediction_2":"megumi sato won the asian games in 1986 and 1990.",
+        "Prediction_3":"Sato won the Asian Games in the years 1986 and 1990. ",
+        "Table Column":[
+            "Year",
+            "Competition",
+            "Venue",
+            "Position",
+            "Event",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "Representing Japan",
+                "Representing Japan",
+                "Representing Japan",
+                "Representing Japan",
+                "Representing Japan",
+                "Representing Japan"
+            ],
+            [
+                "1983",
+                "World Championships",
+                "Helsinki, Finland",
+                "27th (q)",
+                "high jump",
+                "1.80 m"
+            ],
+            [
+                "1984",
+                "Olympic Games",
+                "Los Angeles, United States",
+                "18th (q)",
+                "high jump",
+                "1.84 m"
+            ],
+            [
+                "1986",
+                "Asian Games",
+                "Seoul, South Korea",
+                "1st",
+                "high jump",
+                "1.89 m"
+            ],
+            [
+                "1987",
+                "World Indoor Championships",
+                "Indianapolis, United States",
+                "11th",
+                "high jump",
+                "1.85 m"
+            ],
+            [
+                "1987",
+                "Universiade",
+                "Zagreb, Yugoslavia",
+                "3rd",
+                "high jump",
+                "1.88 m"
+            ],
+            [
+                "1987",
+                "World Championships",
+                "Rome, Italy",
+                "16th (q)",
+                "high jump",
+                "1.88 m"
+            ],
+            [
+                "1988",
+                "Olympic Games",
+                "Seoul, South Korea",
+                "11th",
+                "high jump",
+                "1.90 m (1.92)"
+            ],
+            [
+                "1989",
+                "World Indoor Championships",
+                "Budapest, Hungary",
+                "13th",
+                "high jump",
+                "1.85 m"
+            ],
+            [
+                "1990",
+                "Goodwill Games",
+                "Seattle, United States",
+                "3rd",
+                "high jump",
+                "1.89 m"
+            ],
+            [
+                "1990",
+                "Asian Games",
+                "Beijing, China",
+                "1st",
+                "high jump",
+                "1.94 m"
+            ],
+            [
+                "1991",
+                "World Indoor Championships",
+                "Seville, Spain",
+                "16th (q)",
+                "high jump",
+                "1.84 m"
+            ],
+            [
+                "1991",
+                "World Championships",
+                "Tokyo, Japan",
+                "19th (q)",
+                "high jump",
+                "1.83 m"
+            ],
+            [
+                "1992",
+                "Olympic Games",
+                "Barcelona, Spain",
+                "7th",
+                "high jump",
+                "1.91 m (1.92)"
+            ],
+            [
+                "1992",
+                "World Cup",
+                "Havana, Cuba",
+                "6th",
+                "high jump",
+                "1.75 m"
+            ],
+            [
+                "1993",
+                "World Championships",
+                "Stuttgart, Germany",
+                "34th (q)",
+                "high jump",
+                "1.75 m"
+            ]
+        ],
+        "id":19
+    }
+
+    {
+        "Question":"What awards and nominations were Durosoke honored with at the 2013 Nigeria Music Video Awards?",
+        "Ground Truth":"The music video for \"Durosoke\" won Best Afro Hip Hop Video and was nominated for Video of the Year at the 2013 Nigeria Music Video Awards.",
+        "Prediction_1":"durosoke was nominated for video of the year and won best afro hip hop video at the 2013 nigeria music video awards.",
+        "Prediction_2":"the music video for \"durosoke\" won best afro hip hop video and was nominated for video of the year at the 2013 nigeria music video awards.",
+        "Prediction_3":"Durosoke was honored with the nomination for Video of the Year and won the award for Best Afro Hip Hop Video at the 2013 Nigeria Music Video Awards. ",
+        "Table Column":[
+            "Year",
+            "Awards ceremony",
+            "Award description(s)",
+            "Results"
+        ],
+        "Table Rows":[
+            [
+                "2013",
+                "Nigeria Music Video Awards",
+                "Video of the Year",
+                "Nominated"
+            ],
+            [
+                "2013",
+                "Nigeria Music Video Awards",
+                "Best Afro Hip Hop Video",
+                "Won"
+            ],
+            [
+                "2013",
+                "The Headies 2013",
+                "Best Rap Single",
+                "Nominated"
+            ],
+            [
+                "2013",
+                "The Headies 2013",
+                "Song of the Year",
+                "Nominated"
+            ]
+        ],
+        "id":20
+    }

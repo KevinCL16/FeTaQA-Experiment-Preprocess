@@ -1,0 +1,475 @@
+
+    {
+        "Question":"Do any cities have more than one museum?",
+        "Answer":"The Living Museum of Bujumbura and the Geological Museum of Burundi are located in Bujumbura.",
+        "LLM Predicted Knowledge":"To answer the question \"Do any cities have more than one museum?\" based on the provided table, the crucial information from the relevant cells is as follows:  In the \"Location\" column: - Bujumbura  In the \"Name\" column: - Living Museum of Bujumbura - Geological Museum of Burundi  Therefore, the answer to the question is \"The Living Museum of Bujumbura and the Geological Museum of Burundi are located in Bujumbura.\" ",
+        "Table Title":"List of museums in Burundi|List",
+        "Table Rows":[
+            "[COL] Name | Original name | Location | Foundation | Subject",
+            "[ROW] National Museum of Gitega | Musée National de Gitega | Gitega | 1955 | History and ethnography",
+            "[ROW] Living Museum of Bujumbura | Musée Vivant de Bujumbura | Bujumbura | 1977 | Wildlife, nature and culture",
+            "[ROW] Geological Museum of Burundi | Musée de Geologie du Burundi | Bujumbura | - | Geology"
+        ],
+        "id":1
+    }
+
+    {
+        "Question":"How did Lansiquot perform in the 2018 European Championships in Berlin?",
+        "Answer":"In 2018, at the European Championships in Berlin, Lansiquot placed sixth in the 100 metres, before winning a gold medal in the 4 × 100 metres event.",
+        "LLM Predicted Knowledge":"The content of cells that contain information crucial to answering the question \"How did Lansiquot perform in the 2018 European Championships in Berlin?\" are as follows:  - In the 'Position' column:   - 6th  - In the 'Event' column:   - 100 m  Please note that the information above describes the performance of Lansiquot in the 2018 European Championships in Berlin. ",
+        "Table Title":"Imani-Lara Lansiquot|International competitions",
+        "Table Rows":[
+            "[COL] Year | Competition | Venue | Position | Event | Notes",
+            "[ROW] 2015 | European Junior Championships | Eskilstuna, Sweden | 5th | 100 m | 11.74",
+            "[ROW] 2015 | European Junior Championships | Eskilstuna, Sweden | 1st | 4 × 100 m | 44.18",
+            "[ROW] 2016 | World U20 Championships | Bydgoszcz, Poland | 4th | 100 m | 11.37",
+            "[ROW] 2017 | European U23 Championships | Bydgoszcz, Poland | 4th | 100 m | 11.58",
+            "[ROW] 2018 | Athletics World Cup | London, United Kingdom | 1st | 4 × 100 m | 42.52",
+            "[ROW] 2018 | European Championships | Berlin, Germany | 6th | 100 m | 11.14",
+            "[ROW] 2018 | European Championships | Berlin, Germany | 1st | 4 × 100 m | 41.80"
+        ],
+        "id":2
+    }
+
+    {
+        "Question":"What span of days was the 2019 Eric Clapton World Tour in Tokyo for?",
+        "Answer":"The Eric Clapton World Tour 2019 was in Tokyo on 13 April 2019 through 20 April 2019.",
+        "LLM Predicted Knowledge":"The relevant cells in the table are:  - In the 'Date' column:   - 13 April 2019   - 15 April 2019   - 17 April 2019   - 18 April 2019   - 20 April 2019  These dates represent the span of days that the 2019 Eric Clapton World Tour was in Tokyo. ",
+        "Table Title":"Eric Clapton World Tour (2019)|Tour dates",
+        "Table Rows":[
+            "[COL] Date | City | Country | Venue | Attendance | Box Office",
+            "[ROW] Asia | Asia | Asia | Asia | Asia | Asia",
+            "[ROW] 13 April 2019 | Tokyo | Japan | Nippon Budokan | 72,350 / 72,350 | $8,712,387",
+            "[ROW] 15 April 2019 | Tokyo | Japan | Nippon Budokan | 72,350 / 72,350 | $8,712,387",
+            "[ROW] 17 April 2019 | Tokyo | Japan | Nippon Budokan | 72,350 / 72,350 | $8,712,387",
+            "[ROW] 18 April 2019 | Tokyo | Japan | Nippon Budokan | 72,350 / 72,350 | $8,712,387",
+            "[ROW] 20 April 2019 | Tokyo | Japan | Nippon Budokan | 72,350 / 72,350 | $8,712,387",
+            "[ROW] Europe | Europe | Europe | Europe | Europe | Europe",
+            "[ROW] 13 May 2019 | London | England | Royal Albert Hall | — | —",
+            "[ROW] 15 May 2019 | London | England | Royal Albert Hall | — | —",
+            "[ROW] 16 May 2019 | London | England | Royal Albert Hall | — | —",
+            "[ROW] 4 June 2019 | Berlin | Germany | Mercedes-Benz Arena | — | —",
+            "[ROW] 6 June 2019 | Vienna | Austria | Wiener Stadthalle | — | —",
+            "[ROW] 8 June 2019 | Mannheim | Germany | SAP Arena | — | —",
+            "[ROW] 10 June 2019 | Dresden | Germany | Messehalle 1 | - | -",
+            "[ROW] North America | North America | North America | North America | North America | North America",
+            "[ROW] 11 September 2019 | San Francisco | United States | Chase Center | — | —",
+            "[ROW] 13 September 2019 | Las Vegas | United States | T-Mobile Arena | — | —",
+            "[ROW] 14 September 2019 | Phoenix | United States | Talking Stick Resort Arena | — | —",
+            "[ROW] 20 September 2019 | Dallas | United States | American Airlines Center | - | -",
+            "[ROW] 21 September 2019 | Dallas | United States | American Airlines Center | - | -",
+            "[ROW] TOTAL | TOTAL | TOTAL | TOTAL | 72,350 / 72,350 (100%) | $8,712,387"
+        ],
+        "id":3
+    }
+
+    {
+        "Question":"Which songs brought the consecutive wins as Favorite Artist Philippines at the 2002 and 2003 MTV Asia Awards for Regine Velasquez?",
+        "Answer":"\"To Reach You\" and \"Sa Aking Pag-iisa\", gave Velasquez two consecutive wins as Favorite Artist Philippines at the 2002 and 2003 MTV Asia Awards.",
+        "LLM Predicted Knowledge":"The relevant cell information for the given table is as follows:  In the 'Year' column: - 2002 - 2003  In the 'Nominee / work' column: - \"To Reach You\" - \"Sa Aking Pag-iisa (Remix)\"  Based on this information, \"To Reach You\" and \"Sa Aking Pag-iisa (Remix)\" were the songs that brought the consecutive wins as Favorite Artist Philippines at the 2002 and 2003 MTV Asia Awards for Regine Velasquez. ",
+        "Table Title":"List of awards and nominations received by Regine Velasquez|MTV Asia Awards",
+        "Table Rows":[
+            "[COL] Year | Nominee / work | Award | Result | Ref.",
+            "[ROW] 2002 | \"To Reach You\" | Favorite Artist Philippines | Won | -",
+            "[ROW] 2003 | \"Sa Aking Pag-iisa (Remix)\" | Favorite Artist Philippines | Won | -",
+            "[ROW] 2004 | \"Pangarap Ko Ang Ibigin Ka\" | Favorite Artist Philippines | Nominated | -"
+        ],
+        "id":4
+    }
+
+    {
+        "Question":"What happened in the election in Wyoming?",
+        "Answer":"Wyoming was won by incumbent Lyndon B. Johnson (D), with 56.56 percent of the vote, against Barry Goldwater (R), with 43.44 percent of the vote.",
+        "LLM Predicted Knowledge":"The relevant cell information for answering the question \"What happened in the election in Wyoming?\" in the given table includes the following:  1. Party: Democratic    - Candidate: Lyndon B. Johnson (inc.)    - Votes: 80,718    - Percentage: 56.56%  2. Party: Republican    - Candidate: Barry Goldwater    - Votes: 61,998    - Percentage: 43.44%  The election in Wyoming was won by the incumbent Lyndon B. Johnson (D), who received 56.56% of the vote, while Barry Goldwater (R) received 43.44% of the vote. ",
+        "Table Title":"1964 United States presidential election in Wyoming|Results",
+        "Table Rows":[
+            "[COL] Party | Party | Candidate | Votes | %",
+            "[ROW] - | Democratic | Lyndon B. Johnson (inc.) | 80,718 | 56.56%",
+            "[ROW] - | Republican | Barry Goldwater | 61,998 | 43.44%",
+            "[ROW] Total votes | Total votes | Total votes | 142,716 | 100.00%"
+        ],
+        "id":5
+    }
+
+    {
+        "Question":"How did Jeb Bush perform against Buddy MacKay in their election, and what were the total votes and their respective percentages?",
+        "Answer":"Bush defeated his opponent, Buddy MacKay, (2,191,105; 55% to 1,773,054; 45%).",
+        "LLM Predicted Knowledge":"The relevant cells for answering the question are as follows: - In the 'Candidate' column: Jeb Bush - In the 'Votes' column: 2,191,105 - In the '%' column: 55 - In the 'Candidate' column: Buddy MacKay - In the 'Votes' column: 1,773,054 - In the '%' column: 45  Jeb Bush performed against Buddy MacKay in their election with 2,191,105 votes, which accounted for 55% of the total votes. Buddy MacKay, on the other hand, received 1,773,054 votes, which accounted for 45% of the total votes. ",
+        "Table Title":"Jeb Bush|Electoral history",
+        "Table Rows":[
+            "[COL] Party | Party | Candidate | Votes | % | ±",
+            "[ROW] - | Republican | Jeb Bush | 2,191,105 | 55 | -",
+            "[ROW] - | Democratic | Buddy MacKay | 1,773,054 | 45 | -"
+        ],
+        "id":6
+    }
+
+    {
+        "Question":"As a result of the 1903 Bulgarian parliamentary election, what ratio of total seats did the winning party walk away with with?",
+        "Answer":"In the 1903 Bulgarian parliamentary election, the result was a victory for the People's Party, which won 134 of the 169 seats.",
+        "LLM Predicted Knowledge":"The crucial information in the table to answer the question \"As a result of the 1903 Bulgarian parliamentary election, what ratio of total seats did the winning party walk away with?\" is as follows:  - In the \"Party\" column: People's Party - In the \"Seats\" column: 134 - In the \"Total\" column: 169  This information indicates that the People's Party won 134 out of the total 169 seats in the 1903 Bulgarian parliamentary election. ",
+        "Table Title":"1903 Bulgarian parliamentary election|Results",
+        "Table Rows":[
+            "[COL] Party | Votes | % | Seats | +/–",
+            "[ROW] People's Party | - | - | 134 | +106",
+            "[ROW] Liberal Party | - | - | 9 | +2",
+            "[ROW] People's Liberal Party | - | - | 8 | 0",
+            "[ROW] Democratic Party | - | - | 7 | 0",
+            "[ROW] Progressive Liberal Party | - | - | 6 | –83",
+            "[ROW] Conservative Party | - | - | 1 | –1",
+            "[ROW] Bulgarian Agrarian National Union | - | - | 0 | –12",
+            "[ROW] Other parties | - | - | 2 | –6",
+            "[ROW] Independents | - | - | 2 | –13",
+            "[ROW] Invalid/blank votes | 0 | – | – | –",
+            "[ROW] Total | - | - | 169 | –20",
+            "[ROW] Source: Nohlen & Stöver | Source: Nohlen & Stöver | Source: Nohlen & Stöver | Source: Nohlen & Stöver | Source: Nohlen & Stöver"
+        ],
+        "id":7
+    }
+
+    {
+        "Question":"In the 2000-01 season, how many goals did Hernán Crespo score and which club did he play for?",
+        "Answer":"In 2000–01, Hernán Crespo scored 26 goals in Serie A playing for Lazio.",
+        "LLM Predicted Knowledge":"The information from crucial table cells is: In the 'Season' column: - 2000-01 In the 'Club' column: - Lazio In the 'Goals' column: - Hernán Crespo scored 26 goals in Serie A. ",
+        "Table Title":"Hernán Crespo|Club",
+        "Table Rows":[
+            "[COL] Club performance | Club performance | Club performance | League | League | Cup | Cup | League Cup | League Cup | Continental | Continental | Total | Total",
+            "[ROW] Season | Club | League | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals | Apps | Goals",
+            "[ROW] 1993–94 | River Plate | Primera División | 25 | 16 | — | — | 3 | 0 | 28 | 16 | - | -",
+            "[ROW] 1994–95 | River Plate | Primera División | 18 | 4 | — | — | 4 | 2 | 22 | 6 | - | -",
+            "[ROW] 1995–96 | River Plate | Primera División | 21 | 4 | — | — | 13 | 10 | 34 | 14 | - | -",
+            "[ROW] 1996–97 | Parma | Serie A | 27 | 12 | 1 | 0 | — | — | 28 | 12 | - | -",
+            "[ROW] 1997–98 | Parma | Serie A | 25 | 12 | 2 | 0 | — | — | 8 | 2 | 35 | 14",
+            "[ROW] 1998–99 | Parma | Serie A | 30 | 16 | 7 | 6 | — | — | 8 | 6 | 45 | 28",
+            "[ROW] 1999–2000 | Parma | Serie A | 34 | 22 | 2 | 0 | — | — | 5 | 3 | 4312 | 26",
+            "[ROW] 2000–01 | Lazio | Serie A | 32 | 26 | 1 | 0 | — | — | 6 | 2 | 403 | 28",
+            "[ROW] 2001–02 | Lazio | Serie A | 22 | 13 | 4 | 4 | — | — | 7 | 3 | 33 | 20",
+            "[ROW] 2002–03 | Inter Milan | Serie A | 18 | 7 | 0 | 0 | — | — | 12 | 9 | 30 | 16",
+            "[ROW] 2003–04 | Chelsea | Premier League | 19 | 10 | 0 | 0 | 2 | 0 | 10 | 2 | 31 | 12",
+            "[ROW] 2004–05 | A.C. Milan | Serie A | 28 | 11 | 1 | 1 | — | — | 10 | 6 | 404 | 18",
+            "[ROW] 2005–06 | Chelsea | Premier League | 30 | 10 | 5 | 1 | 1 | 0 | 5 | 2 | 425 | 13",
+            "[ROW] 2006–07 | Inter Milan | Serie A | 29 | 14 | 4 | 4 | — | — | 6 | 1 | 406 | 20",
+            "[ROW] 2007–08 | Inter Milan | Serie A | 19 | 4 | 5 | 2 | — | — | 5 | 1 | 29 | 7",
+            "[ROW] 2008–09 | Inter Milan | Serie A | 14 | 2 | 3 | 0 | — | — | 0 | 0 | 17 | 2",
+            "[ROW] 2009–10 | Genoa | Serie A | 16 | 5 | 1 | 0 | — | — | 4 | 2 | 21 | 7",
+            "[ROW] 2009–10 | Parma | Serie A | 13 | 1 | 0 | 0 | — | — | 13 | 1 | - | -",
+            "[ROW] 2010–11 | Parma | Serie A | 29 | 9 | 2 | 2 | — | — | 31 | 11 | - | -",
+            "[ROW] 2011–12 | Parma | Serie A | 4 | 0 | 2 | 2 | — | — | 6 | 2 | - | -",
+            "[ROW] Total | Total | Total | 453 | 198 | 40 | 22 | 3 | 0 | 106 | 51 | 608 | 271"
+        ],
+        "id":8
+    }
+
+    {
+        "Question":"What margin of votes did Biju Janata Dal candidate Rabi Narayan Pani defeated Bharatiya Janata Party candidate Dharmendra Pradhan in 2009 election?",
+        "Answer":"In 2009 election, Biju Janata Dal candidate Rabi Narayan Pani defeated Bharatiya Janata Party candidate Dharmendra Pradhan by a margin of 5,467 votes.",
+        "LLM Predicted Knowledge":"In order to answer the question, you can look closely at the following table cells:  In the 'Candidate' column: - Rabi Narayan Pani (Biju Janata Dal) - Dharmendra Pradhan (Bharatiya Janata Party)  In the 'Votes' column: - 40,980 votes for Rabi Narayan Pani - 35,513 votes for Dharmendra Pradhan  Therefore, Biju Janata Dal candidate Rabi Narayan Pani defeated Bharatiya Janata Party candidate Dharmendra Pradhan by a margin of 5,467 votes in the 2009 election. ",
+        "Table Title":"Pallahara (Odisha Vidhan Sabha constituency)|Summary of results of the 2009 Election",
+        "Table Rows":[
+            "[COL] Party | Party | Candidate | Votes | % | ±",
+            "[ROW] - | BJD | Rabi Narayan Pani | 40,980 | 37.96 | -",
+            "[ROW] - | BJP | Dharmendra Pradhan | 35,513 | 32.90 | -",
+            "[ROW] - | INC | Bibhudhendra Pratap Das | 21,258 | 19.69 | -",
+            "[ROW] - | Independent | Sripati Sinko | 2,345 | 2.17 | -",
+            "[ROW] - | SP | Abani Kumar Sahoo | 1,867 | 1.73 | -",
+            "[ROW] - | BSP | Paramananda Bilas | 1,311 | 1.21 | -",
+            "[ROW] - | Independent | Chittaranjan Pradhan | 983 | 0.91 | -",
+            "[ROW] - | Independent | Sanjaya Kumar Naik | 768 | 0.71 | -",
+            "[ROW] - | Independent | Birabar Behera | 576 | 0.53 | -",
+            "[ROW] - | Independent | Gayadhar Kisan | 528 | 0.49 | -",
+            "[ROW] - | RPD | Dulabh Behera | 489 | 0.45 | -",
+            "[ROW] - | Independent | Routara Naik | 394 | 0.36 | -",
+            "[ROW] - | Kalinga Sena | Ramesh Chandra Sahoo | 373 | 0.35 | -",
+            "[ROW] - | Independent | Manoj Kumar Nayak | 301 | 0.28 | -",
+            "[ROW] - | Independent | Bijay Kumar Pradhan | 271 | 0.25 | -",
+            "[ROW] Majority | Majority | Majority | 5,467 | 5.06 | -",
+            "[ROW] Turnout | Turnout | Turnout | 1,07,959 | 73.93 | -"
+        ],
+        "id":9
+    }
+
+    {
+        "Question":"How many awards and nominations did Breaking Bad receive in 2012? ",
+        "Answer":"Breaking Bad won two awards from five nominations in 2012, ",
+        "LLM Predicted Knowledge":"The table contains information about the awards and nominations received by Breaking Bad. To answer the question \"How many awards and nominations did Breaking Bad receive in 2012?\", we need to look at the \"Result\" column for the year 2012. In this column, we find that Bryan Cranston won the award for Best Actor in a Drama Series, Giancarlo Esposito won the award for Best Supporting Actor in a Drama Series, and Aaron Paul was nominated for Best Supporting Actor in a Drama Series. Therefore, Breaking Bad received two awards and five nominations in 2012. ",
+        "Table Title":"List of awards and nominations received by Breaking Bad|Critics' Choice Television Awards",
+        "Table Rows":[
+            "[COL] Year | Category | Nominee(s) | Result",
+            "[ROW] 2012 | Best Actor in a Drama Series | Bryan Cranston | Won",
+            "[ROW] 2012 | Best Drama Series | - | Nominated",
+            "[ROW] 2012 | Best Supporting Actor in a Drama Series | Giancarlo Esposito | Won",
+            "[ROW] 2012 | Best Supporting Actor in a Drama Series | Aaron Paul | Nominated",
+            "[ROW] 2012 | Best Supporting Actress in a Drama Series | Anna Gunn | Nominated",
+            "[ROW] 2013 | Best Actor in a Drama Series | Bryan Cranston | Won",
+            "[ROW] 2013 | Best Drama Series | - | Won",
+            "[ROW] 2013 | Best Supporting Actor in a Drama Series | Jonathan Banks | Nominated",
+            "[ROW] 2013 | Best Supporting Actress in a Drama Series | Anna Gunn | Nominated",
+            "[ROW] 2014 | Best Actor in a Drama Series | Bryan Cranston | Nominated",
+            "[ROW] 2014 | Best Drama Series | - | Won",
+            "[ROW] 2014 | Best Supporting Actor in a Drama Series | Aaron Paul | Won",
+            "[ROW] 2014 | Best Supporting Actress in a Drama Series | Anna Gunn | Nominated"
+        ],
+        "id":10
+    }
+
+    {
+        "Question":"Did Shelly Berg release any albums with the Shelly Berg Trio before 2000 or during 2005?",
+        "Answer":"Shelly Berg recorded albums with the Shelly Berg Trio including The Joy (DMP, 1995), The Will: A Tribute to Oscar Peterson (CARS, 1998), and Blackbird (Concord Records, 2005).",
+        "LLM Predicted Knowledge":"Important table cells include:   In the 'Year' column:  - 1995 (The Joy) - 1998 (The Will: A Tribute to Oscar Peterson) - 2005 (Blackbird)  In the 'Title' column:  - The Joy (Trio, as Shelly Berg Trio) - The Will: A Tribute to Oscar Peterson (Trio, Shelly Berg) - Blackbird (Trio, as Shelly Berg Trio) ",
+        "Table Title":"Shelly Berg|Discography",
+        "Table Rows":[
+            "[COL] Year | Label | Title | Notes | Award",
+            "[ROW] 2018 | Decca Gold | Gershwin Reimagined: An American in London | Shelly Berg (piano) & Shelly Berg Trio, Royal Philharmonic Orchestra, Jose Serebrier, conductor, Gregg Field, producer. Also featuring Arturo Sandoval (trumpet), Mark O'Connor (violin), Ledesi (vocals), Monica Mancini (vocals), Chuck Berghofer (bass), Gregg Field (drums) | Billboard Classical Top 20, Sep. 2018",
+            "[ROW] 2017 | Chesky | The Deep | Duo, Shelly Berg (piano) with Dave Finck (bass) | 4.5 stars Downbeat, Nov. 2017",
+            "[ROW] 2012 | Summit | All Things Are New | Beaux J Poo Boo: Quartet, Shelly Berg (piano) with Fred Hamilton (guitar), Lou Fischer (bass), Steve Houghton (drums) | -",
+            "[ROW] 2009 | Arbors | The Nearness of You | Solo piano, Shelly Berg (piano) | -",
+            "[ROW] 2009 | Victoria | Meeting of Minds | Piano Duo, Shelly Berg (piano) with Dick Hyman (piano) | -",
+            "[ROW] 2005 | Concord | Blackbird | Trio, as Shelly Berg Trio, Shelly Berg (piano) with Chuck Berghofer (bass), Gregg Field (drums) | #1 JazzWeek U.S. Jazz Radio, Feb. 09, 2005",
+            "[ROW] 2005 | Azika | First Takes | Duo, Shelly Berg (piano) with Frank Potenza (guitar) | -",
+            "[ROW] 2004 | Azika | Home with You | Duo, Shelly Berg (piano) with Carmen Bradford (vocals) | -",
+            "[ROW] 2003 | Viewpoint | Pieces of String | Trio, Shelly Berg (piano) with John Fremgen (bass) and Peter Erskine (drums) | -",
+            "[ROW] 1998 | CARS | The Will: A Tribute to Oscar Peterson | Trio, Shelly Berg (piano) with Ray Brown (bass) and Ed Thigpen (drums) | #6 JazzWeek U.S. Jazz Radio",
+            "[ROW] 1995 | DMP | The Joy | Trio, as Shelly Berg Trio, Shelly Berg (piano) with Lou Fischer (bass), Steve Houghton (drums), Randy Drake (drums) | -"
+        ],
+        "id":11
+    }
+
+    {
+        "Question":"What three films did Vicky Kaushal star in with acting roles from 2012 to 2015?",
+        "Answer":"In film, Kaushal played a role in Luv Shuv Tey Chicken Khurana in 2012 and in Bombay Velvet in 2015, and in the short film Geek Out in 2013.",
+        "LLM Predicted Knowledge":"The relevant cells in the table for answering the question are:  1. Film: Luv Shuv Tey Chicken Khurana 2. Year: 2012 3. Role: Young Omi 4. Film: Bombay Velvet 5. Year: 2015 6. Role: Inspector Basil 7. Film: Geek Out 8. Year: 2013 9. Role: Geek  These cells contain the necessary information about the films in which Vicky Kaushal had acting roles from 2012 to 2015. ",
+        "Table Title":"Vicky Kaushal|Films",
+        "Table Rows":[
+            "[COL] Film | Year | Role | Notes",
+            "[ROW] Gangs of Wasseypur | 2012 | — | Assistant director",
+            "[ROW] Luv Shuv Tey Chicken Khurana | 2012 | Young Omi | -",
+            "[ROW] Geek Out | 2013 | Geek | Short film",
+            "[ROW] Bombay Velvet | 2015 | Inspector Basil | -",
+            "[ROW] Masaan | 2015 | Deepak | -",
+            "[ROW] Zubaan | 2015 | Dilsher | -",
+            "[ROW] Raman Raghav 2.0 | 2016 | Raghav Singh | -",
+            "[ROW] Love per Square Foot | 2018 | Sanjay | -",
+            "[ROW] Raazi | 2018 | Iqbal Syed | -",
+            "[ROW] Lust Stories | 2018 | Paras | Karan Johar's segment",
+            "[ROW] Sanju | 2018 | Kamlesh \"Kamli\" Kanhaiyalal Kapasi | -",
+            "[ROW] Manmarziyaan | 2018 | Vicky Sandhu | Also playback singer for song \"F For Fyaar\"",
+            "[ROW] Uri: The Surgical Strike | 2019 | Major Vihaan Singh Shergill | -",
+            "[ROW] Untitled horror film | TBA | TBA | Filming",
+            "[ROW] Sardar Udham Singh | TBA | Udham Singh | Filming"
+        ],
+        "id":12
+    }
+
+    {
+        "Question":"What competitions did Olga Kaniskina win the gold medal?",
+        "Answer":"Olga Kaniskina won the the gold medal at the 2007 World Championships, and the 2008 World Race Walking Cup and the 2008 Beijing Olympics.",
+        "LLM Predicted Knowledge":"The relevant cell information for the given table about Olga Kaniskina's international competitions can be found in the \"Year\", \"Competition\", \"Position\", and \"Event\" columns.   The crucial information includes the following cells:  1. In the \"Year\" column: 2007, 2008 2. In the \"Competition\" column: World Championships, World Race Walking Cup, Olympic Games 3. In the \"Position\" column: 1st 4. In the \"Event\" column: 20 km  This information indicates that Olga Kaniskina won the gold medal at the 2007 World Championships, the 2008 World Race Walking Cup, and the 2008 Beijing Olympics in the 20 km event. ",
+        "Table Title":"Olga Kaniskina|International competitions",
+        "Table Rows":[
+            "[COL] Year | Competition | Venue | Position | Event | Notes",
+            "[ROW] Representing Russia | Representing Russia | Representing Russia | Representing Russia | Representing Russia | Representing Russia",
+            "[ROW] 2005 | European U23 Championships | Erfurt, Germany | 2nd | 20 km | 1:33:33",
+            "[ROW] 2006 | World Race Walking Cup | A Coruña, Spain | 5th | 20 km | 1:28:59",
+            "[ROW] 2006 | European Championships | Gothenburg, Sweden | 2nd | 20 km | 1:28:35",
+            "[ROW] 2007 | European Race Walking Cup | Leamington Spa, Great Britain | 2nd | 20 km | 1:28:13",
+            "[ROW] 2007 | World Championships | Osaka, Japan | 1st | 20 km | 1:30:09",
+            "[ROW] 2008 | World Race Walking Cup | Cheboksary, Russia | 1st | 20 km | 1:25:42 CR",
+            "[ROW] 2008 | Olympic Games | Beijing, China | 1st | 20 km | 1:26:31 OR",
+            "[ROW] 2009 | World Championships | Berlin, Germany | DQ | 20 km | 1:28:09 DQ (Doping)",
+            "[ROW] 2010 | European Championships | Barcelona, Spain | DQ | 20 km | 1:27:44",
+            "[ROW] 2011 | World Championships | Daegu, South Korea | DQ | 20 km | 1:29:42 DQ (Doping)",
+            "[ROW] 2012 | Olympic Games | London, United Kingdom | DQ | 20 km | 1:25:09 DQ (Doping)"
+        ],
+        "id":13
+    }
+
+    {
+        "Question":"What were the three most recent radio stations which Abhilash Thapliyal worked on?",
+        "Answer":"Abhilash Thapliyal worked with 94.3 Radio One, Fever 104 FM and 93.5 Red FM.",
+        "LLM Predicted Knowledge":"According to the given table, the relevant information in the 'Title' column is:  - BIG FM 92.7 Finalist - Radio Tarang - UTV  These are the three most recent radio stations where Abhilash Thapliyal worked. ",
+        "Table Title":"Abhilash Thapliyal|Radio",
+        "Table Rows":[
+            "[COL] Year | Title | Role",
+            "[ROW] 2006 | BIG FM 92.7 Finalist | RJ hunt",
+            "[ROW] 2007 | Radio Tarang | Radio Jockey",
+            "[ROW] 2008-10 | UTV | Voice actor",
+            "[ROW] 2010 | 94.3 Radio One | Creative writer/promo producer",
+            "[ROW] 2010-2015 | Fever 104 FM | Dilli ke Do Dabangg(Radio Jockey)",
+            "[ROW] 2016-2017 | Red FM 93.5 | Jockey"
+        ],
+        "id":14
+    }
+
+    {
+        "Question":"What tv shows was Katerina Shpitsa known in 2009 and 2011?",
+        "Answer":"Katerina Shpitsa is known for Katya: Military Story (TV series 2009) and Brothel Lights (2011).",
+        "LLM Predicted Knowledge":"To answer the question \"What TV shows was Katerina Shpitsa known in 2009 and 2011?\" based on the given table, we should focus on the \"Title\" and \"Year\" columns.   The relevant information from these cells is: - In 2009, Katerina Shpitsa was known for the TV series \"Katya: Military Story\". - In 2011, Katerina Shpitsa was known for the TV series \"Brothel Lights\". ",
+        "Table Title":"Katerina Shpitsa|Filmography",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2005 | Adam and Eve's transformation | Eva | TV",
+            "[ROW] 2006 | Happy Together | Sofia | TV series",
+            "[ROW] 2008 | The Circus Princess | Masha | TV series",
+            "[ROW] 2008 | Blue Night | Olya | TV series",
+            "[ROW] 2009 | Katya: Military Story | Katya Novikova | TV series",
+            "[ROW] 2011 | Laughter in Dark | Magda | Short",
+            "[ROW] 2011 | Brothel Lights | Zinka | -",
+            "[ROW] 2012 | Face of Another | Olga Makarova | TV series",
+            "[ROW] 2012 | Angel Heart | Rita Proskurina | Mini-series",
+            "[ROW] 2013 | Metro | Alisa | -",
+            "[ROW] 2013 | Real Boys | Ira | TV series",
+            "[ROW] 2014 | Kuprin | Lyuba | TV series",
+            "[ROW] 2014 | Poddubny | Masha, beloved of Poddubny | -",
+            "[ROW] 2014 | Gift with character | Nastya Sinitcina | -",
+            "[ROW] 2014 | Funny Boys;) | Anya | -",
+            "[ROW] 2014 | Yolki 1914 | skater Ksenia | -",
+            "[ROW] 2015 | The Young Guard | Lyubov Shevtsova | TV series",
+            "[ROW] 2015 | Bet on Love | Anna | -",
+            "[ROW] 2016 | Yolki 5 | Zhenya | -",
+            "[ROW] 2016 | Breakfast with Daddy | Yulya | -",
+            "[ROW] 2016 | Flight Crew | Vika, stewardess | -",
+            "[ROW] 2016 | What Nobody Can See | Elza | -",
+            "[ROW] 2016 | Friday | Vera | -",
+            "[ROW] 2017 | Sinbad: Pirates of the Seven Storms | Solara (voice) | Animation",
+            "[ROW] 2017 | Graphomaniac | Ksenia | -",
+            "[ROW] 2017 | The Ark | Nino | -",
+            "[ROW] 2018 | The Crimean Bridge. Made with Love! | Varya | -",
+            "[ROW] 2019 | Project 'Gemini' | Jane Rutkowski | -"
+        ],
+        "id":15
+    }
+
+    {
+        "Question":"What role did Sterling Jerins reprise in any of the film sequence that she starred in?",
+        "Answer":"In 2016, Sterling Jerins reprised her role as Judy Warren in the film sequel The Conjuring 2.",
+        "LLM Predicted Knowledge":"Critical information are found in: In the 'Year' column: - 2016 In the 'Role' column: - Judy Warren ",
+        "Table Title":"Sterling Jerins|Film",
+        "Table Rows":[
+            "[COL] Year | Title | Role | Notes",
+            "[ROW] 2013 | Butterflies of Bill Baker | Annie | -",
+            "[ROW] 2013 | World War Z | Constance Lane | -",
+            "[ROW] 2013 | The Conjuring | Judy Warren | -",
+            "[ROW] 2014 | Lullaby | Young Karen | -",
+            "[ROW] 2014 | And So It Goes | Sarah Little | -",
+            "[ROW] 2014 | 5 Flights Up | Zoe | -",
+            "[ROW] 2015 | Dark Places | Young Libby Day | -",
+            "[ROW] 2015 | No Escape | Lucy Dwyer | -",
+            "[ROW] 2016 | Paterson | Young Poet | -",
+            "[ROW] 2016 | The Conjuring 2 | Judy Warren | -",
+            "[ROW] 2017 | Daisy Winters | Daisy Winters | -",
+            "[ROW] 2018 | Boarding School | Christine | -"
+        ],
+        "id":16
+    }
+
+    {
+        "Question":"By what margin of votes  did the BN candidate win the 2007 Ijok by-election, and what was that candidate's name?",
+        "Answer":"The BN candidate, K. Parthiban, won with a majority of 1,850 votes.",
+        "LLM Predicted Knowledge":"The crucial information from the table that answers the question \"By what margin of votes did the BN candidate win the 2007 Ijok by-election, and what was that candidate's name?\" is as follows:  - In the \"Party\" column: \"BN\" represents the BN candidate. - In the \"Candidate\" column: \"K. Parthiban\" is the name of the BN candidate. - In the \"Votes\" column: The BN candidate received \"5,884\" votes. - In the \"Majority\" column: The BN candidate won with a majority of \"1,850\" votes. ",
+        "Table Title":"2007 Ijok by-election|By-election results",
+        "Table Rows":[
+            "[COL] Party | Party | Candidate | Votes | % | ∆%",
+            "[ROW] - | BN | K. Parthiban | 5,884 | 59.33 | + 1.98",
+            "[ROW] - | PKR | Abdul Khalid Ibrahim | 4,034 | 40.67 | + 1.46",
+            "[ROW] Total valid votes | Total valid votes | Total valid votes | 9,918 | 100.00 | -",
+            "[ROW] Total rejected ballots | Total rejected ballots | Total rejected ballots | 134 | - | -",
+            "[ROW] Unreturned ballots | Unreturned ballots | Unreturned ballots | - | - | -",
+            "[ROW] Turnout | Turnout | Turnout | 10,052 | 81.90 | -",
+            "[ROW] Registered electors | Registered electors | Registered electors | 12,272 | - | -",
+            "[ROW] Majority | Majority | Majority | 1,850 | - | -",
+            "[ROW] - | BN hold | BN hold | Swing | Swing | -"
+        ],
+        "id":17
+    }
+
+    {
+        "Question":"What team and league did Guillaume Desbiens appear in the 2005-06 season?",
+        "Answer":"In the 2005–06 season, Guillaume Desbiens appeared for the Chicago Wolves of the AHL and the Gwinnett Gladiators of the ECHL.",
+        "LLM Predicted Knowledge":"The information from crucial table cells is: In the 'Team' column: - Guillaume Desbiens In the 'League' column: - AHL (Chicago Wolves) - ECHL (Gwinnett Gladiators) ",
+        "Table Title":"Guillaume Desbiens|Career statistics",
+        "Table Rows":[
+            "[COL] - | - | - | Regular season | Regular season | Regular season | Regular season | Regular season | Playoffs | Playoffs | Playoffs | Playoffs | Playoffs | - | -",
+            "[ROW] Season | Team | League | - | GP | G | A | Pts | PIM | - | GP | G | A | Pts | PIM",
+            "[ROW] 2001–02 | Rouyn-Noranda Huskies | QMJHL | - | 65 | 14 | 10 | 24 | 115 | - | 4 | 1 | 1 | 2 | 9",
+            "[ROW] 2002–03 | Rouyn-Noranda Huskies | QMJHL | - | 64 | 15 | 18 | 33 | 233 | - | 4 | 0 | 0 | 0 | 4",
+            "[ROW] 2003–04 | Rouyn-Noranda Huskies | QMJHL | - | 58 | 20 | 21 | 41 | 199 | - | 11 | 2 | 2 | 4 | 24",
+            "[ROW] 2004–05 | Rouyn-Noranda Huskies | QMJHL | - | 56 | 27 | 16 | 43 | 206 | - | 10 | 1 | 4 | 5 | 25",
+            "[ROW] 2005–06 | Chicago Wolves | AHL | - | 3 | 0 | 0 | 0 | 7 | - | — | — | — | — | —",
+            "[ROW] 2005–06 | Gwinnett Gladiators | ECHL | - | 65 | 33 | 27 | 60 | 187 | - | 17 | 10 | 6 | 16 | 38",
+            "[ROW] 2006–07 | Chicago Wolves | AHL | - | 54 | 3 | 6 | 9 | 118 | - | 6 | 0 | 1 | 1 | 2",
+            "[ROW] 2007–08 | Chicago Wolves | AHL | - | 23 | 2 | 1 | 3 | 30 | - | 1 | 0 | 1 | 1 | 0",
+            "[ROW] 2007–08 | Gwinnett Gladiators | ECHL | - | 10 | 2 | 5 | 7 | 46 | - | 8 | 3 | 6 | 9 | 10",
+            "[ROW] 2008–09 | Manitoba Moose | AHL | - | 78 | 21 | 26 | 47 | 158 | - | 22 | 4 | 8 | 12 | 18",
+            "[ROW] 2009–10 | Manitoba Moose | AHL | - | 67 | 19 | 15 | 34 | 144 | - | 6 | 3 | 6 | 9 | 17",
+            "[ROW] 2009–10 | Vancouver Canucks | NHL | - | 1 | 0 | 0 | 0 | 2 | - | — | — | — | — | —",
+            "[ROW] 2010–11 | Manitoba Moose | AHL | - | 53 | 11 | 16 | 27 | 104 | - | 13 | 1 | 3 | 4 | 31",
+            "[ROW] 2010–11 | Vancouver Canucks | NHL | - | 12 | 0 | 0 | 0 | 10 | - | — | — | — | — | —",
+            "[ROW] 2011–12 | Abbotsford Heat | AHL | - | 59 | 3 | 11 | 14 | 114 | - | — | — | — | — | —",
+            "[ROW] 2011–12 | Calgary Flames | NHL | - | 10 | 0 | 0 | 0 | 25 | - | — | — | — | — | —",
+            "[ROW] 2012–13 | Chicago Wolves | AHL | - | 52 | 4 | 4 | 8 | 118 | - | — | — | — | — | —",
+            "[ROW] 2013–14 | Lake Erie Monsters | AHL | - | 62 | 8 | 6 | 14 | 200 | - | — | — | — | — | —",
+            "[ROW] 2014–15 | Dornbirner EC | EBEL | - | 53 | 12 | 12 | 24 | 148 | - | — | — | — | — | —",
+            "[ROW] 2015–16 | HDD Olimpija Ljubljana | EBEL | - | 6 | 0 | 0 | 0 | 6 | - | — | — | — | — | —",
+            "[ROW] 2015–16 | Sheffield Steelers | EIHL | - | 29 | 7 | 16 | 23 | 96 | - | 2 | 1 | 0 | 1 | 2",
+            "[ROW] 2016–17 | Sheffield Steelers | EIHL | - | 52 | 8 | 15 | 23 | 130 | - | 4 | 2 | 0 | 2 | 2",
+            "[ROW] NHL totals | NHL totals | NHL totals | - | 23 | 0 | 0 | 0 | 37 | - | — | — | — | — | —"
+        ],
+        "id":18
+    }
+
+    {
+        "Question":"What did Mason Ruffner put out with CD Baby?",
+        "Answer":"Solo albums, Mason Ruffner Live and So Far were released via CD Baby in 2007 and 2008.",
+        "LLM Predicted Knowledge":"The crucial cell information in the table includes:  In the 'Title' column: - Mason Ruffner Live - So Far  In the 'Record label' column: - CD Baby  To answer the question, Mason Ruffner put out the solo albums \"Mason Ruffner Live\" and \"So Far\" with CD Baby in 2007 and 2008. ",
+        "Table Title":"Mason Ruffner|Solo albums",
+        "Table Rows":[
+            "[COL] Year | Title | Record label",
+            "[ROW] 1985 | Mason Ruffner | CBS Records",
+            "[ROW] 1987 | Gypsy Blood | Epic Records",
+            "[ROW] 1997 | Evolution | Archer Records",
+            "[ROW] 1999 | You Can't Win | Burnside Distribution",
+            "[ROW] 2007 | Mason Ruffner Live | CD Baby",
+            "[ROW] 2008 | So Far | CD Baby"
+        ],
+        "id":19
+    }
+
+    {
+        "Question":"Did Ana Camila Pirelli win early in her career representing Paraguay?",
+        "Answer":"In her third competition representing Paraguay, Ana Camila Pirelli won 1st place in the Heptathlon at the South American Youth Championships at Caracas, Venezuela.",
+        "LLM Predicted Knowledge":"The relevant cell information for the given table is as follows:  - In the 'Year' column: 2006, 2007, 2013, 2014, 2018 - In the 'Competition' column: South American Youth Championships, South American Junior Championships, South American U23 Championships / South American Games, Pan American Junior Championships, Pan American Combined Events Championships, South American Championships, South American Under-23 Championships, Pan American Games, Ibero-American Championships, Bolivarian Games, South American Games, World Championships - In the 'Position' column: 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 12th - In the 'Event' column: Shot put, Javelin, Heptathlon, 100 m H, 4×100 m - In the 'Notes' column: 10.54 m, 32.12 m, 4593 pts, 4790 pts, 4873 pts, 4940 pts, 4754 pts, 5118 pts, 5157 pts A, 5479 pts, 5683 pts, 5610 pts, 5733 pts, 5669 pts, 5548 pts, DNF, 5363 pts, 5663 pts, 5748 pts, 13.89 m, 5503 pts, 5879 pts  These cells contain information about the years, competitions, positions, events, and notes of Ana Camila Pirelli's achievements. ",
+        "Table Title":"Ana Camila Pirelli|Achievements",
+        "Table Rows":[
+            "[COL] Year | Competition | Venue | Position | Event | Notes",
+            "[ROW] Representing the Paraguay | Representing the Paraguay | Representing the Paraguay | Representing the Paraguay | Representing the Paraguay | Representing the Paraguay",
+            "[ROW] 2005 | South American Junior Championships | Rosario, Argentina | 9th | Shot put | 10.54 m",
+            "[ROW] 2005 | South American Junior Championships | Rosario, Argentina | 8th | Javelin | 32.12 m",
+            "[ROW] 2006 | South American U23 Championships / South American Games | Buenos Aires, Argentina | 4th | Heptathlon | 4593 pts",
+            "[ROW] 2006 | South American Youth Championships | Caracas, Venezuela | 1st | Heptathlon | 4790 pts",
+            "[ROW] 2007 | South American Junior Championships | Sao Paulo, Brazil | 8th | 100 m H | 15.57 (0.0 m/s)",
+            "[ROW] 2007 | South American Junior Championships | Sao Paulo, Brazil | 7th | 4×100 m | 49.55",
+            "[ROW] 2007 | South American Junior Championships | Sao Paulo, Brazil | 2nd | Heptathlon | 4873 pts",
+            "[ROW] 2007 | Pan American Junior Championships | Sao Paulo, Brazil | 4th | Heptathlon | 4873 pts",
+            "[ROW] 2008 | Pan American Combined Events Championships | Santo Domingo, Dominican Republic | 12th | Heptathlon | 4940 pts",
+            "[ROW] 2009 | South American Championships | Lima, Perú | 5th | Heptathlon | 4754 pts",
+            "[ROW] 2010 | South American Under-23 Championships | Medellín, Colombia | 3rd | Heptathlon | 5118 pts",
+            "[ROW] 2011 | South American Championships | Buenos Aires, Argentina | 4th | Heptathlon | 5115 pts",
+            "[ROW] 2011 | Pan American Games | Guadalajara, México | 9th | Heptathlon | 5157 pts A",
+            "[ROW] 2012 | Ibero-American Championships | Barquisimeto, Venezuela | 5th | Heptathlon | 5479 pts",
+            "[ROW] 2013 | Pan American Combined Events Cup | Ottawa, Canada | 2nd | Heptathlon | 5683 pts",
+            "[ROW] 2013 | South American Championships | Cartagena, Colombia | 2nd | Heptathlon | 5610 pts",
+            "[ROW] 2013 | Bolivarian Games | Trujillo, Perú | 6th | 100 m H | 14.15 (+0.1 m/s)",
+            "[ROW] 2013 | Bolivarian Games | Trujillo, Perú | 1st | Heptathlon | 5733 pts",
+            "[ROW] 2014 | South American Games | Santiago, Chile | 1st | Heptathlon | 5669 pts",
+            "[ROW] 2014 | Pan American Combined Events Cup | Ottawa, Canada | 7th | Heptathlon | 5548 pts",
+            "[ROW] 2014 | Ibero-American Championships | São Paulo, Brazil | – | Heptathlon | DNF",
+            "[ROW] 2015 | South American Championships | Lima, Peru | 5th | Heptathlon | 5363 pts",
+            "[ROW] 2015 | Pan American Games | Toronto, Canada | 9th | Heptathlon | 5663 pts",
+            "[ROW] 2015 | World Championships | Beijing, China | 35th (h) | 100 m H | 14.09",
+            "[ROW] 2016 | Ibero-American Championships | Rio de Janeiro, Brazil | 3rd | Heptathlon | 5748 pts",
+            "[ROW] 2017 | South American Championships | Asunción, Paraguay | 5th | Shot put | 13.89 m",
+            "[ROW] 2018 | South American Games | Cochabamba, Bolivia | 3rd | Heptathlon | 5503 pts",
+            "[ROW] 2018 | Ibero-American Championships | Trujillo, Peru | 1st | Heptathlon | 5879 pts"
+        ],
+        "id":20
+    }

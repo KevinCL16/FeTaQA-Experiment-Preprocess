@@ -1,0 +1,2509 @@
+[
+
+    {
+        "Question":"What has Fyodor Yurchikhin accomplished in the cumulative spacewalk?",
+        "Ground Truth":"Yurchikhin has a cumulative spacewalk record of 59 hours, 28 minutes during his 9 spacewalks.",
+        "Prediction_1":"fyodor yurchikhin has completed a cumulative spacewalk in 59:28 hours.",
+        "Prediction_2":"fyodor yurchikhin is the fifth rsa astronaut to complete a cumulative spacewalk in 59:28 hours.",
+        "Prediction_3":"Fyodor Yurchikhin has accomplished 9 spacewalks with a total time of 59 hours and 28 minutes. ",
+        "Table Column":[
+            "Number",
+            "Astronaut",
+            "Agency",
+            "Total EVAs",
+            "Total Time Hours:Minutes"
+        ],
+        "Table Rows":[
+            [
+                "1",
+                "Anatoly Solovyev",
+                "RSA",
+                "16",
+                "82:22 (3 days, 10 hours, 22 minutes)"
+            ],
+            [
+                "2",
+                "Michael Lopez-Alegria",
+                "NASA",
+                "10",
+                "67:40"
+            ],
+            [
+                "3",
+                "Andrew J. Feustel",
+                "NASA",
+                "9",
+                "61:48"
+            ],
+            [
+                "4",
+                "Peggy Whitson",
+                "NASA",
+                "10",
+                "60:21"
+            ],
+            [
+                "5",
+                "Fyodor Yurchikhin",
+                "RSA",
+                "9",
+                "59:28"
+            ],
+            [
+                "6",
+                "Jerry L. Ross",
+                "NASA",
+                "9",
+                "58:32"
+            ],
+            [
+                "7",
+                "John M. Grunsfeld",
+                "NASA",
+                "8",
+                "58:30"
+            ],
+            [
+                "8",
+                "Richard Mastracchio",
+                "NASA",
+                "9",
+                "53:04"
+            ],
+            [
+                "9",
+                "Sunita Williams",
+                "NASA",
+                "7",
+                "50:40"
+            ],
+            [
+                "10",
+                "Steven L. Smith",
+                "NASA",
+                "7",
+                "49:48"
+            ],
+            [
+                "11",
+                "Michael Fincke",
+                "NASA",
+                "9",
+                "48:37"
+            ],
+            [
+                "12",
+                "Michael E. Fossum",
+                "NASA",
+                "7",
+                "48:32"
+            ],
+            [
+                "13",
+                "Stephen G. Bowen",
+                "NASA",
+                "7",
+                "47:18"
+            ],
+            [
+                "14",
+                "Scott E. Parazynski",
+                "NASA",
+                "7",
+                "47:05"
+            ],
+            [
+                "15",
+                "Joseph R. Tanner",
+                "NASA",
+                "7",
+                "46:29"
+            ],
+            [
+                "16",
+                "Robert L. Curbeam",
+                "NASA",
+                "7",
+                "45:34"
+            ],
+            [
+                "17",
+                "Nikolai Budarin",
+                "RSA",
+                "8",
+                "44:25"
+            ],
+            [
+                "18",
+                "Douglas H. Wheelock",
+                "NASA",
+                "6",
+                "43:30"
+            ],
+            [
+                "19",
+                "James H. Newman",
+                "NASA",
+                "6",
+                "43:13"
+            ],
+            [
+                "20",
+                "Yuri Onufrienko",
+                "RSA",
+                "8",
+                "42:33"
+            ],
+            [
+                "21",
+                "Richard Linnehan",
+                "NASA",
+                "6",
+                "42:11"
+            ],
+            [
+                "22",
+                "David Wolf",
+                "NASA",
+                "7",
+                "41:17"
+            ],
+            [
+                "23",
+                "Talgat Musabayev",
+                "RSA",
+                "7",
+                "41:13"
+            ],
+            [
+                "24",
+                "Piers Sellers",
+                "NASA",
+                "6",
+                "41:10"
+            ],
+            [
+                "25",
+                "Sergei Krikalev",
+                "RSA",
+                "8",
+                "41:08"
+            ],
+            [
+                "26",
+                "Sergei Avdeyev",
+                "RSA",
+                "8",
+                "41:00"
+            ],
+            [
+                "27",
+                "Daniel M. Tani",
+                "NASA",
+                "6",
+                "39:11"
+            ],
+            [
+                "28",
+                "Robert S. Kimbrough",
+                "NASA",
+                "6",
+                "39:00"
+            ],
+            [
+                "29",
+                "Gennady Padalka",
+                "RSA",
+                "10 (8 EVAs \\ 2 IVAs)",
+                "38:35 (37:55 at EVAs)"
+            ],
+            [
+                "30",
+                "Clayton Anderson",
+                "NASA",
+                "6",
+                "38:28"
+            ]
+        ],
+        "id":1
+    },
+
+    {
+        "Question":"What was Richards-Ross personal record for the 400m event during the London Olympics? ",
+        "Ground Truth":"At the 2012 London Olympics, Richards-Ross finished the 400m in 49.55 and won the gold medal.",
+        "Prediction_1":"at the london olympics, richards-ross ran a personal best of 49.53 seconds in the 400 m event.",
+        "Prediction_2":"at the london olympics, richards-ross ran a personal best of 49.48 seconds in the 400 m.",
+        "Prediction_3":"Sanya Richards-Ross' personal record for the 400m event during the London Olympics was 49.55 seconds. ",
+        "Table Column":[
+            "Year",
+            "Competition",
+            "Venue",
+            "Position",
+            "Event",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "Representing the United States",
+                "Representing the United States",
+                "Representing the United States",
+                "Representing the United States",
+                "Representing the United States",
+                "Representing the United States"
+            ],
+            [
+                "2002",
+                "World Junior Championships",
+                "Kingston, Jamaica",
+                "3rd",
+                "200m",
+                "23.09 (wind: -0.2 m/s)"
+            ],
+            [
+                "2002",
+                "World Junior Championships",
+                "Kingston, Jamaica",
+                "2nd",
+                "400m",
+                "51.49"
+            ],
+            [
+                "2002",
+                "World Junior Championships",
+                "Kingston, Jamaica",
+                "3rd (h)",
+                "4 × 400 m relay",
+                "3:35.84"
+            ],
+            [
+                "2003",
+                "World Championships",
+                "Paris, France",
+                "11th (sf)",
+                "400 m",
+                "51.32"
+            ],
+            [
+                "2003",
+                "World Championships",
+                "Paris, France",
+                "1st",
+                "4 × 400 m relay",
+                "3:22.63"
+            ],
+            [
+                "2004",
+                "Olympic Games",
+                "Athens, Greece",
+                "6th",
+                "400 m",
+                "50.19"
+            ],
+            [
+                "2005",
+                "World Championships",
+                "Helsinki, Finland",
+                "2nd",
+                "400 m",
+                "49.74"
+            ],
+            [
+                "2005",
+                "World Athletics Final",
+                "Monaco",
+                "1st",
+                "400 m",
+                "49.52"
+            ],
+            [
+                "2006",
+                "World Indoor Championships",
+                "Moscow, Russia",
+                "9th (sf)",
+                "400 m",
+                "52.46"
+            ],
+            [
+                "2006",
+                "World Athletics Final",
+                "Stuttgart, Germany",
+                "2nd",
+                "200 m",
+                "22.17"
+            ],
+            [
+                "2006",
+                "World Athletics Final",
+                "Stuttgart, Germany",
+                "1st",
+                "400 m",
+                "49.25"
+            ],
+            [
+                "2006",
+                "World Cup",
+                "Athens, Greece",
+                "1st",
+                "400 m",
+                "48.70"
+            ],
+            [
+                "2006",
+                "World Cup",
+                "Athens, Greece",
+                "1st",
+                "200 m",
+                "22.23"
+            ],
+            [
+                "2007",
+                "World Championships",
+                "Osaka, Japan",
+                "5th",
+                "200 m",
+                "22.70"
+            ],
+            [
+                "2007",
+                "World Championships",
+                "Osaka, Japan",
+                "1st",
+                "4 × 400 m relay",
+                "3:18.55"
+            ],
+            [
+                "2008",
+                "Olympic Games",
+                "Beijing, China",
+                "3rd",
+                "400 m",
+                "49.93"
+            ],
+            [
+                "2008",
+                "Olympic Games",
+                "Beijing, China",
+                "1st",
+                "4 × 400 m relay",
+                "3:18.54"
+            ],
+            [
+                "2009",
+                "World Championships",
+                "Berlin, Germany",
+                "1st",
+                "400m",
+                "49.00"
+            ],
+            [
+                "2009",
+                "World Championships",
+                "Berlin, Germany",
+                "1st",
+                "4 × 400 m relay",
+                "3:17.83"
+            ],
+            [
+                "2011",
+                "World Championships",
+                "Daegu, South Korea",
+                "7th",
+                "400 m",
+                "51.32"
+            ],
+            [
+                "2011",
+                "World Championships",
+                "Daegu, South Korea",
+                "1st",
+                "4 × 400 m relay",
+                "3:18.09"
+            ],
+            [
+                "2012",
+                "World Indoor Championships",
+                "Istanbul, Turkey",
+                "1st",
+                "400 m",
+                "50.79"
+            ],
+            [
+                "2012",
+                "World Indoor Championships",
+                "Istanbul, Turkey",
+                "2nd",
+                "4 × 400 m relay",
+                "3:28.79"
+            ],
+            [
+                "2012",
+                "Olympic Games",
+                "London, United Kingdom",
+                "5th",
+                "200 m",
+                "22.39"
+            ],
+            [
+                "2012",
+                "Olympic Games",
+                "London, United Kingdom",
+                "1st",
+                "400 m",
+                "49.55"
+            ],
+            [
+                "2012",
+                "Olympic Games",
+                "London, United Kingdom",
+                "1st",
+                "4 × 400 m relay",
+                "3:16.88"
+            ],
+            [
+                "2014",
+                "World Relay Championships",
+                "Nassau, Bahamas",
+                "1st",
+                "4 × 400 m relay",
+                "3:21.73"
+            ],
+            [
+                "2015",
+                "World Relay Championships",
+                "Nassau, Bahamas",
+                "1st",
+                "Distance medley relay",
+                "10:36.50 (WR)"
+            ],
+            [
+                "2015",
+                "World Relay Championships",
+                "Nassau, Bahamas",
+                "1st",
+                "4 × 400 m relay",
+                "3:19.39"
+            ],
+            [
+                "2015",
+                "World Championships",
+                "Beijing, China",
+                "2nd",
+                "4 × 400 m relay",
+                "3:19.44"
+            ]
+        ],
+        "id":2
+    },
+
+    {
+        "Question":"What NAACP image nominations did Tower Heist receive in 2012?",
+        "Ground Truth":"Tower Heist received two NAACP Image Award nominations, for Outstanding Motion Picture and Outstanding Actor in a Motion Picture for Murphy.",
+        "Prediction_1":"tower heist received two naacp image award nominations for outstanding motion picture and outstanding actor in a motion picture in 2012.",
+        "Prediction_2":"tower heist received two naacp image award nominations for outstanding motion picture and outstanding actor in a motion picture in 2012.",
+        "Prediction_3":"Tower Heist received two NAACP Image Award nominations in 2012. It was nominated for Outstanding Motion Picture and Eddie Murphy was nominated for Outstanding Actor in a Motion Picture. ",
+        "Table Column":[
+            "Year",
+            "Award",
+            "Category",
+            "Recipient",
+            "Result",
+            "Ref."
+        ],
+        "Table Rows":[
+            [
+                "2012",
+                "NAACP Image Award",
+                "Outstanding Motion Picture",
+                "Tower Heist",
+                "Nominated",
+                "-"
+            ],
+            [
+                "2012",
+                "NAACP Image Award",
+                "Outstanding Actor in a Motion Picture",
+                "Eddie Murphy",
+                "Nominated",
+                "-"
+            ]
+        ],
+        "id":3
+    },
+
+    {
+        "Question":"What year did Lucie Jones appear in Like Me and which role did she play?",
+        "Ground Truth":"In 2015, Lucie Jones played the role of Emma in Like Me.",
+        "Prediction_1":"in 2015, lucie jones appeared in like me as emma.",
+        "Prediction_2":"in 2015, lucie jones appeared in like me as emma.",
+        "Prediction_3":"Lucie Jones appeared in \"Like Me\" in the year 2015. The role she played in this production is Emma. ",
+        "Table Column":[
+            "Year",
+            "Title",
+            "Role"
+        ],
+        "Table Rows":[
+            [
+                "2010",
+                "Les Misérables",
+                "Cosette"
+            ],
+            [
+                "2011",
+                "The Prodigals",
+                "Kelly"
+            ],
+            [
+                "2013",
+                "We Will Rock You",
+                "Meat"
+            ],
+            [
+                "2013–14",
+                "American Psycho",
+                "Victoria"
+            ],
+            [
+                "2015",
+                "Broadway to the Bay",
+                "-"
+            ],
+            [
+                "2015",
+                "Like Me",
+                "Emma"
+            ],
+            [
+                "2015",
+                "Ghost the Musical",
+                "Molly"
+            ],
+            [
+                "2016",
+                "Legally Blonde",
+                "Elle Woods"
+            ],
+            [
+                "2016",
+                "Musicals Unsung",
+                "-"
+            ],
+            [
+                "2016–17",
+                "Rent",
+                "Maureen Johnson"
+            ],
+            [
+                "2017",
+                "The Wedding Singer",
+                "Holly"
+            ],
+            [
+                "2017–18",
+                "Legally Blonde",
+                "Elle Woods"
+            ],
+            [
+                "2017",
+                "A Christmas Carol",
+                "Emily/Ghost of Christmas Future"
+            ]
+        ],
+        "id":4
+    },
+
+    {
+        "Question":"Which historic arenas did the Dodgers and Giants play?",
+        "Ground Truth":"The Dodgers and Giants played in the Los Angeles Memorial Coliseum and Seals Stadium.",
+        "Prediction_1":"the dodgers and giants played at the los angeles memorial coliseum in los angeles from 1923 to 1961, and at seals stadium in san francisco from 1931 to 1959.",
+        "Prediction_2":"the dodgers and giants played at the los angeles memorial coliseum and seals stadium.",
+        "Prediction_3":"The Dodgers played in Los Angeles Memorial Coliseum, while the Giants played in Seals Stadium. ",
+        "Table Column":[
+            "Ballpark",
+            "Location",
+            "Team",
+            "Opened",
+            "Closed",
+            "Demo'd",
+            "Current status"
+        ],
+        "Table Rows":[
+            [
+                "Arlington Stadium",
+                "Arlington, Texas",
+                "Rangers",
+                "1965",
+                "1993",
+                "1994",
+                "Now parking for Globe Life Park in Arlington."
+            ],
+            [
+                "Colt Stadium",
+                "Houston",
+                "Colt .45's",
+                "1962",
+                "1964",
+                "1970",
+                "Dismantled and rebuilt in Mexico as Mexican League park."
+            ],
+            [
+                "Jarry Park Stadium",
+                "Montreal",
+                "Expos",
+                "1969",
+                "1976",
+                "1993",
+                "Converted to a tennis venue now known as Stade IGA."
+            ],
+            [
+                "Kansas City Municipal Stadium",
+                "Kansas City, Missouri",
+                "Athletics Royals",
+                "1923",
+                "1972",
+                "1976",
+                "Now a municipal garden."
+            ],
+            [
+                "Los Angeles Memorial Coliseum",
+                "Los Angeles",
+                "Dodgers",
+                "1923",
+                "—",
+                "—",
+                "Active; closed for baseball in 1961. Holds the baseball world record attendance when 115,300 attended a pre-season exhibition game between the Dodgers and Boston Red Sox on March 29, 2008."
+            ],
+            [
+                "Memorial Stadium",
+                "Baltimore",
+                "Orioles",
+                "1950",
+                "1997",
+                "2001",
+                "Now residential."
+            ],
+            [
+                "Metropolitan Stadium",
+                "Bloomington, Minnesota",
+                "Twins",
+                "1956",
+                "1981",
+                "1985",
+                "Now site of the Mall of America."
+            ],
+            [
+                "Mile High Stadium",
+                "Denver",
+                "Rockies",
+                "1948",
+                "2001",
+                "2002",
+                "Originally a minor-league baseball stadium in 1948. Now parking for Broncos Stadium at Mile High."
+            ],
+            [
+                "Seals Stadium",
+                "San Francisco",
+                "Giants",
+                "1931",
+                "1959",
+                "1959",
+                "Now a shopping center."
+            ],
+            [
+                "Sick's Stadium",
+                "Seattle",
+                "Pilots",
+                "1938",
+                "1976",
+                "1979",
+                "Now a Lowe's store."
+            ],
+            [
+                "Wrigley Field",
+                "Los Angeles",
+                "Angels",
+                "1925",
+                "1965",
+                "1966",
+                "Now Gilbert Lindsay Park."
+            ]
+        ],
+        "id":5
+    },
+
+    {
+        "Question":"What did JR Lemon do in 2013?",
+        "Ground Truth":"JR Lemon appeared in the 2012–13 Shadow Love and in 2013 cast in the film playing Oliver in A Madea Christmas.",
+        "Prediction_1":"in 2013, jr lemon played oliver in the film a madea christmas.",
+        "Prediction_2":"in 2013, jr lemon appeared in a madea christmas playing the role of oliver.",
+        "Prediction_3":"In 2013, JR Lemon appeared in the film \"A Madea Christmas\" where he played the role of Oliver. ",
+        "Table Column":[
+            "Year",
+            "Title",
+            "Role",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "2010",
+                "Bad Batch (as J.R. Lemon)",
+                "Jenkins",
+                "film"
+            ],
+            [
+                "2012–2013",
+                "Shadow Love (as J.R. Lemon)",
+                "Amir",
+                "10 episodes"
+            ],
+            [
+                "2013",
+                "A Madea Christmas",
+                "Oliver",
+                "film"
+            ],
+            [
+                "2014",
+                "Hawaii Five-0",
+                "Jordan Lewis",
+                "Episode: \" Ho’oilina \""
+            ],
+            [
+                "2014–2017",
+                "The Night Shift",
+                "Nurse Kenny Fournette",
+                "Main cast, 45 episodes"
+            ],
+            [
+                "2015",
+                "Whitney",
+                "Reporter",
+                "TV movie"
+            ]
+        ],
+        "id":6
+    },
+
+    {
+        "Question":"Which films did Sam Quartin star in 2017?",
+        "Ground Truth":"In 2017, Sam Quartin starred in the John Swab and Corey Asraf's movie \"Let Me Make You a Martyr\" as June Glass followed by the Living the Gimmick \"The Great American Unwashed\", as Trixie in the same year.",
+        "Prediction_1":"in 2017, sam quartin starred in the film let me make you a doll and in the short film the exurbs.",
+        "Prediction_2":"in 2017, sam quartin starred in the short film the exurbs and in the feature film let me make you a doll.",
+        "Prediction_3":"Sam Quartin starred in the following films in 2017: \"Let Me Make You a Martyr\" and \"Living the Gimmick: The Great American Unwashed.\" ",
+        "Table Column":[
+            "Year",
+            "Title",
+            "Role",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "2011",
+                "I am alive (short fim)",
+                "Girl at the Casting 3",
+                "Dir: A. James Marcolin"
+            ],
+            [
+                "2012",
+                "Adam (short fim)",
+                "Scene girl",
+                "Dir: Augustin Doublet"
+            ],
+            [
+                "2013",
+                "Hairbrained (short fim)",
+                "Student (uncredited)",
+                "Dir: Billy Kent"
+            ],
+            [
+                "2013",
+                "We Kid (short film)",
+                "Marion",
+                "Dir: Ruscen Vidinliev"
+            ],
+            [
+                "2014",
+                "The Heart Machine",
+                "Virginia's Doppelganger",
+                "Dir: Zachary Wigon"
+            ],
+            [
+                "2014",
+                "Judas' Chariot (short film)",
+                "June Glass",
+                "John Swab"
+            ],
+            [
+                "2014",
+                "Mirror & Missal: Part 1 - The Magical Women of Echo Park",
+                "The Poet",
+                "Dir: Emett Casey"
+            ],
+            [
+                "2014",
+                "The Exurbs (short fim)",
+                "Scene girl",
+                "Dir: Justin Linton"
+            ],
+            [
+                "2014",
+                "Heart of Winter (music video)",
+                "performer",
+                "Dir: Wade Jackson )."
+            ],
+            [
+                "2015",
+                "Mona (Short film)",
+                "Van",
+                "Dir: Jocelyn Jacobs"
+            ],
+            [
+                "2015",
+                "Noah and the Band (Short film)",
+                "Sam",
+                "Dir: Chloe Jury-Fogel"
+            ],
+            [
+                "2016",
+                "NY84",
+                "Kate Jones",
+                "Dir: Cyril Morin"
+            ],
+            [
+                "2016",
+                "I will see you (music video)",
+                "performer",
+                "Dir: Cyril Morin"
+            ],
+            [
+                "2016",
+                "Run Run Run (music video)",
+                "performer",
+                "Dir: Cyril Morin"
+            ],
+            [
+                "2016",
+                "The Sleepers (short film)",
+                "Lily",
+                "Dir: Joe Lueben"
+            ],
+            [
+                "2016",
+                "Aimy in a Cage",
+                "Dr. Issie",
+                "Dir: Hooroo Jackson"
+            ],
+            [
+                "2017",
+                "Let Me Make You a Martyr",
+                "June Glass",
+                "Dir: Corey Aswaf and John Swab"
+            ],
+            [
+                "2017",
+                "Living the Gimmick: The Great American Unwashed",
+                "Trixie",
+                "Dir: Gore Abrams and John Swab"
+            ],
+            [
+                "2018",
+                "By the Rivers of Babylon",
+                "Holly",
+                "Dir: Albert Sandoval"
+            ],
+            [
+                "2018",
+                "Fantasy prone (short film)",
+                "Mary Ann",
+                "Dir: Jessica L. Catalano"
+            ],
+            [
+                "2018",
+                "Stale Ramen",
+                "Paola",
+                "Dir: JacQues Olet"
+            ]
+        ],
+        "id":7
+    },
+
+    {
+        "Question":"How many votes did democrats Brenda Jones and Tliab receive and who finished second?",
+        "Ground Truth":"Tlaib finished second to Democrat Brenda Jones, who received 32,727 votes (37.7% of the total) to Tlaib's 31,084 (35.9%).",
+        "Prediction_1":"democrats brenda jones and rashida tlaib received 32,727 and 31,084 votes, with tlaib finishing second.",
+        "Prediction_2":"democrats brenda jones and rashida tlaib received 32,727 and 31,084 votes, respectively.",
+        "Prediction_3":"In the electoral history table, Brenda Jones received 32,727 votes and Rashida Tlaib received 31,084 votes. They both are Democrats. However, it is not mentioned in the table who finished second. ",
+        "Table Column":[
+            "Party",
+            "Party",
+            "Candidate",
+            "Votes",
+            "%"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "Democratic",
+                "Brenda Jones",
+                "32,727",
+                "37.7"
+            ],
+            [
+                "-",
+                "Democratic",
+                "Rashida Tlaib",
+                "31,084",
+                "35.9"
+            ],
+            [
+                "-",
+                "Democratic",
+                "Bill Wild",
+                "13,152",
+                "15.2"
+            ],
+            [
+                "-",
+                "Democratic",
+                "Ian Conyers",
+                "9,740",
+                "11.2"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "Total votes",
+                "86,703",
+                "100.0"
+            ]
+        ],
+        "id":8
+    },
+
+    {
+        "Question":"Did \"The Presets\" win any award?",
+        "Ground Truth":"The Presets won Best Live Act in the mix Awards for 2012.",
+        "Prediction_1":"the presets won the in the mix award for best live act in 2012.",
+        "Prediction_2":"the presets won best video (kris moyes) in 2006 and best live act in 2012.",
+        "Prediction_3":"Yes, \"The Presets\" won awards in the category of Best Video and Best Live Act at the In the Mix Awards. ",
+        "Table Column":[
+            "Year",
+            "Nominee / work",
+            "Award",
+            "Result"
+        ],
+        "Table Rows":[
+            [
+                "2006",
+                "\"Are You the One?\"",
+                "Best Video (Kris Moyes)",
+                "Won"
+            ],
+            [
+                "2012",
+                "The Presets",
+                "Best Live Act",
+                "Won"
+            ],
+            [
+                "2013",
+                "The Presets",
+                "Best Live Act",
+                "Nominated"
+            ]
+        ],
+        "id":9
+    },
+
+    {
+        "Question":"Who were the winner and runner up in the 2016 presidential election in New Jersey?",
+        "Ground Truth":"The 2016 United States presidential election in New Jersey was won by Hillary Clinton with 55.5% of the vote over Donald Trump's 41.35%.",
+        "Prediction_1":"new jersey was won by hillary clinton with 55.45% of the vote against donald trump with 41.35 percent of the vote.",
+        "Prediction_2":"the 2016 united states presidential election in new jersey was won by hillary clinton with 55.45% of the popular vote, against donald trump with 41.35 percent of the popular vote.",
+        "Prediction_3":"The winner of the 2016 presidential election in New Jersey was Hillary Clinton from the Democratic Party, and the runner up was Donald Trump from the Republican Party. ",
+        "Table Column":[
+            "Party",
+            "Party",
+            "Candidate",
+            "Votes",
+            "%",
+            "±"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "Democratic",
+                "Hillary Clinton",
+                "2,148,278",
+                "55.45%",
+                "-"
+            ],
+            [
+                "-",
+                "Republican",
+                "Donald Trump",
+                "1,601,933",
+                "41.35%",
+                "-"
+            ],
+            [
+                "-",
+                "Libertarian",
+                "Gary Johnson",
+                "72,477",
+                "1.87%",
+                "-"
+            ],
+            [
+                "-",
+                "Green",
+                "Jill Stein",
+                "37,772",
+                "0.98%",
+                "-"
+            ],
+            [
+                "-",
+                "Constitution",
+                "Darrell Castle",
+                "6,161",
+                "0.16%",
+                "-"
+            ],
+            [
+                "-",
+                "Socialist Workers",
+                "Alyson Kennedy",
+                "2,156",
+                "0.06%",
+                "-"
+            ],
+            [
+                "-",
+                "American Delta Party",
+                "Rocky De La Fuente",
+                "1,838",
+                "0.05%",
+                "-"
+            ],
+            [
+                "-",
+                "Workers World",
+                "Monica Moorehead",
+                "1,749",
+                "0.05%",
+                "-"
+            ],
+            [
+                "-",
+                "Socialism and Liberation",
+                "Gloria La Riva",
+                "1,682",
+                "0.04%",
+                "-"
+            ],
+            [
+                "Majority",
+                "Majority",
+                "Majority",
+                "546,345",
+                "14.10%",
+                "-"
+            ],
+            [
+                "Turnout",
+                "Turnout",
+                "Turnout",
+                "3,874,046",
+                "-",
+                "-"
+            ]
+        ],
+        "id":10
+    },
+
+    {
+        "Question":"Which league and club was Chikayuki playing for in 1995?",
+        "Ground Truth":"Chikayuki Mochizuki joined Japan Football League club, Kyoto Purple Sanga in 1995.",
+        "Prediction_1":"in 1995, chikayuki mochizuki played for kyoto purple sanga in japan football league.",
+        "Prediction_2":"chikayuki mochizuki joined kyoto purple sanga in the japan football league in 1995.",
+        "Prediction_3":"Chikayuki Mochizuki was playing for the Kyoto Purple Sanga in the Football League in 1995. ",
+        "Table Column":[
+            "Club performance",
+            "Club performance",
+            "Club performance",
+            "League",
+            "League",
+            "Cup",
+            "Cup",
+            "League Cup",
+            "League Cup",
+            "Total",
+            "Total"
+        ],
+        "Table Rows":[
+            [
+                "Season",
+                "Club",
+                "League",
+                "Apps",
+                "Goals",
+                "Apps",
+                "Goals",
+                "Apps",
+                "Goals",
+                "Apps",
+                "Goals"
+            ],
+            [
+                "Japan",
+                "Japan",
+                "Japan",
+                "League",
+                "League",
+                "Emperor's Cup",
+                "Emperor's Cup",
+                "J.League Cup",
+                "J.League Cup",
+                "Total",
+                "Total"
+            ],
+            [
+                "1995",
+                "Kyoto Purple Sanga",
+                "Football League",
+                "8",
+                "2",
+                "1",
+                "0",
+                "-",
+                "-",
+                "9",
+                "2"
+            ],
+            [
+                "1996",
+                "Kyoto Purple Sanga",
+                "J1 League",
+                "11",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "11",
+                "0"
+            ],
+            [
+                "Country",
+                "Japan",
+                "Japan",
+                "19",
+                "2",
+                "1",
+                "0",
+                "0",
+                "0",
+                "20",
+                "2"
+            ],
+            [
+                "Total",
+                "Total",
+                "Total",
+                "19",
+                "2",
+                "1",
+                "0",
+                "0",
+                "0",
+                "20",
+                "2"
+            ]
+        ],
+        "id":11
+    },
+
+    {
+        "Question":"Did Alicia Keys collaborate with Jack White on any songs?",
+        "Ground Truth":"In 2008, Keys collaborated with Jack White on \"Another Way to Die\", for Quantum of Solace.",
+        "Prediction_1":"alicia keys collaborated with jack white on the songs \"you don't know my name\" and \"every little bit hurts\".",
+        "Prediction_2":"alicia keys collaborated with jack white on the songs \"you don't know my name\", \"every little bit hurts\", and \"like you'll never see me again\".",
+        "Prediction_3":"Yes, Alicia Keys collaborated with Jack White on the song \"Another Way to Die\". ",
+        "Table Column":[
+            "Title",
+            "Other performer(s)",
+            "Director(s)",
+            "Album",
+            "Year",
+            "Ref."
+        ],
+        "Table Rows":[
+            [
+                "\"Fallin'\"",
+                "N/A",
+                "Chris Robinson",
+                "Songs in A Minor",
+                "2001",
+                "-"
+            ],
+            [
+                "\"A Woman's Worth\"",
+                "N/A",
+                "Chris Robinson",
+                "Songs in A Minor",
+                "2001",
+                "-"
+            ],
+            [
+                "\"How Come You Don't Call Me\"",
+                "N/A",
+                "Little X",
+                "Songs in A Minor",
+                "2002",
+                "-"
+            ],
+            [
+                "\"Girlfriend\"",
+                "N/A",
+                "Patrick Hoelck",
+                "Songs in A Minor",
+                "2002",
+                "-"
+            ],
+            [
+                "\"You Don't Know My Name\"",
+                "N/A",
+                "Chris Robinson",
+                "The Diary of Alicia Keys",
+                "2003",
+                "-"
+            ],
+            [
+                "\"If I Ain't Got You\"",
+                "N/A",
+                "Diane Martel",
+                "The Diary of Alicia Keys",
+                "2004",
+                "-"
+            ],
+            [
+                "\"Diary\"",
+                "Tony! Toni! Toné! Jermaine Paul",
+                "Lamont Burrell Rod Isaacs Jeff Robinson Brian Campbell",
+                "The Diary of Alicia Keys",
+                "2004",
+                "-"
+            ],
+            [
+                "\"My Boo\"",
+                "Usher",
+                "Chris Robinson Usher",
+                "Confessions",
+                "2004",
+                "-"
+            ],
+            [
+                "\"Karma\"",
+                "N/A",
+                "Chris Robinson Alicia Keys",
+                "The Diary of Alicia Keys",
+                "2004",
+                "-"
+            ],
+            [
+                "\"Unbreakable\"",
+                "N/A",
+                "Alex Coletti",
+                "Unplugged",
+                "2005",
+                "-"
+            ],
+            [
+                "\"Every Little Bit Hurts\"",
+                "N/A",
+                "Justin Francis",
+                "Unplugged",
+                "2006",
+                "-"
+            ],
+            [
+                "\"No One\"",
+                "N/A",
+                "Justin Francis",
+                "As I Am",
+                "2007",
+                "-"
+            ],
+            [
+                "\"Like You'll Never See Me Again\"",
+                "N/A",
+                "Diane Martel",
+                "As I Am",
+                "2007",
+                "-"
+            ],
+            [
+                "\"Teenage Love Affair\"",
+                "N/A",
+                "Chris Robinson",
+                "As I Am",
+                "2008",
+                "-"
+            ],
+            [
+                "\"Superwoman\"",
+                "N/A",
+                "Chris Robinson",
+                "As I Am",
+                "2008",
+                "-"
+            ],
+            [
+                "\"Another Way to Die\"",
+                "Jack White",
+                "P. R. Brown MK12",
+                "Quantum of Solace",
+                "2008",
+                "-"
+            ],
+            [
+                "\"Empire State of Mind\"",
+                "Jay Z",
+                "Hype Williams",
+                "The Blueprint 3",
+                "2009",
+                "-"
+            ],
+            [
+                "\"Doesn't Mean Anything\"",
+                "N/A",
+                "P. R. Brown",
+                "The Element of Freedom",
+                "2009",
+                "-"
+            ],
+            [
+                "\"Try Sleeping with a Broken Heart\"",
+                "N/A",
+                "Syndrome",
+                "The Element of Freedom",
+                "2009",
+                "-"
+            ],
+            [
+                "\"Un-Thinkable (I'm Ready)\"",
+                "N/A",
+                "Jake Nava",
+                "The Element of Freedom",
+                "2010",
+                "-"
+            ],
+            [
+                "\"Wait Til You See My Smile\"",
+                "N/A",
+                "Scott Orr",
+                "The Element of Freedom",
+                "2010",
+                "-"
+            ],
+            [
+                "\"Girl on Fire\"",
+                "Nicki Minaj",
+                "Sophie Muller",
+                "Girl on Fire",
+                "2012",
+                "-"
+            ],
+            [
+                "\"Girl on Fire\" (Japanese version)",
+                "N/A",
+                "Mika Ninagawa",
+                "N/A",
+                "2012",
+                "-"
+            ],
+            [
+                "\"Brand New Me\"",
+                "N/A",
+                "Diane Martel",
+                "Girl on Fire",
+                "2012",
+                "-"
+            ],
+            [
+                "\"Fire We Make\"",
+                "Maxwell",
+                "Chris Robinson",
+                "Girl on Fire",
+                "2013",
+                "-"
+            ],
+            [
+                "\"New Day\"",
+                "N/A",
+                "Indrani",
+                "Girl on Fire",
+                "2013",
+                "-"
+            ],
+            [
+                "\"Tears Always Win\"",
+                "N/A",
+                "Robert Hales",
+                "Girl on Fire",
+                "2013",
+                "-"
+            ],
+            [
+                "\"It's On Again\"",
+                "Kendrick Lamar",
+                "Rich Lee",
+                "The Amazing Spider-Man 2",
+                "2014",
+                "-"
+            ],
+            [
+                "\"We Are Here\"",
+                "N/A",
+                "Sol Guy",
+                "N/A",
+                "2014",
+                "-"
+            ],
+            [
+                "\"In Common\"",
+                "N/A",
+                "Pierre Debusschere",
+                "Here",
+                "2016",
+                "-"
+            ],
+            [
+                "\"Blended Family (What You Do for Love)\"",
+                "ASAP Rocky",
+                "Hype Williams",
+                "Here",
+                "2016",
+                "-"
+            ],
+            [
+                "\"That's What's Up\"",
+                "N/A",
+                "N/A",
+                "N/A",
+                "2017",
+                "-"
+            ],
+            [
+                "\"Raise a Man\"",
+                "N/A",
+                "Bill Kristein",
+                "N/A",
+                "2019",
+                "-"
+            ]
+        ],
+        "id":12
+    },
+
+    {
+        "Question":"What was the second club Cliff Carr played for and how many appearances did he make for them?",
+        "Ground Truth":"Cliff Carr made a total of 143 appearances for Stoke City, where he played after leaving his first club Fulham.",
+        "Prediction_1":"cliff carr made 124 appearances for stoke city.",
+        "Prediction_2":"cliff carr played for stoke city, where he made 124 appearances.",
+        "Prediction_3":"The second club that Cliff Carr played for was Stoke City. He made 124 appearances for them. ",
+        "Table Column":[
+            "Club",
+            "Season",
+            "League",
+            "League",
+            "League",
+            "FA Cup",
+            "FA Cup",
+            "League Cup",
+            "League Cup",
+            "Other",
+            "Other",
+            "Total",
+            "Total"
+        ],
+        "Table Rows":[
+            [
+                "Club",
+                "Season",
+                "Division",
+                "Apps",
+                "Goals",
+                "Apps",
+                "Goals",
+                "Apps",
+                "Goals",
+                "Apps",
+                "Goals",
+                "Apps",
+                "Goals"
+            ],
+            [
+                "Fulham",
+                "1982–83",
+                "Second Division",
+                "6",
+                "1",
+                "0",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "7",
+                "1"
+            ],
+            [
+                "Fulham",
+                "1983–84",
+                "Second Division",
+                "41",
+                "4",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "48",
+                "4"
+            ],
+            [
+                "Fulham",
+                "1984–85",
+                "Second Division",
+                "38",
+                "4",
+                "1",
+                "0",
+                "3",
+                "1",
+                "0",
+                "0",
+                "42",
+                "5"
+            ],
+            [
+                "Fulham",
+                "1985–86",
+                "Second Division",
+                "35",
+                "4",
+                "1",
+                "0",
+                "4",
+                "1",
+                "2",
+                "0",
+                "42",
+                "5"
+            ],
+            [
+                "Fulham",
+                "1986–87",
+                "Third Division",
+                "25",
+                "1",
+                "0",
+                "0",
+                "0",
+                "0",
+                "2",
+                "0",
+                "27",
+                "1"
+            ],
+            [
+                "Fulham",
+                "Total",
+                "Total",
+                "145",
+                "14",
+                "4",
+                "0",
+                "13",
+                "2",
+                "4",
+                "0",
+                "166",
+                "16"
+            ],
+            [
+                "Stoke City",
+                "1987–88",
+                "Second Division",
+                "41",
+                "0",
+                "2",
+                "0",
+                "3",
+                "0",
+                "4",
+                "0",
+                "50",
+                "0"
+            ],
+            [
+                "Stoke City",
+                "1988–89",
+                "Second Division",
+                "41",
+                "1",
+                "3",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "46",
+                "1"
+            ],
+            [
+                "Stoke City",
+                "1989–90",
+                "Second Division",
+                "22",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "2",
+                "0",
+                "25",
+                "0"
+            ],
+            [
+                "Stoke City",
+                "1990–91",
+                "Third Division",
+                "20",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "22",
+                "0"
+            ],
+            [
+                "Stoke City",
+                "Total",
+                "Total",
+                "124",
+                "1",
+                "6",
+                "0",
+                "5",
+                "0",
+                "8",
+                "0",
+                "143",
+                "1"
+            ],
+            [
+                "Shrewsbury Town",
+                "1991–92",
+                "Third Division",
+                "1",
+                "1",
+                "0",
+                "0",
+                "1",
+                "1",
+                "0",
+                "0",
+                "2",
+                "2"
+            ],
+            [
+                "Mansfield Town",
+                "1991–92",
+                "Fourth Division",
+                "20",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "2",
+                "0",
+                "22",
+                "0"
+            ],
+            [
+                "Chesterfield",
+                "1992–93",
+                "Third Division",
+                "42",
+                "1",
+                "2",
+                "0",
+                "4",
+                "0",
+                "5",
+                "0",
+                "53",
+                "1"
+            ],
+            [
+                "Chesterfield",
+                "1993–94",
+                "Third Division",
+                "23",
+                "0",
+                "1",
+                "0",
+                "4",
+                "0",
+                "1",
+                "0",
+                "29",
+                "0"
+            ],
+            [
+                "Chesterfield",
+                "Total",
+                "Total",
+                "65",
+                "1",
+                "3",
+                "0",
+                "8",
+                "0",
+                "6",
+                "0",
+                "82",
+                "1"
+            ],
+            [
+                "Career Total",
+                "Career Total",
+                "Career Total",
+                "355",
+                "17",
+                "13",
+                "0",
+                "27",
+                "3",
+                "20",
+                "0",
+                "415",
+                "20"
+            ]
+        ],
+        "id":13
+    },
+
+    {
+        "Question":"Who were the last two finishers of the at the 2012 Summer Olympics for the Women's 200 metre backstroke?",
+        "Ground Truth":"France's Alexianne Castel (2:08.43) and Canada's Sinead Russell (2:09.86) closed out the championship field.",
+        "Prediction_1":"in swimming at the 2012 summer olympics – women's 200 metre backstroke, anastasia zuyeva and sinead russell finished in 2:05.92 and 2:09.86 respectively.",
+        "Prediction_2":"alexianne castel and sinead russell were the last two swimmers in the women's 200 metre backstroke event at the 2012 summer olympics.",
+        "Prediction_3":"The last two finishers at the 2012 Summer Olympics for the Women's 200 meter backstroke were Kirsty Coventry from Zimbabwe and Alexianne Castel from France. ",
+        "Table Column":[
+            "Rank",
+            "Lane",
+            "Name",
+            "Nationality",
+            "Time",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "5",
+                "Missy Franklin",
+                "United States",
+                "2:04.06",
+                "WR"
+            ],
+            [
+                "-",
+                "6",
+                "Anastasia Zuyeva",
+                "Russia",
+                "2:05.92",
+                "-"
+            ],
+            [
+                "-",
+                "4",
+                "Elizabeth Beisel",
+                "United States",
+                "2:06.55",
+                "-"
+            ],
+            [
+                "4",
+                "1",
+                "Elizabeth Simmonds",
+                "Great Britain",
+                "2:07.26",
+                "-"
+            ],
+            [
+                "5",
+                "3",
+                "Meagen Nay",
+                "Australia",
+                "2:07.43",
+                "-"
+            ],
+            [
+                "6",
+                "7",
+                "Kirsty Coventry",
+                "Zimbabwe",
+                "2:08.18",
+                "-"
+            ],
+            [
+                "7",
+                "2",
+                "Alexianne Castel",
+                "France",
+                "2:08.43",
+                "-"
+            ],
+            [
+                "8",
+                "8",
+                "Sinead Russell",
+                "Canada",
+                "2:09.86",
+                "-"
+            ]
+        ],
+        "id":14
+    },
+
+    {
+        "Question":"What was the total duration, in distance, time, and stages, of the 1984 Tour de France?",
+        "Ground Truth":"The 1984 Tour de France runs over 4,021 km (2,499 mi) in 23 stages from 29 June to 22 July.",
+        "Prediction_1":"the 1984 tour de france consisted of 21 stages covering a total of 3,740 km (2,080 mi).",
+        "Prediction_2":"the 1984 tour de france started in montreuil on 29 june with a 5 km (3.1 mi) individual time trial and concluded in bordeaux on 18 july with a 338 km (210 mi) stage race.",
+        "Prediction_3":"The total distance of the 1984 Tour de France was 4,021 kilometers (2,499 miles). ",
+        "Table Column":[
+            "Stage",
+            "Date",
+            "Course",
+            "Distance",
+            "Type",
+            "Type",
+            "Winner"
+        ],
+        "Table Rows":[
+            [
+                "P",
+                "29 June",
+                "Montreuil to Noisy-le-Sec",
+                "5 km (3.1 mi)",
+                "-",
+                "Individual time trial",
+                "Bernard Hinault (FRA)"
+            ],
+            [
+                "1",
+                "30 June",
+                "Bondy to Saint-Denis",
+                "149 km (93 mi)",
+                "-",
+                "Plain stage",
+                "Frank Hoste (BEL)"
+            ],
+            [
+                "2",
+                "1 July",
+                "Bobigny to Louvroil",
+                "249 km (155 mi)",
+                "-",
+                "Plain stage",
+                "Marc Madiot (FRA)"
+            ],
+            [
+                "3",
+                "2 July",
+                "Louvroil to Valenciennes",
+                "51 km (32 mi)",
+                "-",
+                "Team time trial",
+                "Renault–Elf"
+            ],
+            [
+                "4",
+                "2 July",
+                "Valenciennes to Béthune",
+                "83 km (52 mi)",
+                "-",
+                "Plain stage",
+                "Ferdi Van Den Haute (BEL)"
+            ],
+            [
+                "5",
+                "3 July",
+                "Béthune to Cergy-Pontoise",
+                "207 km (129 mi)",
+                "-",
+                "Plain stage",
+                "Paulo Ferreira (POR)"
+            ],
+            [
+                "6",
+                "4 July",
+                "Cergy-Pontoise to Alençon",
+                "202 km (126 mi)",
+                "-",
+                "Plain stage",
+                "Frank Hoste (BEL)"
+            ],
+            [
+                "7",
+                "5 July",
+                "Alençon to Le Mans",
+                "67 km (42 mi)",
+                "-",
+                "Individual time trial",
+                "Laurent Fignon (FRA)"
+            ],
+            [
+                "8",
+                "6 July",
+                "Le Mans to Nantes",
+                "192 km (119 mi)",
+                "-",
+                "Plain stage",
+                "Pascal Jules (FRA)"
+            ],
+            [
+                "9",
+                "7 July",
+                "Nantes to Bordeaux",
+                "338 km (210 mi)",
+                "-",
+                "Plain stage",
+                "Jan Raas (NED)"
+            ],
+            [
+                "10",
+                "8 July",
+                "Langon to Pau",
+                "198 km (123 mi)",
+                "-",
+                "Plain stage",
+                "Eric Vanderaerden (BEL)"
+            ],
+            [
+                "11",
+                "9 July",
+                "Pau to Guzet-Neige",
+                "227 km (141 mi)",
+                "-",
+                "Stage with mountain(s)",
+                "Robert Millar (GBR)"
+            ],
+            [
+                "12",
+                "10 July",
+                "Saint-Girons to Blagnac",
+                "111 km (69 mi)",
+                "-",
+                "Plain stage",
+                "Pascal Poisson (FRA)"
+            ],
+            [
+                "13",
+                "11 July",
+                "Blagnac to Rodez",
+                "220 km (140 mi)",
+                "-",
+                "Plain stage",
+                "Pierre-Henri Menthéour (FRA)"
+            ],
+            [
+                "14",
+                "12 July",
+                "Rodez to Domaine du Rouret",
+                "228 km (142 mi)",
+                "-",
+                "Hilly stage",
+                "Fons De Wolf (BEL)"
+            ],
+            [
+                "15",
+                "13 July",
+                "Domaine du Rouret to Grenoble",
+                "241 km (150 mi)",
+                "-",
+                "Hilly stage",
+                "Frédéric Vichot (FRA)"
+            ],
+            [
+                "-",
+                "14 July",
+                "Grenoble",
+                "Grenoble",
+                "-",
+                "Rest day",
+                "Rest day"
+            ],
+            [
+                "16",
+                "15 July",
+                "Les Échelles to La Ruchère",
+                "22 km (14 mi)",
+                "-",
+                "Individual time trial",
+                "Laurent Fignon (FRA)"
+            ],
+            [
+                "17",
+                "16 July",
+                "Grenoble to Alpe d'Huez",
+                "151 km (94 mi)",
+                "-",
+                "Stage with mountain(s)",
+                "Luis Herrera (COL)"
+            ],
+            [
+                "18",
+                "17 July",
+                "Le Bourg-d'Oisans to La Plagne",
+                "185 km (115 mi)",
+                "-",
+                "Stage with mountain(s)",
+                "Laurent Fignon (FRA)"
+            ],
+            [
+                "19",
+                "18 July",
+                "La Plagne to Morzine",
+                "186 km (116 mi)",
+                "-",
+                "Stage with mountain(s)",
+                "Ángel Arroyo (ESP)"
+            ],
+            [
+                "20",
+                "19 July",
+                "Morzine to Crans-Montana (Switzerland)",
+                "141 km (88 mi)",
+                "-",
+                "Stage with mountain(s)",
+                "Laurent Fignon (FRA)"
+            ],
+            [
+                "21",
+                "20 July",
+                "Crans-Montana (Switzerland) to Villefranche-sur-Saône",
+                "320 km (200 mi)",
+                "-",
+                "Hilly stage",
+                "Frank Hoste (BEL)"
+            ],
+            [
+                "22",
+                "21 July",
+                "Villié-Morgon to Villefranche-sur-Saône",
+                "51 km (32 mi)",
+                "-",
+                "Individual time trial",
+                "Laurent Fignon (FRA)"
+            ],
+            [
+                "23",
+                "22 July",
+                "Pantin to Paris (Champs-Élysées)",
+                "197 km (122 mi)",
+                "-",
+                "Hilly stage",
+                "Eric Vanderaerden (BEL)"
+            ],
+            [
+                "-",
+                "Total",
+                "Total",
+                "4,021 km (2,499 mi)",
+                "4,021 km (2,499 mi)",
+                "4,021 km (2,499 mi)",
+                "4,021 km (2,499 mi)"
+            ]
+        ],
+        "id":15
+    },
+
+    {
+        "Question":"What awards did Harry Nilsson win?",
+        "Ground Truth":"Harry Nilsson won Best Contemporary Vocal Performance, Male in 1970 for \"Everybody's Talkin'\" and Best Pop Vocal Performance in 1973 for \"Without You\".",
+        "Prediction_1":"harry nilsson won best contemporary vocal performance, male for \"everybody's talkin'\" in 1970 and best male pop vocal performance for \"without you\" in 1973.",
+        "Prediction_2":"harry nilsson won the awards for best contemporary vocal performance, male in 1970 for \"everybody's talkin'\" and best male pop vocal performance in 1973 for \"without you\".",
+        "Prediction_3":"Harry Nilsson won the following awards:  - Best Contemporary Vocal Performance, Male for \"Everybody's Talkin'\" in 1970 - Best Male Pop Vocal Performance for \"Without You\" in 1973 ",
+        "Table Column":[
+            "Year",
+            "Nominee / work",
+            "Award",
+            "Result"
+        ],
+        "Table Rows":[
+            [
+                "1970",
+                "\"Everybody's Talkin'\"",
+                "Best Contemporary Vocal Performance, Male",
+                "Won"
+            ],
+            [
+                "1973",
+                "\"Without You\"",
+                "Best Male Pop Vocal Performance",
+                "Won"
+            ],
+            [
+                "1973",
+                "\"Without You\"",
+                "Record of the Year",
+                "Nominated"
+            ],
+            [
+                "1973",
+                "Nilsson Schmilsson",
+                "Album of the Year",
+                "Nominated"
+            ],
+            [
+                "1973",
+                "Nilsson Schmilsson",
+                "Best Engineered Album, Non-Classical",
+                "Nominated"
+            ]
+        ],
+        "id":16
+    },
+
+    {
+        "Question":"How did the Liberal Party do on the Two-party-preferred result?",
+        "Ground Truth":"In Strathfield, the Liberal Party gained a swing of 2.28% on a two-party preferred basis.",
+        "Prediction_1":"the two-party-preferred result was a victory for the liberal party, with maccarthy receiving 17,462 votes (58.24%) and timbrell receiving 10,484 votes (33.68%).",
+        "Prediction_2":"the two-party-preferred result was a victory for the liberal party, which held the strathfield seat with a swing of 2.28 percentage points.",
+        "Prediction_3":"The Liberal Party performed well on the Two-party-preferred result, receiving 58.24% of the votes, which was an increase of 2.28%. ",
+        "Table Column":[
+            "Party",
+            "Party",
+            "Candidate",
+            "Votes",
+            "%",
+            "±"
+        ],
+        "Table Rows":[
+            [
+                "-",
+                "Liberal",
+                "Bruce MacCarthy",
+                "15,772",
+                "50.66",
+                "2.79"
+            ],
+            [
+                "-",
+                "Labor",
+                "Jane Timbrell",
+                "10,484",
+                "33.68",
+                "6.67"
+            ],
+            [
+                "-",
+                "Democrats",
+                "Amelia Newman",
+                "1,793",
+                "5.76",
+                "+0.80"
+            ],
+            [
+                "-",
+                "Call to Australia",
+                "Janne Peterson",
+                "1,460",
+                "4.69",
+                "-"
+            ],
+            [
+                "-",
+                "Greens",
+                "Damien Maher",
+                "1,323",
+                "4.25",
+                "-"
+            ],
+            [
+                "-",
+                "Independent",
+                "Richard Hill",
+                "298",
+                "0.96",
+                "-"
+            ],
+            [
+                "Informal votes",
+                "Informal votes",
+                "Informal votes",
+                "744",
+                "2.33",
+                "3.21"
+            ],
+            [
+                "Turnout",
+                "Turnout",
+                "Turnout",
+                "31,874",
+                "83.53",
+                "9.88"
+            ],
+            [
+                "Two-party-preferred result",
+                "Two-party-preferred result",
+                "Two-party-preferred result",
+                "Two-party-preferred result",
+                "Two-party-preferred result",
+                "Two-party-preferred result"
+            ],
+            [
+                "-",
+                "Liberal",
+                "Bruce MacCarthy",
+                "17,462",
+                "58.24",
+                "+2.28"
+            ],
+            [
+                "-",
+                "Labor",
+                "Jane Timbrell",
+                "12,522",
+                "41.76",
+                "2.28"
+            ],
+            [
+                "-",
+                "Liberal hold",
+                "Liberal hold",
+                "Swing",
+                "+2.28",
+                "-"
+            ]
+        ],
+        "id":17
+    },
+
+    {
+        "Question":"What year did Amyra Dastur act in Raju Gadu and also make her debut with Manasuku Nachindi?",
+        "Ground Truth":"In 2018 Amyra Dastur made her debut with Manasuku Nachindi and also acted in Raju Gadu.",
+        "Prediction_1":"in 2018, amyra dastur acted in raju gadu and also made her debut with manasuku nachindi.",
+        "Prediction_2":"amyra dastur made her debut with manasuku nachindi in 2018 and acted in raju gadu.",
+        "Prediction_3":"Amyra Dastur acted in Raju Gadu and made her debut with Manasuku Nachindi in the year 2018. ",
+        "Table Column":[
+            "Year",
+            "Film",
+            "Role",
+            "Language",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "2013",
+                "Issaq",
+                "Bachchi Kashyap (Juliet)",
+                "Hindi",
+                "-"
+            ],
+            [
+                "2015",
+                "Anegan",
+                "Madhumitha / Samudhra / Kalyani",
+                "Tamil",
+                "Nominated SIIMA Award for Best Debut Actress — Tamil"
+            ],
+            [
+                "2015",
+                "Mr. X",
+                "Siya Verma",
+                "Hindi",
+                "-"
+            ],
+            [
+                "2017",
+                "Kung Fu Yoga",
+                "Kyra",
+                "Mandarin Hindi English",
+                "-"
+            ],
+            [
+                "2018",
+                "Manasuku Nachindi",
+                "Nithya",
+                "Telugu",
+                "-"
+            ],
+            [
+                "2018",
+                "Kaalakaandi",
+                "Neha",
+                "Hindi",
+                "-"
+            ],
+            [
+                "2018",
+                "The Trip (Season 2)",
+                "Ira",
+                "Hindi",
+                "English"
+            ],
+            [
+                "2018",
+                "Raju Gadu",
+                "Tanvi",
+                "Telugu",
+                "-"
+            ],
+            [
+                "2018",
+                "Rajma Chawal",
+                "Seher/Tara Chaudhary",
+                "Hindi",
+                "-"
+            ],
+            [
+                "2019",
+                "Mental Hai Kya",
+                "Tina",
+                "Hindi",
+                "Filming"
+            ],
+            [
+                "2019",
+                "Oodi Oodi Uzhaikanum",
+                "TBA",
+                "Tamil",
+                "Filming"
+            ],
+            [
+                "2019",
+                "Made in China",
+                "TBA",
+                "Hindi",
+                "-"
+            ]
+        ],
+        "id":18
+    },
+
+    {
+        "Question":"How many albums did John S. Hall and King Missle release on Shimmy Disc label, what are they and what year did they release?",
+        "Ground Truth":"John S. Hall and King Missile released two albums on the Shimmy Disc label, 1987's Fluting on the Hump and 1988's They.",
+        "Prediction_1":"john s. hall and king missile (dog fly religion) released two albums on shimmy disc, \"fluting on the hump\" in 1987 and \"they\" in 1988.",
+        "Prediction_2":"john s. hall and king missile (dog fly religion) released two albums on the shimmy disc label, \"fluting on the hump\" in 1987 and \"they\" in 1988.",
+        "Prediction_3":"John S. Hall and King Missile released two albums on the Shimmy Disc label. The albums are \"Fluting on the Hump\" released in 1987 and \"They\" released in 1988. ",
+        "Table Column":[
+            "Album",
+            "Record Label",
+            "Release Year"
+        ],
+        "Table Rows":[
+            [
+                "Fluting on the Hump",
+                "Shimmy Disc",
+                "1987"
+            ],
+            [
+                "They",
+                "Shimmy Disc",
+                "1988"
+            ]
+        ],
+        "id":19
+    },
+
+    {
+        "Question":"Which role did Brooke Lewis reprise?",
+        "Ground Truth":"In 2009, Brooke Lewis was in the TV show, Ms. Vampy, followed by Ms. Vampy's Tween Tawk, Teen Tawk & In Between Tawk in 2011 and Ms. Vampy's Love Bites in 2013.",
+        "Prediction_1":"in 2013, brooke lewis reprised her role as ms. vampy in ms. vampy's love bites.",
+        "Prediction_2":"brooke lewis reprised the role of ms. vampy in the tv show in 2009, followed by ms. vampy's tween tawk, teen tawk & in between tawk in 2011, and ms. vampy's love bites in 2013.",
+        "Prediction_3":"Brooke Lewis reprised the role of Ms. Vampy. ",
+        "Table Column":[
+            "Year",
+            "Title",
+            "Role",
+            "Notes"
+        ],
+        "Table Rows":[
+            [
+                "1998",
+                "One Life To Live",
+                "Nurse #1",
+                "TV Series"
+            ],
+            [
+                "2001",
+                "All About Us",
+                "The Girl",
+                "TV Series"
+            ],
+            [
+                "2004",
+                "Quintuplets",
+                "Gina Grizano",
+                "TV Series"
+            ],
+            [
+                "2006",
+                "Mafiosa",
+                "Mercedes Brazil",
+                "TV Series"
+            ],
+            [
+                "2008",
+                "Scream Queens (2015 TV series)",
+                "Vampires Assistant Amanda",
+                "TV Series"
+            ],
+            [
+                "2009",
+                "Ms. Vampy",
+                "Ms. Vampy",
+                "TV Series"
+            ],
+            [
+                "2009",
+                "Life’s a Butch",
+                "Francine Wilcox",
+                "TV Series"
+            ],
+            [
+                "2011",
+                "Ms. Vampy's Tween Tawk, Teen Tawk & In Between Tawk",
+                "Ms. Vampy",
+                "TV Series"
+            ],
+            [
+                "2013",
+                "Ms. Vampy's Love Bites",
+                "Ms. Vampy",
+                "TV Series"
+            ],
+            [
+                "2015",
+                "Breaking Dating",
+                "Host",
+                "TV Series"
+            ]
+        ],
+        "id":20
+    }
+
+]

@@ -5,9 +5,9 @@ import pandas as pd
 import random
 
 # 个人API Key
-openai.api_key = "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"
+openai.api_key = ""
 # 企业API Key
-openai.organization = "org-IfPzna5SLpzIsCow27fYuPda"
+openai.organization = ""
 
 from tenacity import (
     retry,
